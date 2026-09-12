@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.6873,
+  "roc_auc": 0.7574,
+  "training_rows": 1950,
+  "test_rows": 550,
+  "note": "Metrics are from the included synthetic demo dataset, not a production benchmark."
+}

@@ -1,0 +1,2501 @@
+gender,senior_citizen,partner,dependents,tenure,phone_service,internet_service,monthly_charges,contract,payment_method,total_charges,churn
+Male,1,Yes,Yes,5,Yes,Fiber optic,81.32,Month-to-month,Electronic check,356.84,0
+Female,0,No,No,36,Yes,Fiber optic,71.38,One year,Credit card (automatic),2446.43,1
+Female,1,No,No,41,Yes,DSL,108.84,Month-to-month,Credit card (automatic),4641.58,0
+Male,0,No,Yes,53,Yes,DSL,27.49,Month-to-month,Electronic check,1347.68,0
+Male,0,Yes,Yes,41,Yes,Fiber optic,47.32,Month-to-month,Electronic check,1871.86,0
+Female,0,Yes,No,13,Yes,DSL,106.31,Month-to-month,Bank transfer (automatic),1176.22,0
+Male,0,No,No,26,Yes,DSL,113.82,One year,Mailed check,2469.71,0
+Female,1,No,No,32,Yes,Fiber optic,61.44,Month-to-month,Electronic check,2116.35,1
+Male,0,No,No,71,Yes,Fiber optic,37.65,Two year,Electronic check,2316.32,0
+Male,0,No,No,38,Yes,DSL,60.87,Two year,Electronic check,2098.51,0
+Female,0,Yes,Yes,46,Yes,Fiber optic,64.53,Month-to-month,Mailed check,2823.58,0
+Female,1,Yes,No,53,Yes,No,71.0,Two year,Electronic check,3452.04,0
+Female,1,Yes,Yes,26,Yes,Fiber optic,45.98,Two year,Bank transfer (automatic),1010.55,0
+Female,1,Yes,No,70,Yes,DSL,49.89,Month-to-month,Electronic check,3042.48,1
+Female,0,Yes,Yes,49,Yes,DSL,84.87,Two year,Mailed check,3943.61,0
+Female,1,No,Yes,61,Yes,DSL,81.42,Month-to-month,Mailed check,4639.26,0
+Female,1,Yes,No,54,Yes,Fiber optic,85.53,One year,Electronic check,4745.77,1
+Male,1,Yes,No,45,No,Fiber optic,56.48,Month-to-month,Credit card (automatic),2290.15,1
+Female,0,No,No,2,Yes,DSL,52.32,Two year,Bank transfer (automatic),111.39,0
+Male,1,Yes,No,42,Yes,DSL,53.86,Two year,Credit card (automatic),2021.27,0
+Female,0,Yes,No,9,Yes,DSL,115.02,Two year,Mailed check,938.02,0
+Male,0,No,No,44,No,DSL,58.32,Two year,Mailed check,2737.55,0
+Male,0,Yes,No,51,Yes,No,79.83,Month-to-month,Electronic check,4228.18,1
+Female,0,No,No,39,Yes,DSL,71.33,One year,Mailed check,2510.39,1
+Female,0,No,No,22,Yes,DSL,107.37,Month-to-month,Bank transfer (automatic),2179.72,1
+Female,0,Yes,No,4,Yes,Fiber optic,55.65,Month-to-month,Mailed check,231.28,1
+Male,0,No,No,48,Yes,DSL,62.28,Month-to-month,Electronic check,2518.25,1
+Female,1,No,No,50,Yes,DSL,103.97,Two year,Electronic check,4661.06,0
+Female,0,No,No,34,Yes,Fiber optic,34.42,One year,Electronic check,1121.37,1
+Male,1,No,Yes,52,Yes,DSL,78.62,Month-to-month,Electronic check,4233.43,1
+Male,1,No,Yes,56,Yes,DSL,58.79,Two year,Bank transfer (automatic),3182.94,0
+Male,1,No,No,37,Yes,Fiber optic,118.55,Two year,Credit card (automatic),4155.38,1
+Male,1,No,Yes,3,No,Fiber optic,91.58,Month-to-month,Electronic check,294.01,1
+Female,0,Yes,No,63,Yes,DSL,19.08,Month-to-month,Electronic check,1022.05,0
+Female,1,No,No,34,Yes,No,103.63,One year,Electronic check,3603.81,0
+Male,1,No,Yes,49,Yes,DSL,89.72,One year,Electronic check,3750.15,0
+Female,0,No,No,66,Yes,No,75.22,Month-to-month,Bank transfer (automatic),5016.82,0
+Female,0,Yes,Yes,26,Yes,No,42.09,Month-to-month,Electronic check,1051.88,0
+Male,1,Yes,No,45,Yes,Fiber optic,33.23,Month-to-month,Credit card (automatic),1329.08,1
+Female,0,No,No,1,Yes,DSL,82.1,Month-to-month,Credit card (automatic),78.92,1
+Male,0,No,Yes,64,Yes,No,62.87,Month-to-month,Mailed check,4219.42,0
+Female,1,Yes,Yes,4,Yes,Fiber optic,105.89,Month-to-month,Credit card (automatic),399.32,1
+Female,1,Yes,No,39,Yes,DSL,44.76,Month-to-month,Bank transfer (automatic),1434.41,0
+Male,0,Yes,No,25,Yes,Fiber optic,83.03,One year,Credit card (automatic),1732.66,1
+Male,1,No,Yes,2,Yes,Fiber optic,43.38,Month-to-month,Electronic check,85.41,1
+Female,0,Yes,No,33,Yes,No,82.9,Month-to-month,Credit card (automatic),2725.47,0
+Male,1,No,Yes,68,Yes,Fiber optic,22.93,Month-to-month,Electronic check,1441.46,1
+Female,1,Yes,No,12,Yes,No,57.95,Two year,Mailed check,614.12,0
+Female,0,Yes,Yes,21,Yes,Fiber optic,35.61,Month-to-month,Credit card (automatic),752.41,1
+Female,0,Yes,No,13,Yes,Fiber optic,79.81,Month-to-month,Mailed check,932.82,1
+Female,1,No,Yes,9,Yes,Fiber optic,50.31,Month-to-month,Electronic check,380.0,1
+Male,0,No,No,16,Yes,No,96.7,One year,Electronic check,1433.48,1
+Male,0,No,No,41,Yes,No,29.69,Month-to-month,Electronic check,1168.81,0
+Male,0,No,Yes,56,Yes,No,74.73,Month-to-month,Mailed check,4482.27,0
+Male,1,Yes,No,50,Yes,Fiber optic,78.56,Two year,Mailed check,3825.78,0
+Male,0,No,Yes,56,Yes,Fiber optic,20.25,One year,Mailed check,991.3,0
+Female,1,Yes,No,52,Yes,DSL,21.67,Month-to-month,Credit card (automatic),1167.82,0
+Male,1,Yes,No,27,Yes,No,49.44,Month-to-month,Electronic check,1195.77,1
+Female,0,Yes,No,65,No,DSL,80.13,Two year,Credit card (automatic),5569.98,0
+Female,1,Yes,Yes,12,Yes,DSL,116.19,Two year,Bank transfer (automatic),1261.24,0
+Female,1,No,Yes,51,Yes,Fiber optic,27.26,One year,Bank transfer (automatic),1468.77,1
+Female,0,No,Yes,8,No,Fiber optic,89.72,One year,Bank transfer (automatic),752.59,0
+Male,1,No,No,55,Yes,Fiber optic,88.66,Two year,Credit card (automatic),5093.97,1
+Female,0,No,Yes,6,No,DSL,86.29,Two year,Electronic check,429.85,0
+Male,0,No,No,15,No,DSL,70.65,Month-to-month,Bank transfer (automatic),1103.16,0
+Male,0,Yes,No,28,Yes,DSL,116.62,Two year,Credit card (automatic),3289.97,1
+Female,1,Yes,No,50,Yes,DSL,69.18,One year,Bank transfer (automatic),3137.03,0
+Male,1,Yes,No,3,Yes,DSL,103.51,One year,Electronic check,294.2,1
+Male,0,No,Yes,18,Yes,Fiber optic,44.78,Month-to-month,Bank transfer (automatic),795.06,1
+Male,1,No,No,24,Yes,DSL,100.24,Month-to-month,Credit card (automatic),2562.9,0
+Female,1,Yes,Yes,53,Yes,Fiber optic,119.65,Two year,Electronic check,6486.17,0
+Male,1,No,No,70,Yes,DSL,110.83,One year,Bank transfer (automatic),7225.97,0
+Male,1,No,No,44,Yes,Fiber optic,49.02,Month-to-month,Credit card (automatic),2130.59,1
+Male,0,No,No,37,Yes,No,104.31,One year,Mailed check,3351.28,1
+Female,1,No,No,24,Yes,DSL,27.72,Month-to-month,Electronic check,618.86,0
+Male,0,No,Yes,60,Yes,DSL,87.13,Month-to-month,Mailed check,5362.35,0
+Male,0,No,No,7,Yes,Fiber optic,52.9,One year,Bank transfer (automatic),362.05,0
+Male,0,No,Yes,9,No,DSL,85.18,One year,Mailed check,784.75,0
+Female,1,Yes,No,14,Yes,No,60.05,Month-to-month,Bank transfer (automatic),800.81,1
+Female,1,No,No,19,No,No,18.92,Month-to-month,Mailed check,330.3,1
+Female,0,Yes,Yes,33,Yes,Fiber optic,41.59,Month-to-month,Credit card (automatic),1390.4,1
+Male,0,No,No,69,Yes,No,22.32,One year,Credit card (automatic),1300.41,0
+Male,0,Yes,No,47,Yes,Fiber optic,61.58,Two year,Credit card (automatic),3109.7,0
+Female,1,Yes,Yes,27,Yes,Fiber optic,103.69,One year,Mailed check,2986.02,1
+Female,0,Yes,No,15,Yes,DSL,93.28,One year,Electronic check,1467.62,0
+Female,1,Yes,No,47,Yes,DSL,98.47,Month-to-month,Bank transfer (automatic),4859.09,0
+Male,0,Yes,No,18,Yes,DSL,100.33,Month-to-month,Electronic check,1720.83,1
+Male,0,Yes,No,71,Yes,Fiber optic,55.94,Two year,Mailed check,3771.03,0
+Female,1,Yes,No,34,Yes,Fiber optic,69.61,Month-to-month,Electronic check,2445.37,1
+Female,0,Yes,Yes,40,Yes,DSL,69.86,Month-to-month,Mailed check,2497.21,1
+Male,0,No,No,65,Yes,Fiber optic,29.55,Month-to-month,Bank transfer (automatic),1999.46,0
+Female,0,No,No,22,Yes,DSL,79.01,One year,Mailed check,1516.13,0
+Female,1,No,No,34,Yes,DSL,91.46,Month-to-month,Mailed check,3260.67,1
+Male,0,Yes,No,38,Yes,DSL,80.32,Month-to-month,Electronic check,2932.16,0
+Female,0,Yes,No,19,Yes,Fiber optic,94.09,One year,Electronic check,1857.85,1
+Male,0,No,No,3,Yes,Fiber optic,30.13,Month-to-month,Mailed check,85.71,1
+Male,1,Yes,No,20,Yes,Fiber optic,95.66,Month-to-month,Credit card (automatic),1871.48,1
+Female,1,Yes,No,8,Yes,DSL,39.23,Two year,Credit card (automatic),332.97,1
+Female,1,No,No,49,Yes,Fiber optic,107.44,Two year,Credit card (automatic),4889.38,0
+Male,0,No,No,0,No,No,42.98,Month-to-month,Electronic check,37.71,1
+Female,1,Yes,No,23,Yes,DSL,68.18,Month-to-month,Electronic check,1322.97,1
+Male,0,No,Yes,64,Yes,Fiber optic,67.7,Month-to-month,Mailed check,4217.52,0
+Female,1,Yes,Yes,41,Yes,DSL,45.42,Month-to-month,Bank transfer (automatic),1822.89,0
+Male,1,No,No,49,Yes,DSL,54.89,Two year,Bank transfer (automatic),2639.54,0
+Female,1,Yes,No,48,Yes,Fiber optic,36.93,One year,Bank transfer (automatic),1470.69,1
+Female,1,Yes,No,21,Yes,DSL,76.15,Month-to-month,Mailed check,1322.7,1
+Female,1,No,Yes,46,Yes,Fiber optic,111.13,One year,Mailed check,5381.94,0
+Female,0,Yes,Yes,16,No,No,50.29,Month-to-month,Credit card (automatic),805.31,0
+Male,1,No,No,46,Yes,DSL,69.82,Month-to-month,Electronic check,2728.24,0
+Female,1,Yes,No,49,Yes,DSL,105.91,Two year,Credit card (automatic),4356.17,0
+Male,1,No,Yes,63,Yes,No,64.15,Month-to-month,Bank transfer (automatic),3484.06,1
+Female,1,No,No,67,Yes,Fiber optic,102.79,Month-to-month,Electronic check,7092.15,1
+Female,0,No,No,1,Yes,No,63.53,Two year,Credit card (automatic),64.04,0
+Male,1,No,No,21,Yes,DSL,62.9,Month-to-month,Credit card (automatic),1302.47,0
+Female,0,Yes,Yes,39,Yes,Fiber optic,34.04,Month-to-month,Bank transfer (automatic),1309.78,0
+Female,1,No,No,23,Yes,No,30.75,Month-to-month,Electronic check,737.88,0
+Male,1,Yes,No,45,Yes,DSL,80.37,Month-to-month,Electronic check,3279.21,0
+Male,0,No,No,62,Yes,No,102.39,Month-to-month,Bank transfer (automatic),5737.36,1
+Male,1,No,Yes,18,Yes,Fiber optic,31.81,Month-to-month,Electronic check,532.85,1
+Male,1,No,No,65,Yes,No,110.83,Month-to-month,Electronic check,7760.93,0
+Male,1,No,No,64,Yes,DSL,54.61,Month-to-month,Mailed check,3370.18,0
+Female,0,No,No,66,Yes,Fiber optic,61.38,One year,Electronic check,3897.93,0
+Female,0,Yes,No,5,Yes,DSL,109.23,Two year,Bank transfer (automatic),562.8,0
+Male,1,No,No,21,Yes,No,109.42,One year,Mailed check,1990.59,1
+Female,1,No,No,9,Yes,DSL,71.54,One year,Electronic check,595.83,1
+Female,1,Yes,Yes,8,Yes,DSL,46.23,Two year,Mailed check,364.94,0
+Male,1,No,No,3,Yes,No,35.54,Month-to-month,Electronic check,114.82,0
+Female,0,Yes,Yes,32,Yes,DSL,45.7,Month-to-month,Electronic check,1257.9,0
+Female,1,Yes,No,6,Yes,Fiber optic,97.62,Month-to-month,Mailed check,549.13,1
+Female,0,Yes,No,21,Yes,DSL,51.11,Month-to-month,Mailed check,1132.83,0
+Female,1,Yes,Yes,71,Yes,Fiber optic,88.85,Two year,Electronic check,6362.84,0
+Female,1,No,Yes,64,No,DSL,37.91,Month-to-month,Bank transfer (automatic),2376.7,1
+Male,1,No,Yes,68,Yes,Fiber optic,66.81,Two year,Mailed check,4029.02,0
+Female,1,No,No,2,Yes,Fiber optic,53.91,Month-to-month,Bank transfer (automatic),93.66,1
+Female,0,No,No,48,Yes,DSL,69.37,Month-to-month,Mailed check,3054.37,0
+Male,0,Yes,No,46,Yes,DSL,76.13,Month-to-month,Bank transfer (automatic),3103.9,0
+Female,0,Yes,Yes,9,Yes,DSL,119.08,Month-to-month,Bank transfer (automatic),1104.09,0
+Male,1,Yes,Yes,66,Yes,Fiber optic,109.79,Month-to-month,Electronic check,7299.64,1
+Male,0,No,Yes,29,Yes,DSL,88.98,One year,Bank transfer (automatic),2676.29,0
+Male,1,Yes,No,71,Yes,DSL,33.68,Month-to-month,Bank transfer (automatic),2067.22,1
+Female,0,No,No,8,Yes,DSL,111.74,Two year,Electronic check,805.06,0
+Male,0,No,No,47,Yes,Fiber optic,109.04,Two year,Bank transfer (automatic),5226.47,0
+Male,0,No,No,9,Yes,Fiber optic,108.44,Month-to-month,Credit card (automatic),841.79,1
+Male,0,No,No,69,Yes,Fiber optic,66.86,Two year,Electronic check,3957.59,0
+Female,0,Yes,No,44,Yes,No,35.41,Month-to-month,Credit card (automatic),1432.77,0
+Female,0,No,No,5,Yes,Fiber optic,94.95,Month-to-month,Mailed check,412.31,1
+Male,1,No,No,15,Yes,No,57.63,Month-to-month,Bank transfer (automatic),726.58,0
+Male,1,No,No,26,Yes,Fiber optic,53.15,One year,Credit card (automatic),1245.54,0
+Female,1,No,No,0,Yes,DSL,57.86,Month-to-month,Credit card (automatic),60.62,1
+Male,0,No,Yes,0,Yes,No,75.03,One year,Bank transfer (automatic),62.63,1
+Female,1,No,No,67,Yes,Fiber optic,52.02,Two year,Bank transfer (automatic),3370.98,1
+Male,1,Yes,Yes,71,No,Fiber optic,88.37,Month-to-month,Electronic check,6063.34,1
+Female,1,No,No,39,Yes,DSL,84.07,Two year,Electronic check,3141.08,0
+Male,0,No,Yes,65,Yes,DSL,69.9,One year,Credit card (automatic),4322.83,0
+Male,1,Yes,Yes,47,No,Fiber optic,23.51,Month-to-month,Mailed check,911.03,0
+Female,1,No,Yes,2,Yes,Fiber optic,113.53,Month-to-month,Credit card (automatic),188.99,1
+Male,0,Yes,No,52,Yes,Fiber optic,59.99,Month-to-month,Electronic check,2972.6,0
+Female,0,No,No,1,Yes,Fiber optic,63.84,Month-to-month,Electronic check,68.42,1
+Female,1,Yes,No,59,Yes,Fiber optic,64.52,One year,Electronic check,3525.27,1
+Female,0,Yes,No,26,Yes,DSL,55.23,Month-to-month,Mailed check,1353.85,0
+Female,0,No,No,10,Yes,DSL,86.81,Month-to-month,Electronic check,933.5,0
+Female,1,Yes,No,18,Yes,DSL,19.42,One year,Mailed check,357.45,0
+Male,0,Yes,Yes,49,Yes,No,107.1,One year,Credit card (automatic),5354.06,0
+Male,0,Yes,No,61,Yes,Fiber optic,28.45,Two year,Credit card (automatic),1650.81,0
+Male,0,No,No,41,Yes,No,119.97,Month-to-month,Bank transfer (automatic),5181.71,1
+Female,1,No,No,11,Yes,Fiber optic,82.06,One year,Electronic check,876.58,0
+Male,0,No,No,65,Yes,Fiber optic,24.76,Month-to-month,Mailed check,1594.5,1
+Male,1,Yes,No,57,Yes,Fiber optic,75.37,One year,Bank transfer (automatic),4402.48,0
+Male,0,No,Yes,29,Yes,No,51.79,Month-to-month,Electronic check,1390.34,1
+Male,1,Yes,No,40,Yes,No,115.21,Month-to-month,Mailed check,4921.08,0
+Male,1,No,No,70,Yes,Fiber optic,95.06,Two year,Credit card (automatic),7165.79,1
+Male,1,Yes,No,27,Yes,DSL,69.72,One year,Electronic check,1830.97,0
+Female,1,Yes,No,1,Yes,Fiber optic,61.84,One year,Credit card (automatic),54.28,1
+Female,0,Yes,Yes,10,Yes,DSL,119.58,Month-to-month,Electronic check,1221.48,1
+Female,1,No,Yes,43,Yes,DSL,86.07,One year,Electronic check,3344.81,0
+Male,1,No,Yes,72,Yes,Fiber optic,70.42,Month-to-month,Electronic check,4918.37,1
+Female,1,Yes,Yes,54,Yes,No,58.59,Month-to-month,Credit card (automatic),2665.69,0
+Male,1,No,Yes,45,No,DSL,51.11,Month-to-month,Bank transfer (automatic),2368.77,0
+Female,1,No,No,23,Yes,DSL,89.95,Month-to-month,Bank transfer (automatic),2212.35,0
+Female,0,Yes,No,32,Yes,No,77.96,Month-to-month,Mailed check,2106.79,0
+Female,0,No,No,2,Yes,DSL,104.51,One year,Credit card (automatic),211.16,0
+Male,0,No,No,27,Yes,DSL,74.46,Month-to-month,Bank transfer (automatic),2098.51,0
+Male,0,Yes,Yes,45,Yes,Fiber optic,77.4,Two year,Bank transfer (automatic),2955.23,0
+Female,1,No,No,66,No,No,66.69,Two year,Bank transfer (automatic),3891.7,0
+Male,1,Yes,Yes,67,Yes,Fiber optic,95.79,Month-to-month,Bank transfer (automatic),5916.6,1
+Male,0,No,No,59,No,Fiber optic,60.33,One year,Bank transfer (automatic),3693.16,0
+Male,0,Yes,Yes,1,Yes,DSL,104.9,Month-to-month,Electronic check,99.48,1
+Male,1,No,No,59,Yes,DSL,51.36,Two year,Credit card (automatic),2592.71,0
+Male,1,Yes,No,15,Yes,Fiber optic,88.65,Month-to-month,Electronic check,1179.03,1
+Male,1,No,No,44,No,No,109.08,Month-to-month,Credit card (automatic),4518.84,1
+Female,1,No,No,69,Yes,DSL,96.45,Month-to-month,Mailed check,5525.08,0
+Female,1,Yes,No,64,Yes,DSL,52.95,Two year,Electronic check,3334.78,0
+Female,1,No,Yes,48,Yes,DSL,90.05,Month-to-month,Electronic check,3572.83,1
+Male,0,No,No,21,Yes,DSL,39.11,Two year,Bank transfer (automatic),840.22,0
+Female,1,No,No,38,Yes,DSL,23.93,Month-to-month,Mailed check,919.16,0
+Male,0,Yes,No,51,Yes,DSL,98.72,One year,Credit card (automatic),5261.35,1
+Male,0,No,No,37,Yes,Fiber optic,100.42,Month-to-month,Bank transfer (automatic),3199.1,1
+Male,0,Yes,No,29,Yes,DSL,20.34,Month-to-month,Electronic check,576.1,0
+Male,0,Yes,No,29,Yes,Fiber optic,114.68,Month-to-month,Mailed check,3402.43,1
+Female,0,No,No,43,Yes,Fiber optic,63.48,Month-to-month,Bank transfer (automatic),2604.34,0
+Male,1,No,Yes,2,Yes,No,110.34,One year,Credit card (automatic),188.46,1
+Female,1,No,Yes,72,Yes,No,98.39,One year,Mailed check,5991.15,1
+Male,0,Yes,Yes,7,Yes,Fiber optic,109.87,Month-to-month,Credit card (automatic),751.81,1
+Female,1,No,No,71,No,DSL,103.0,Month-to-month,Electronic check,6942.8,0
+Male,0,No,Yes,2,Yes,Fiber optic,117.35,Month-to-month,Bank transfer (automatic),249.18,1
+Male,0,Yes,Yes,37,Yes,DSL,82.17,One year,Bank transfer (automatic),3152.17,0
+Female,1,No,Yes,30,Yes,DSL,41.18,One year,Mailed check,1245.5,0
+Female,0,Yes,No,41,Yes,DSL,57.74,Two year,Electronic check,2545.89,0
+Male,1,Yes,Yes,31,Yes,No,94.69,Two year,Bank transfer (automatic),2937.15,0
+Female,1,No,Yes,65,Yes,DSL,34.01,Month-to-month,Mailed check,1865.82,1
+Male,0,No,No,1,Yes,Fiber optic,112.84,Month-to-month,Electronic check,94.8,1
+Female,0,Yes,Yes,71,Yes,Fiber optic,38.94,Two year,Electronic check,2853.56,0
+Female,1,Yes,No,50,Yes,Fiber optic,107.35,Month-to-month,Bank transfer (automatic),4904.73,0
+Male,1,Yes,No,56,Yes,DSL,67.34,Month-to-month,Electronic check,3998.49,0
+Female,1,No,No,10,Yes,No,103.74,Month-to-month,Mailed check,882.56,1
+Male,0,Yes,No,4,Yes,Fiber optic,115.75,One year,Credit card (automatic),403.59,0
+Male,0,No,No,28,Yes,Fiber optic,61.06,One year,Bank transfer (automatic),1745.62,0
+Male,1,No,Yes,23,Yes,Fiber optic,89.05,Two year,Mailed check,2130.78,0
+Male,1,Yes,Yes,57,No,No,41.13,Month-to-month,Mailed check,2451.01,0
+Female,0,No,Yes,65,Yes,Fiber optic,99.68,Month-to-month,Electronic check,5479.95,1
+Male,1,No,Yes,31,Yes,Fiber optic,101.63,Month-to-month,Mailed check,2896.18,0
+Male,1,No,No,56,Yes,DSL,48.12,One year,Electronic check,2662.55,0
+Female,0,Yes,Yes,4,Yes,DSL,20.46,Month-to-month,Electronic check,86.66,1
+Male,0,Yes,Yes,54,Yes,DSL,61.98,Two year,Electronic check,2952.47,0
+Female,1,Yes,No,7,Yes,DSL,35.34,Month-to-month,Bank transfer (automatic),241.46,0
+Male,1,No,No,48,Yes,DSL,101.49,One year,Electronic check,4176.43,1
+Female,0,No,Yes,27,Yes,DSL,44.63,Two year,Electronic check,1222.23,0
+Female,0,Yes,Yes,30,No,No,114.26,Month-to-month,Credit card (automatic),2924.45,1
+Female,1,Yes,Yes,20,Yes,Fiber optic,117.12,One year,Electronic check,2529.78,1
+Male,0,No,Yes,29,Yes,No,110.7,Month-to-month,Bank transfer (automatic),2709.46,0
+Male,1,Yes,No,63,Yes,Fiber optic,79.16,Two year,Mailed check,4978.04,0
+Female,1,Yes,No,59,Yes,Fiber optic,45.28,Two year,Bank transfer (automatic),2730.37,0
+Male,1,No,No,24,Yes,DSL,100.34,One year,Electronic check,2136.22,1
+Female,0,Yes,No,21,Yes,Fiber optic,89.56,Month-to-month,Electronic check,1666.83,0
+Male,0,Yes,No,37,Yes,DSL,117.67,Two year,Credit card (automatic),4244.94,0
+Female,0,Yes,No,49,Yes,Fiber optic,56.48,Two year,Mailed check,2723.03,0
+Female,1,Yes,Yes,13,Yes,No,23.99,One year,Electronic check,314.16,0
+Male,0,No,Yes,53,No,No,119.84,Two year,Mailed check,6166.54,0
+Male,0,No,No,69,Yes,DSL,103.5,Month-to-month,Mailed check,6179.98,0
+Female,0,No,No,61,Yes,Fiber optic,40.59,Month-to-month,Electronic check,2625.24,0
+Male,0,Yes,Yes,40,Yes,DSL,92.01,Month-to-month,Mailed check,3177.36,0
+Female,0,No,Yes,23,Yes,DSL,18.07,Month-to-month,Mailed check,401.88,0
+Male,1,Yes,No,23,Yes,DSL,74.9,Month-to-month,Bank transfer (automatic),1824.69,0
+Female,1,No,Yes,54,Yes,DSL,55.01,One year,Credit card (automatic),3140.97,0
+Female,0,Yes,No,33,Yes,Fiber optic,56.9,Month-to-month,Mailed check,1621.69,0
+Male,0,No,No,7,No,Fiber optic,42.94,Month-to-month,Credit card (automatic),265.12,1
+Female,0,Yes,No,49,Yes,DSL,46.03,One year,Mailed check,2202.42,0
+Male,1,Yes,Yes,10,Yes,No,64.38,One year,Mailed check,584.35,0
+Female,0,No,Yes,72,No,Fiber optic,43.31,Two year,Bank transfer (automatic),3149.6,0
+Male,1,Yes,No,30,Yes,Fiber optic,65.58,Month-to-month,Bank transfer (automatic),1880.49,1
+Male,0,Yes,No,24,Yes,Fiber optic,76.89,Two year,Electronic check,1640.86,0
+Male,0,No,Yes,4,Yes,Fiber optic,90.53,Month-to-month,Credit card (automatic),335.64,1
+Male,1,No,Yes,12,Yes,Fiber optic,87.07,Month-to-month,Credit card (automatic),1044.51,1
+Male,1,Yes,No,69,Yes,Fiber optic,42.68,One year,Electronic check,3016.0,1
+Female,1,No,No,39,Yes,No,22.0,Month-to-month,Mailed check,786.0,0
+Male,1,No,No,65,Yes,DSL,102.93,One year,Bank transfer (automatic),5668.79,0
+Female,1,No,No,69,Yes,Fiber optic,106.98,Month-to-month,Credit card (automatic),6730.95,1
+Male,1,No,No,3,Yes,DSL,117.85,Month-to-month,Bank transfer (automatic),347.87,0
+Male,0,No,No,27,Yes,No,115.89,Month-to-month,Electronic check,3183.96,1
+Female,0,No,Yes,61,Yes,DSL,82.65,Month-to-month,Bank transfer (automatic),5287.24,0
+Female,0,No,No,36,Yes,DSL,109.22,Month-to-month,Electronic check,4207.57,0
+Male,0,No,No,37,Yes,No,63.7,Month-to-month,Bank transfer (automatic),2257.05,0
+Male,0,Yes,Yes,41,Yes,Fiber optic,98.31,Month-to-month,Bank transfer (automatic),4227.63,0
+Female,0,Yes,No,51,Yes,DSL,115.44,One year,Bank transfer (automatic),5228.87,0
+Female,0,Yes,No,68,No,DSL,99.22,Month-to-month,Electronic check,6514.25,0
+Female,1,No,Yes,64,Yes,Fiber optic,60.41,One year,Mailed check,3712.52,0
+Male,0,Yes,No,45,Yes,No,56.53,One year,Bank transfer (automatic),2594.37,0
+Male,1,No,No,42,Yes,Fiber optic,47.74,Month-to-month,Electronic check,2047.21,1
+Female,0,No,No,26,Yes,DSL,55.44,Month-to-month,Electronic check,1288.92,1
+Female,1,No,No,8,Yes,Fiber optic,101.7,One year,Electronic check,854.54,1
+Male,1,Yes,No,51,Yes,Fiber optic,89.55,Two year,Credit card (automatic),4803.57,0
+Male,0,No,No,0,No,DSL,43.49,Month-to-month,Mailed check,46.38,1
+Male,0,No,No,50,No,No,90.58,Two year,Bank transfer (automatic),4252.67,0
+Female,1,Yes,No,36,Yes,DSL,56.7,Month-to-month,Mailed check,2197.82,1
+Male,1,No,No,57,Yes,No,74.89,Month-to-month,Credit card (automatic),4371.51,0
+Male,0,Yes,No,69,Yes,Fiber optic,55.78,Month-to-month,Mailed check,3809.67,1
+Male,1,No,No,40,Yes,DSL,71.21,Month-to-month,Electronic check,2655.81,1
+Female,1,No,No,41,Yes,Fiber optic,92.44,Month-to-month,Electronic check,3937.97,1
+Male,0,Yes,Yes,35,Yes,Fiber optic,92.58,Month-to-month,Electronic check,3300.82,1
+Male,0,Yes,No,27,Yes,Fiber optic,94.82,Month-to-month,Credit card (automatic),2489.08,1
+Male,0,Yes,No,6,Yes,Fiber optic,57.89,One year,Bank transfer (automatic),374.87,0
+Male,1,Yes,No,2,No,DSL,88.43,Month-to-month,Bank transfer (automatic),156.5,1
+Female,1,No,No,52,Yes,DSL,42.35,Two year,Bank transfer (automatic),2173.25,0
+Male,1,Yes,No,66,Yes,Fiber optic,66.7,Two year,Credit card (automatic),3977.36,0
+Male,1,Yes,Yes,3,Yes,DSL,77.48,Month-to-month,Credit card (automatic),218.27,1
+Female,0,No,Yes,23,Yes,DSL,88.02,Month-to-month,Bank transfer (automatic),1838.46,1
+Male,0,No,No,44,No,Fiber optic,111.02,Month-to-month,Electronic check,4430.51,1
+Female,0,No,No,51,Yes,DSL,49.09,Two year,Electronic check,2298.23,0
+Female,0,No,No,53,Yes,Fiber optic,104.22,Month-to-month,Bank transfer (automatic),4610.8,0
+Male,1,Yes,No,50,Yes,No,49.73,Month-to-month,Bank transfer (automatic),2064.7,1
+Female,1,No,No,6,Yes,No,74.29,Two year,Mailed check,449.52,0
+Male,0,Yes,No,18,Yes,DSL,102.47,Month-to-month,Electronic check,1661.56,1
+Female,1,No,No,34,Yes,Fiber optic,91.76,Month-to-month,Bank transfer (automatic),2575.48,1
+Male,1,No,No,4,Yes,No,106.01,Two year,Mailed check,356.7,1
+Female,0,No,No,25,Yes,Fiber optic,101.12,Two year,Electronic check,2201.69,0
+Female,1,No,No,28,Yes,Fiber optic,46.19,Month-to-month,Credit card (automatic),1076.73,1
+Female,1,No,No,71,Yes,Fiber optic,119.28,Month-to-month,Bank transfer (automatic),9027.81,0
+Male,1,Yes,Yes,23,Yes,DSL,113.57,Month-to-month,Electronic check,2527.93,1
+Male,1,No,Yes,70,No,DSL,61.88,Month-to-month,Electronic check,3995.67,1
+Male,0,No,Yes,51,Yes,Fiber optic,22.82,Month-to-month,Bank transfer (automatic),1115.53,1
+Male,1,No,No,50,Yes,DSL,48.96,Month-to-month,Mailed check,2079.17,1
+Female,0,No,No,59,Yes,No,103.29,One year,Electronic check,6109.22,0
+Male,1,Yes,No,61,No,Fiber optic,114.99,One year,Bank transfer (automatic),7520.08,0
+Female,0,No,No,16,Yes,DSL,102.83,Two year,Bank transfer (automatic),1405.02,0
+Female,0,Yes,Yes,30,Yes,Fiber optic,58.47,Two year,Electronic check,1507.96,0
+Male,1,Yes,No,38,No,Fiber optic,23.77,Month-to-month,Mailed check,888.31,1
+Male,0,Yes,No,71,Yes,DSL,70.79,Month-to-month,Bank transfer (automatic),4319.93,1
+Female,0,No,Yes,2,No,No,56.39,Month-to-month,Electronic check,96.18,1
+Male,1,Yes,Yes,34,Yes,Fiber optic,30.54,Month-to-month,Electronic check,1032.47,1
+Male,0,Yes,Yes,15,Yes,Fiber optic,28.8,Month-to-month,Electronic check,423.73,0
+Female,1,Yes,No,15,Yes,No,33.61,One year,Mailed check,441.94,1
+Female,0,No,Yes,55,No,Fiber optic,38.99,Month-to-month,Credit card (automatic),2217.42,0
+Male,0,No,No,14,Yes,Fiber optic,94.89,Month-to-month,Mailed check,1125.69,1
+Male,1,Yes,No,57,Yes,DSL,56.93,Month-to-month,Credit card (automatic),2941.5,1
+Male,0,Yes,No,72,Yes,DSL,62.57,Two year,Mailed check,4559.58,0
+Female,0,No,No,56,Yes,Fiber optic,79.03,One year,Bank transfer (automatic),4335.46,0
+Female,1,Yes,Yes,12,Yes,Fiber optic,115.93,Month-to-month,Mailed check,1357.8,1
+Female,1,No,No,10,Yes,Fiber optic,95.16,Month-to-month,Bank transfer (automatic),950.11,1
+Female,0,Yes,No,31,Yes,Fiber optic,83.86,Two year,Credit card (automatic),2568.67,1
+Female,1,No,No,40,Yes,Fiber optic,93.87,Month-to-month,Mailed check,3932.44,0
+Male,1,Yes,Yes,56,Yes,No,91.37,One year,Mailed check,4952.37,0
+Male,1,No,No,30,Yes,No,88.41,One year,Credit card (automatic),2451.61,0
+Female,0,Yes,No,12,Yes,DSL,68.63,One year,Credit card (automatic),839.36,0
+Female,1,No,Yes,72,Yes,No,75.82,Month-to-month,Credit card (automatic),4844.36,0
+Female,1,No,Yes,66,Yes,No,65.07,Two year,Electronic check,4369.75,1
+Male,1,No,Yes,47,Yes,DSL,58.29,Month-to-month,Electronic check,2445.93,0
+Male,0,Yes,No,50,Yes,DSL,45.62,Month-to-month,Mailed check,2155.31,0
+Male,1,Yes,No,68,Yes,DSL,54.23,Month-to-month,Bank transfer (automatic),3732.59,1
+Male,1,No,No,34,Yes,Fiber optic,61.71,Month-to-month,Electronic check,2062.87,1
+Female,0,No,No,10,Yes,Fiber optic,77.1,Month-to-month,Mailed check,649.4,1
+Female,1,Yes,No,44,Yes,Fiber optic,68.99,One year,Bank transfer (automatic),2841.6,0
+Male,1,Yes,No,32,Yes,Fiber optic,29.01,Two year,Electronic check,957.17,0
+Male,0,Yes,Yes,58,Yes,DSL,52.68,Month-to-month,Bank transfer (automatic),3297.31,0
+Female,1,No,Yes,56,Yes,Fiber optic,56.37,Two year,Electronic check,2971.63,1
+Male,0,No,No,34,Yes,No,90.11,Two year,Credit card (automatic),2580.71,0
+Female,1,No,No,26,Yes,No,51.95,Month-to-month,Mailed check,1236.17,0
+Female,1,No,No,30,Yes,Fiber optic,18.81,One year,Bank transfer (automatic),534.61,1
+Male,1,Yes,No,46,Yes,DSL,26.6,Two year,Mailed check,1026.71,0
+Male,0,Yes,No,46,Yes,DSL,68.69,One year,Electronic check,3301.0,1
+Female,1,Yes,Yes,37,Yes,DSL,37.23,Month-to-month,Mailed check,1322.53,1
+Female,0,No,No,38,Yes,Fiber optic,68.45,Two year,Credit card (automatic),2414.32,0
+Male,1,Yes,Yes,72,Yes,DSL,76.57,One year,Mailed check,5090.01,0
+Female,1,Yes,No,18,Yes,No,113.21,Month-to-month,Electronic check,1685.98,1
+Female,0,Yes,No,12,Yes,Fiber optic,84.87,Month-to-month,Bank transfer (automatic),972.52,1
+Female,0,Yes,Yes,58,Yes,Fiber optic,21.17,Month-to-month,Electronic check,1158.67,1
+Male,0,No,Yes,68,Yes,DSL,56.83,Month-to-month,Mailed check,3516.37,0
+Female,1,Yes,No,44,Yes,Fiber optic,98.93,Month-to-month,Mailed check,4314.86,0
+Female,0,Yes,No,29,Yes,Fiber optic,44.58,Month-to-month,Mailed check,1198.27,1
+Male,0,No,No,25,Yes,Fiber optic,112.35,Two year,Electronic check,2720.72,0
+Male,0,Yes,Yes,34,No,DSL,71.96,One year,Electronic check,2569.24,0
+Female,0,Yes,No,3,Yes,No,27.43,Month-to-month,Electronic check,75.26,1
+Male,0,Yes,No,38,Yes,DSL,42.65,Month-to-month,Mailed check,1496.65,0
+Male,0,No,No,19,Yes,DSL,110.44,Month-to-month,Bank transfer (automatic),2193.07,0
+Male,0,Yes,No,19,Yes,No,119.13,Month-to-month,Bank transfer (automatic),2066.78,1
+Female,1,No,No,40,Yes,DSL,106.03,One year,Electronic check,3962.27,0
+Female,0,No,No,70,Yes,DSL,50.71,Month-to-month,Electronic check,3649.84,0
+Male,1,No,No,15,Yes,Fiber optic,96.42,Two year,Bank transfer (automatic),1408.53,1
+Female,1,Yes,No,66,Yes,Fiber optic,40.67,Month-to-month,Mailed check,2852.82,1
+Male,1,No,No,37,Yes,DSL,57.22,Month-to-month,Credit card (automatic),1995.13,0
+Female,0,Yes,No,71,Yes,DSL,89.11,Two year,Electronic check,5975.97,1
+Female,0,Yes,No,27,No,DSL,116.83,Month-to-month,Electronic check,2621.82,1
+Female,1,No,Yes,72,Yes,Fiber optic,62.8,Month-to-month,Mailed check,3939.66,1
+Male,1,Yes,Yes,48,Yes,DSL,68.58,Month-to-month,Bank transfer (automatic),3161.48,0
+Female,1,Yes,No,48,Yes,Fiber optic,40.46,One year,Mailed check,1686.99,1
+Male,0,Yes,No,41,Yes,No,59.13,Month-to-month,Electronic check,2273.86,1
+Female,0,Yes,No,32,Yes,DSL,24.43,Two year,Electronic check,698.63,0
+Male,0,Yes,No,38,Yes,DSL,105.58,One year,Bank transfer (automatic),3311.58,1
+Male,0,No,No,62,Yes,DSL,20.38,Two year,Electronic check,1192.2,0
+Male,1,No,No,57,Yes,DSL,87.72,One year,Bank transfer (automatic),4940.19,0
+Female,0,Yes,No,1,Yes,DSL,45.87,One year,Electronic check,41.65,0
+Male,0,No,Yes,50,Yes,Fiber optic,66.56,One year,Electronic check,3400.87,1
+Female,1,Yes,No,60,No,DSL,46.72,Month-to-month,Electronic check,2405.07,1
+Male,1,Yes,Yes,54,Yes,Fiber optic,58.81,One year,Credit card (automatic),2679.49,1
+Male,0,Yes,No,36,Yes,Fiber optic,73.77,One year,Electronic check,2823.19,0
+Female,0,Yes,No,24,Yes,No,83.37,Month-to-month,Electronic check,2120.19,0
+Male,1,Yes,No,49,No,DSL,113.91,One year,Credit card (automatic),5166.89,0
+Female,1,Yes,Yes,48,Yes,DSL,51.88,Month-to-month,Electronic check,2313.89,1
+Female,1,Yes,No,27,Yes,No,77.66,Month-to-month,Electronic check,2183.35,1
+Male,1,No,Yes,29,Yes,DSL,109.98,Month-to-month,Electronic check,3055.26,1
+Male,1,Yes,No,26,Yes,Fiber optic,47.6,Month-to-month,Bank transfer (automatic),1052.52,1
+Male,0,Yes,Yes,3,Yes,Fiber optic,106.24,Month-to-month,Mailed check,270.87,0
+Female,0,Yes,No,2,Yes,Fiber optic,115.67,Month-to-month,Credit card (automatic),197.59,1
+Female,1,No,No,6,Yes,DSL,104.44,Month-to-month,Bank transfer (automatic),641.05,0
+Male,0,Yes,Yes,30,Yes,DSL,76.13,Month-to-month,Mailed check,2230.21,1
+Male,0,No,Yes,37,Yes,Fiber optic,91.66,One year,Electronic check,3045.29,0
+Male,0,Yes,No,29,Yes,Fiber optic,67.07,Month-to-month,Credit card (automatic),1676.89,1
+Male,1,Yes,Yes,69,Yes,Fiber optic,78.92,Two year,Credit card (automatic),4640.1,1
+Female,0,No,Yes,16,Yes,Fiber optic,117.4,Two year,Credit card (automatic),1902.37,0
+Female,0,Yes,No,28,Yes,No,43.61,Month-to-month,Electronic check,1282.53,1
+Male,0,Yes,No,18,Yes,No,98.84,Month-to-month,Bank transfer (automatic),1704.54,0
+Female,0,Yes,No,21,Yes,Fiber optic,69.64,Month-to-month,Bank transfer (automatic),1493.01,0
+Male,1,No,No,42,No,DSL,36.04,Month-to-month,Credit card (automatic),1352.64,0
+Male,0,No,No,22,Yes,Fiber optic,83.64,Month-to-month,Electronic check,1789.06,0
+Female,1,No,No,23,Yes,Fiber optic,98.83,One year,Bank transfer (automatic),2122.82,1
+Female,0,No,No,48,Yes,Fiber optic,76.01,One year,Bank transfer (automatic),3074.94,0
+Female,1,Yes,No,60,Yes,DSL,103.42,Month-to-month,Credit card (automatic),5874.56,0
+Male,1,No,No,15,Yes,Fiber optic,55.32,One year,Bank transfer (automatic),863.13,1
+Male,1,Yes,No,8,Yes,DSL,111.2,Month-to-month,Credit card (automatic),741.45,1
+Male,1,No,No,17,Yes,DSL,84.13,Two year,Mailed check,1350.19,0
+Male,0,Yes,Yes,42,Yes,No,99.92,Two year,Electronic check,4394.09,0
+Female,1,Yes,No,70,Yes,Fiber optic,45.84,Month-to-month,Mailed check,3290.36,1
+Female,1,No,Yes,11,Yes,Fiber optic,63.51,One year,Credit card (automatic),662.49,1
+Male,1,Yes,No,3,Yes,Fiber optic,110.78,Two year,Electronic check,287.32,0
+Female,1,No,Yes,38,No,Fiber optic,23.19,Month-to-month,Bank transfer (automatic),917.01,0
+Male,1,Yes,No,72,Yes,DSL,59.21,Month-to-month,Credit card (automatic),3665.49,0
+Female,1,No,No,40,No,Fiber optic,97.59,One year,Credit card (automatic),3481.91,1
+Male,1,No,No,67,Yes,DSL,93.87,Month-to-month,Bank transfer (automatic),5360.43,0
+Male,1,Yes,Yes,46,Yes,Fiber optic,104.87,Month-to-month,Credit card (automatic),4531.41,1
+Female,0,No,Yes,2,Yes,DSL,93.42,One year,Electronic check,183.77,1
+Male,0,No,No,31,Yes,No,114.6,Month-to-month,Mailed check,3677.12,0
+Male,0,No,Yes,56,Yes,Fiber optic,68.82,Month-to-month,Mailed check,3622.48,1
+Male,0,Yes,No,37,Yes,Fiber optic,81.68,Two year,Bank transfer (automatic),3240.93,0
+Male,0,No,No,14,Yes,DSL,104.47,Month-to-month,Electronic check,1425.9,1
+Male,0,No,Yes,13,Yes,Fiber optic,89.57,Month-to-month,Electronic check,1137.8,1
+Male,0,Yes,No,48,Yes,Fiber optic,28.41,One year,Bank transfer (automatic),1180.37,0
+Female,0,Yes,No,33,Yes,Fiber optic,55.43,Month-to-month,Mailed check,1590.35,1
+Female,1,Yes,Yes,41,Yes,Fiber optic,74.36,One year,Credit card (automatic),2957.06,0
+Male,1,No,No,27,Yes,No,94.98,One year,Mailed check,2583.51,0
+Male,1,Yes,Yes,24,Yes,Fiber optic,73.44,Month-to-month,Credit card (automatic),1539.11,1
+Female,0,No,No,48,Yes,Fiber optic,97.31,Month-to-month,Mailed check,4417.93,0
+Female,0,No,No,0,Yes,Fiber optic,103.44,Two year,Bank transfer (automatic),94.4,0
+Female,1,Yes,No,31,Yes,Fiber optic,45.04,Two year,Bank transfer (automatic),1304.2,0
+Female,0,Yes,No,27,Yes,Fiber optic,80.84,Month-to-month,Electronic check,1915.86,1
+Female,1,No,Yes,56,Yes,Fiber optic,74.83,Month-to-month,Electronic check,3589.51,1
+Male,0,Yes,No,53,No,DSL,41.19,Month-to-month,Credit card (automatic),1972.03,1
+Male,0,No,No,31,No,DSL,67.97,Two year,Electronic check,2203.82,0
+Female,1,No,No,19,Yes,DSL,73.95,Two year,Bank transfer (automatic),1446.3,0
+Female,0,No,No,17,Yes,No,101.37,Month-to-month,Electronic check,1458.64,1
+Male,0,Yes,No,15,Yes,Fiber optic,65.02,Two year,Bank transfer (automatic),822.01,0
+Female,1,No,No,19,Yes,Fiber optic,26.25,Month-to-month,Electronic check,472.9,1
+Male,0,No,No,55,Yes,Fiber optic,67.7,Month-to-month,Bank transfer (automatic),3321.81,0
+Female,1,Yes,No,3,Yes,Fiber optic,103.47,One year,Mailed check,320.99,1
+Female,0,No,No,1,Yes,No,76.27,Month-to-month,Electronic check,72.18,1
+Male,0,No,No,39,No,No,50.52,One year,Mailed check,2052.45,0
+Male,1,No,No,16,Yes,No,111.94,Month-to-month,Credit card (automatic),1519.04,1
+Male,0,Yes,Yes,60,No,No,33.88,One year,Bank transfer (automatic),2179.61,0
+Female,1,Yes,No,54,Yes,DSL,51.34,Two year,Credit card (automatic),2826.27,0
+Female,1,Yes,Yes,56,Yes,DSL,62.59,Month-to-month,Bank transfer (automatic),3541.1,0
+Male,1,Yes,No,33,Yes,Fiber optic,93.27,Month-to-month,Bank transfer (automatic),3276.3,0
+Male,0,Yes,Yes,31,Yes,Fiber optic,103.25,One year,Mailed check,3016.0,1
+Female,1,No,Yes,31,Yes,DSL,23.97,Month-to-month,Credit card (automatic),638.08,0
+Male,1,Yes,No,14,Yes,Fiber optic,98.79,One year,Mailed check,1312.79,1
+Male,1,No,No,41,Yes,DSL,91.49,One year,Mailed check,3870.97,0
+Male,0,Yes,No,63,Yes,DSL,109.25,Month-to-month,Credit card (automatic),7182.02,0
+Female,1,Yes,No,18,Yes,DSL,109.85,Two year,Credit card (automatic),1872.55,0
+Female,0,Yes,Yes,4,Yes,No,97.31,Month-to-month,Mailed check,393.29,1
+Male,1,Yes,No,41,Yes,Fiber optic,37.4,Month-to-month,Electronic check,1355.84,0
+Female,0,No,No,29,Yes,Fiber optic,50.01,Month-to-month,Bank transfer (automatic),1276.17,0
+Female,1,No,No,58,Yes,No,113.5,One year,Bank transfer (automatic),6401.49,1
+Male,1,No,No,62,Yes,No,79.01,Two year,Mailed check,4554.03,0
+Female,0,Yes,Yes,69,Yes,Fiber optic,72.95,Month-to-month,Bank transfer (automatic),4338.28,0
+Female,1,No,No,28,No,Fiber optic,111.4,Month-to-month,Mailed check,3175.2,1
+Male,1,Yes,No,65,Yes,DSL,107.17,Month-to-month,Electronic check,6675.97,1
+Male,0,No,Yes,8,Yes,Fiber optic,92.2,One year,Bank transfer (automatic),704.63,1
+Female,0,No,No,27,Yes,DSL,107.99,Month-to-month,Mailed check,2534.41,1
+Female,1,Yes,No,19,Yes,Fiber optic,29.61,Month-to-month,Bank transfer (automatic),496.6,0
+Male,0,Yes,Yes,67,Yes,Fiber optic,95.27,Month-to-month,Electronic check,6383.75,1
+Female,0,Yes,No,43,Yes,DSL,116.5,Month-to-month,Credit card (automatic),5217.37,0
+Female,1,Yes,Yes,26,Yes,Fiber optic,23.0,One year,Electronic check,517.91,1
+Male,0,No,Yes,11,Yes,Fiber optic,40.75,Month-to-month,Credit card (automatic),462.24,1
+Female,1,No,No,57,No,Fiber optic,98.98,Month-to-month,Bank transfer (automatic),5782.37,1
+Male,0,No,Yes,47,Yes,DSL,71.04,Month-to-month,Electronic check,3445.31,0
+Female,1,Yes,Yes,62,Yes,DSL,26.84,Month-to-month,Credit card (automatic),1616.24,0
+Male,0,No,No,31,Yes,Fiber optic,45.33,Month-to-month,Mailed check,1280.84,1
+Male,1,Yes,Yes,10,Yes,No,51.05,Month-to-month,Mailed check,520.95,0
+Female,1,No,No,24,Yes,No,50.75,Month-to-month,Credit card (automatic),1150.75,1
+Male,0,Yes,No,45,No,DSL,107.52,Month-to-month,Credit card (automatic),4246.59,0
+Female,0,Yes,Yes,17,No,Fiber optic,85.53,Month-to-month,Bank transfer (automatic),1344.41,1
+Male,1,No,No,5,Yes,Fiber optic,92.96,One year,Credit card (automatic),436.45,1
+Female,1,Yes,Yes,60,Yes,No,19.38,Month-to-month,Electronic check,1106.28,0
+Female,1,Yes,No,38,No,DSL,61.61,Month-to-month,Electronic check,2466.12,1
+Female,0,No,Yes,28,Yes,Fiber optic,50.42,One year,Electronic check,1308.56,0
+Male,1,Yes,No,40,Yes,Fiber optic,104.9,Month-to-month,Mailed check,3751.44,0
+Male,1,No,Yes,53,Yes,DSL,115.29,Month-to-month,Bank transfer (automatic),6539.38,0
+Female,0,No,No,0,Yes,DSL,61.18,Two year,Electronic check,54.02,0
+Female,0,No,Yes,32,Yes,DSL,117.25,Month-to-month,Bank transfer (automatic),3087.48,0
+Female,0,No,Yes,18,No,Fiber optic,19.46,Two year,Electronic check,364.63,0
+Male,1,No,No,6,Yes,Fiber optic,51.22,Month-to-month,Mailed check,328.27,1
+Female,0,No,No,2,Yes,Fiber optic,97.04,Two year,Bank transfer (automatic),193.57,1
+Male,0,No,No,32,Yes,DSL,54.73,Two year,Electronic check,1621.74,0
+Male,1,No,Yes,39,Yes,No,111.94,Month-to-month,Bank transfer (automatic),4197.04,1
+Female,0,Yes,Yes,37,Yes,Fiber optic,40.28,Month-to-month,Bank transfer (automatic),1544.49,0
+Male,1,Yes,No,57,Yes,No,99.16,One year,Mailed check,5935.79,0
+Female,1,No,No,33,No,DSL,38.57,Month-to-month,Credit card (automatic),1077.63,0
+Male,1,Yes,No,43,Yes,No,38.1,Month-to-month,Credit card (automatic),1713.14,0
+Male,1,Yes,No,59,Yes,No,63.47,Two year,Electronic check,3671.75,0
+Male,1,Yes,No,47,Yes,No,114.38,One year,Bank transfer (automatic),4453.32,0
+Female,1,No,Yes,66,Yes,No,77.72,Two year,Electronic check,4350.89,0
+Female,1,Yes,No,16,Yes,Fiber optic,82.77,Two year,Mailed check,1101.62,0
+Female,0,No,No,57,No,Fiber optic,18.99,Two year,Bank transfer (automatic),1154.55,0
+Female,0,No,No,50,Yes,Fiber optic,23.77,One year,Bank transfer (automatic),1106.37,0
+Female,1,No,No,42,Yes,Fiber optic,24.83,One year,Credit card (automatic),1049.18,1
+Female,0,Yes,Yes,0,Yes,No,101.6,Two year,Bank transfer (automatic),83.36,0
+Female,1,No,No,39,Yes,DSL,42.16,One year,Bank transfer (automatic),1687.36,1
+Male,1,No,No,62,Yes,Fiber optic,51.54,Month-to-month,Bank transfer (automatic),3020.78,1
+Male,1,Yes,Yes,47,Yes,No,80.22,One year,Electronic check,3997.08,0
+Male,0,No,No,0,Yes,DSL,77.56,Month-to-month,Electronic check,74.1,1
+Male,0,Yes,No,21,Yes,DSL,59.87,Two year,Mailed check,1288.81,0
+Female,0,No,Yes,41,Yes,DSL,18.44,One year,Bank transfer (automatic),743.69,0
+Male,1,Yes,Yes,59,Yes,Fiber optic,63.86,One year,Electronic check,3599.47,1
+Male,1,No,Yes,32,Yes,No,93.37,Month-to-month,Mailed check,3186.66,1
+Female,1,No,No,62,Yes,DSL,41.99,Month-to-month,Electronic check,2470.23,0
+Female,1,Yes,Yes,58,Yes,Fiber optic,90.25,Month-to-month,Mailed check,5506.8,1
+Female,1,No,No,19,Yes,Fiber optic,19.55,One year,Mailed check,308.07,0
+Male,1,Yes,No,14,Yes,Fiber optic,110.62,One year,Electronic check,1534.63,1
+Male,0,No,No,65,Yes,Fiber optic,114.9,Month-to-month,Electronic check,7894.44,1
+Female,1,No,Yes,43,Yes,No,18.25,Month-to-month,Electronic check,826.98,1
+Male,0,Yes,No,61,No,DSL,64.7,Month-to-month,Mailed check,3734.03,0
+Male,1,Yes,No,67,Yes,DSL,60.21,Month-to-month,Credit card (automatic),3803.1,1
+Male,1,No,No,30,Yes,Fiber optic,103.87,Two year,Electronic check,3211.87,1
+Female,0,Yes,Yes,3,No,Fiber optic,73.15,Two year,Mailed check,199.06,0
+Female,1,No,No,66,Yes,Fiber optic,80.36,One year,Mailed check,5641.41,0
+Female,0,No,No,42,Yes,DSL,38.66,Month-to-month,Bank transfer (automatic),1437.28,0
+Female,1,No,No,8,Yes,DSL,25.86,Month-to-month,Electronic check,173.64,1
+Female,0,Yes,Yes,38,Yes,No,88.62,Two year,Electronic check,3437.27,0
+Male,0,No,No,2,Yes,DSL,81.31,Two year,Credit card (automatic),150.46,0
+Female,1,No,Yes,21,Yes,Fiber optic,102.9,Month-to-month,Credit card (automatic),1971.83,1
+Male,0,Yes,Yes,25,Yes,Fiber optic,104.16,One year,Mailed check,2352.55,0
+Male,1,Yes,Yes,33,No,DSL,82.37,Month-to-month,Bank transfer (automatic),2921.84,0
+Female,1,Yes,No,41,Yes,DSL,72.91,Month-to-month,Electronic check,2895.55,0
+Male,0,Yes,No,61,Yes,Fiber optic,111.23,Two year,Electronic check,7313.57,0
+Male,0,No,Yes,25,Yes,Fiber optic,99.73,Two year,Electronic check,2267.19,1
+Male,0,Yes,No,53,No,DSL,108.01,Two year,Bank transfer (automatic),5310.26,0
+Female,0,No,No,68,Yes,Fiber optic,119.58,Month-to-month,Electronic check,7115.48,1
+Male,0,Yes,Yes,54,Yes,DSL,59.16,Month-to-month,Electronic check,2977.07,0
+Male,1,Yes,No,18,Yes,DSL,91.13,Two year,Electronic check,1371.52,0
+Female,0,Yes,No,49,Yes,DSL,88.18,One year,Electronic check,3543.7,0
+Male,1,No,Yes,20,Yes,DSL,35.76,Month-to-month,Mailed check,670.71,0
+Female,0,No,No,34,Yes,Fiber optic,82.93,Month-to-month,Mailed check,2859.0,0
+Female,1,Yes,No,46,No,No,61.67,Month-to-month,Bank transfer (automatic),2648.56,1
+Female,1,No,No,21,No,DSL,63.96,One year,Mailed check,1282.29,1
+Male,0,Yes,No,0,No,Fiber optic,36.37,Two year,Mailed check,34.04,0
+Male,1,Yes,No,61,Yes,Fiber optic,93.96,Month-to-month,Bank transfer (automatic),5484.93,0
+Male,0,Yes,No,53,Yes,Fiber optic,89.19,Month-to-month,Electronic check,4829.44,1
+Female,0,No,No,8,Yes,Fiber optic,72.29,Month-to-month,Electronic check,595.08,1
+Male,1,No,No,27,Yes,DSL,33.99,One year,Credit card (automatic),952.51,0
+Male,1,No,Yes,19,Yes,Fiber optic,74.8,Month-to-month,Bank transfer (automatic),1243.88,1
+Male,0,Yes,No,71,Yes,DSL,28.21,Month-to-month,Mailed check,1880.81,0
+Female,0,Yes,No,68,Yes,Fiber optic,52.62,One year,Electronic check,3707.19,0
+Male,0,No,Yes,50,Yes,DSL,55.98,Month-to-month,Electronic check,2980.62,1
+Female,0,Yes,No,32,Yes,Fiber optic,108.11,One year,Electronic check,3325.21,1
+Male,0,No,No,3,Yes,Fiber optic,60.39,One year,Credit card (automatic),171.78,1
+Male,0,No,No,18,Yes,Fiber optic,79.04,Month-to-month,Bank transfer (automatic),1449.46,1
+Male,1,Yes,No,6,Yes,DSL,107.23,One year,Electronic check,693.46,1
+Female,0,No,No,57,Yes,Fiber optic,61.43,One year,Electronic check,3259.0,0
+Male,1,No,Yes,6,Yes,Fiber optic,108.14,One year,Electronic check,559.9,1
+Male,1,Yes,No,49,Yes,Fiber optic,31.92,One year,Electronic check,1621.83,0
+Female,1,No,No,69,No,DSL,55.21,Month-to-month,Mailed check,3827.43,0
+Female,0,No,No,22,Yes,DSL,27.66,Month-to-month,Mailed check,521.94,1
+Female,1,Yes,No,49,Yes,DSL,75.21,Month-to-month,Credit card (automatic),3331.92,0
+Female,1,No,Yes,64,Yes,Fiber optic,115.64,Month-to-month,Bank transfer (automatic),7133.33,0
+Male,0,Yes,Yes,31,Yes,Fiber optic,85.01,Month-to-month,Credit card (automatic),2662.14,1
+Female,1,No,No,32,Yes,Fiber optic,81.86,Month-to-month,Credit card (automatic),2679.69,1
+Male,0,No,Yes,14,Yes,Fiber optic,46.37,One year,Credit card (automatic),558.61,1
+Female,1,No,No,31,Yes,Fiber optic,112.97,Month-to-month,Credit card (automatic),3069.06,1
+Female,0,No,No,63,Yes,Fiber optic,66.1,Two year,Electronic check,4220.4,0
+Female,1,No,No,48,Yes,Fiber optic,45.23,One year,Electronic check,1845.79,1
+Female,0,Yes,No,14,No,Fiber optic,118.75,Month-to-month,Electronic check,1578.58,0
+Female,0,Yes,No,38,Yes,DSL,61.16,One year,Bank transfer (automatic),2235.67,0
+Female,0,Yes,Yes,51,Yes,No,55.89,Month-to-month,Bank transfer (automatic),2588.82,0
+Female,0,No,No,5,Yes,No,21.57,Two year,Electronic check,110.77,0
+Male,0,Yes,No,55,Yes,Fiber optic,36.19,Two year,Credit card (automatic),1660.85,0
+Male,0,Yes,Yes,14,Yes,No,100.54,Two year,Bank transfer (automatic),1438.72,0
+Male,0,No,Yes,21,Yes,No,67.23,One year,Bank transfer (automatic),1394.84,0
+Female,1,Yes,No,30,Yes,Fiber optic,115.4,Two year,Mailed check,3295.4,0
+Male,1,Yes,Yes,36,No,Fiber optic,26.56,One year,Electronic check,1000.92,0
+Male,1,Yes,No,66,Yes,Fiber optic,80.83,Two year,Mailed check,4655.04,0
+Male,1,Yes,Yes,16,Yes,DSL,91.44,Month-to-month,Electronic check,1504.3,1
+Female,0,No,Yes,18,Yes,DSL,81.36,Two year,Bank transfer (automatic),1272.37,0
+Female,0,Yes,No,27,Yes,Fiber optic,72.05,One year,Electronic check,2096.15,1
+Female,0,Yes,Yes,62,Yes,Fiber optic,76.99,Month-to-month,Electronic check,3954.84,1
+Male,0,No,Yes,70,Yes,DSL,88.33,Two year,Mailed check,5959.47,0
+Male,0,No,No,33,Yes,Fiber optic,106.05,One year,Bank transfer (automatic),3022.59,0
+Male,1,No,No,50,Yes,Fiber optic,52.31,Two year,Mailed check,2422.15,0
+Male,1,No,No,66,Yes,Fiber optic,64.88,Month-to-month,Credit card (automatic),3676.02,1
+Male,1,No,Yes,61,Yes,DSL,82.86,One year,Electronic check,4399.37,0
+Female,0,Yes,No,49,Yes,Fiber optic,50.05,One year,Credit card (automatic),2049.89,1
+Female,1,No,No,39,Yes,DSL,36.24,Month-to-month,Electronic check,1161.9,0
+Female,0,No,No,71,Yes,DSL,116.55,One year,Electronic check,8333.14,0
+Male,0,Yes,No,17,Yes,DSL,37.86,One year,Credit card (automatic),603.65,0
+Male,0,Yes,No,26,Yes,DSL,41.74,Month-to-month,Bank transfer (automatic),902.76,1
+Female,1,Yes,No,52,Yes,DSL,81.11,One year,Bank transfer (automatic),4488.21,0
+Male,0,No,No,1,Yes,Fiber optic,25.89,Month-to-month,Bank transfer (automatic),25.71,0
+Male,0,No,No,36,Yes,Fiber optic,21.47,Two year,Mailed check,686.9,0
+Male,0,No,No,62,Yes,DSL,24.53,Two year,Bank transfer (automatic),1420.58,0
+Female,0,Yes,No,12,Yes,No,30.57,Month-to-month,Electronic check,347.47,0
+Female,0,Yes,No,58,Yes,Fiber optic,61.78,Month-to-month,Credit card (automatic),3469.23,1
+Male,0,Yes,Yes,30,Yes,No,102.58,Month-to-month,Credit card (automatic),3209.53,0
+Female,0,No,No,62,Yes,Fiber optic,52.88,Month-to-month,Credit card (automatic),3191.27,0
+Female,0,No,No,46,Yes,DSL,61.61,Two year,Bank transfer (automatic),3045.11,0
+Female,0,No,No,11,Yes,No,79.23,Month-to-month,Bank transfer (automatic),879.35,0
+Female,0,No,No,53,Yes,No,48.82,Month-to-month,Mailed check,2786.73,1
+Male,1,No,No,4,Yes,Fiber optic,62.12,Month-to-month,Mailed check,239.33,0
+Female,0,No,Yes,17,Yes,Fiber optic,57.4,One year,Credit card (automatic),972.28,0
+Male,1,Yes,No,64,Yes,Fiber optic,52.87,Two year,Bank transfer (automatic),3423.79,0
+Female,1,Yes,No,63,Yes,Fiber optic,57.62,Month-to-month,Mailed check,3688.99,1
+Female,0,Yes,No,3,Yes,Fiber optic,19.13,Month-to-month,Bank transfer (automatic),47.42,1
+Female,0,Yes,No,27,Yes,Fiber optic,108.4,Month-to-month,Electronic check,2496.98,0
+Female,0,Yes,No,6,Yes,DSL,117.69,Month-to-month,Credit card (automatic),620.84,1
+Female,0,Yes,No,19,Yes,DSL,105.97,Month-to-month,Credit card (automatic),1793.14,1
+Female,0,No,No,70,Yes,DSL,18.59,One year,Electronic check,1373.39,0
+Female,0,Yes,Yes,14,Yes,DSL,94.59,Month-to-month,Electronic check,1334.69,1
+Female,0,No,No,46,Yes,Fiber optic,76.46,Month-to-month,Bank transfer (automatic),3015.1,0
+Male,0,No,No,58,Yes,No,27.61,One year,Electronic check,1490.65,0
+Female,1,No,No,64,Yes,DSL,113.15,One year,Credit card (automatic),6395.87,0
+Female,0,No,No,25,Yes,DSL,97.17,Month-to-month,Electronic check,2516.13,1
+Male,1,Yes,Yes,50,No,DSL,32.82,Month-to-month,Electronic check,1737.21,0
+Female,0,No,No,35,Yes,Fiber optic,116.33,One year,Electronic check,3512.59,1
+Female,1,Yes,No,7,Yes,Fiber optic,30.87,Month-to-month,Bank transfer (automatic),200.6,0
+Female,0,No,No,16,Yes,Fiber optic,64.38,Two year,Bank transfer (automatic),1099.86,1
+Female,1,Yes,Yes,54,Yes,No,34.22,Two year,Credit card (automatic),1830.96,0
+Male,1,Yes,No,50,Yes,No,33.32,Two year,Credit card (automatic),1742.14,0
+Female,0,No,Yes,38,Yes,No,116.72,Month-to-month,Bank transfer (automatic),4049.49,0
+Male,1,No,No,57,Yes,No,76.36,Month-to-month,Electronic check,3806.38,1
+Female,0,Yes,No,50,Yes,Fiber optic,44.44,Two year,Electronic check,2221.42,0
+Female,0,No,Yes,24,Yes,Fiber optic,97.19,Month-to-month,Credit card (automatic),1996.04,1
+Male,1,Yes,No,21,Yes,Fiber optic,107.27,Month-to-month,Electronic check,2339.12,1
+Male,1,No,No,68,Yes,Fiber optic,111.6,One year,Credit card (automatic),7712.18,0
+Male,0,Yes,No,70,Yes,DSL,113.16,Month-to-month,Credit card (automatic),7123.34,0
+Male,1,Yes,Yes,2,Yes,DSL,110.37,One year,Bank transfer (automatic),209.63,0
+Male,1,Yes,No,57,Yes,DSL,83.17,Two year,Bank transfer (automatic),4872.44,0
+Male,1,Yes,No,9,Yes,Fiber optic,52.93,One year,Credit card (automatic),506.42,1
+Male,0,Yes,No,62,Yes,Fiber optic,112.41,Month-to-month,Bank transfer (automatic),6353.06,1
+Male,1,Yes,No,42,No,DSL,30.49,Two year,Bank transfer (automatic),1313.1,0
+Female,0,Yes,Yes,50,Yes,Fiber optic,35.22,One year,Mailed check,1533.06,0
+Male,1,Yes,No,51,Yes,Fiber optic,62.25,Month-to-month,Mailed check,3349.11,1
+Male,1,No,No,44,No,Fiber optic,46.93,One year,Mailed check,2061.67,1
+Male,1,Yes,No,18,Yes,DSL,80.8,Month-to-month,Credit card (automatic),1250.37,0
+Female,1,No,Yes,58,Yes,DSL,110.34,Month-to-month,Bank transfer (automatic),6478.79,1
+Male,1,No,No,40,Yes,Fiber optic,68.09,One year,Bank transfer (automatic),2746.08,0
+Female,0,Yes,No,39,Yes,Fiber optic,74.49,Month-to-month,Electronic check,2942.87,1
+Male,0,No,Yes,23,Yes,No,61.16,Month-to-month,Credit card (automatic),1279.61,1
+Male,1,Yes,No,0,Yes,Fiber optic,90.17,One year,Mailed check,91.28,1
+Male,0,Yes,Yes,40,No,No,28.27,Month-to-month,Bank transfer (automatic),1170.27,0
+Male,1,No,Yes,25,Yes,DSL,22.96,Month-to-month,Electronic check,522.49,0
+Female,0,No,No,48,Yes,Fiber optic,83.42,Month-to-month,Credit card (automatic),3499.91,1
+Male,1,No,Yes,26,Yes,No,72.56,One year,Bank transfer (automatic),1982.49,0
+Male,0,Yes,No,71,Yes,DSL,59.55,Two year,Mailed check,4149.33,0
+Female,0,No,Yes,49,Yes,Fiber optic,52.07,Month-to-month,Electronic check,2397.58,1
+Female,0,Yes,No,33,Yes,DSL,23.28,One year,Electronic check,805.68,1
+Female,0,Yes,No,51,Yes,Fiber optic,87.42,Month-to-month,Electronic check,3813.56,1
+Female,0,Yes,No,47,Yes,DSL,60.99,Month-to-month,Electronic check,2954.68,1
+Female,0,No,No,45,Yes,Fiber optic,63.42,Month-to-month,Mailed check,2704.39,1
+Male,1,Yes,No,42,Yes,Fiber optic,109.13,Month-to-month,Mailed check,3809.11,0
+Female,1,No,No,68,Yes,DSL,93.23,Month-to-month,Mailed check,6801.67,0
+Male,1,No,Yes,23,Yes,DSL,40.38,One year,Bank transfer (automatic),949.45,0
+Male,1,No,No,31,Yes,DSL,85.03,One year,Mailed check,2308.64,1
+Female,1,No,Yes,18,Yes,DSL,31.49,Two year,Electronic check,600.92,1
+Female,1,No,No,41,Yes,Fiber optic,37.79,Two year,Credit card (automatic),1647.3,0
+Female,0,Yes,Yes,72,Yes,No,90.84,Month-to-month,Mailed check,6724.41,0
+Male,1,Yes,No,44,Yes,DSL,30.84,Month-to-month,Bank transfer (automatic),1157.57,0
+Female,0,No,No,15,Yes,Fiber optic,46.58,Month-to-month,Credit card (automatic),606.79,1
+Male,0,Yes,No,67,Yes,Fiber optic,109.6,Month-to-month,Bank transfer (automatic),7461.05,1
+Female,1,Yes,No,57,Yes,DSL,93.31,Two year,Mailed check,5624.97,0
+Female,0,Yes,Yes,32,Yes,DSL,112.8,Month-to-month,Mailed check,3161.67,1
+Female,1,Yes,Yes,10,Yes,Fiber optic,107.95,Month-to-month,Credit card (automatic),1014.53,1
+Female,1,Yes,No,29,Yes,Fiber optic,49.88,Month-to-month,Credit card (automatic),1244.36,1
+Female,1,Yes,No,58,Yes,No,82.5,Two year,Electronic check,4518.39,0
+Male,1,No,Yes,42,Yes,Fiber optic,56.63,Month-to-month,Bank transfer (automatic),2347.68,0
+Male,1,Yes,No,13,Yes,Fiber optic,89.1,One year,Credit card (automatic),955.39,0
+Male,0,No,No,11,Yes,No,53.54,Month-to-month,Credit card (automatic),581.38,0
+Female,1,No,Yes,70,Yes,No,18.13,Month-to-month,Electronic check,1251.76,1
+Male,0,Yes,No,32,Yes,No,27.58,Month-to-month,Mailed check,828.11,0
+Male,0,No,Yes,50,No,DSL,96.64,One year,Mailed check,5087.15,0
+Female,0,No,Yes,26,Yes,No,26.57,One year,Electronic check,590.69,0
+Female,0,No,No,6,Yes,No,79.14,Month-to-month,Bank transfer (automatic),395.7,0
+Female,1,Yes,Yes,30,Yes,Fiber optic,105.49,Month-to-month,Mailed check,3003.03,0
+Female,0,Yes,No,50,Yes,Fiber optic,93.59,Month-to-month,Electronic check,4485.72,1
+Female,1,Yes,No,24,Yes,No,60.17,Month-to-month,Electronic check,1284.28,1
+Male,1,No,No,44,No,Fiber optic,39.28,Month-to-month,Credit card (automatic),1849.34,0
+Female,1,No,No,31,Yes,Fiber optic,112.1,Month-to-month,Credit card (automatic),3078.83,0
+Female,1,No,No,24,Yes,Fiber optic,75.77,One year,Credit card (automatic),1618.89,0
+Female,0,No,No,18,Yes,Fiber optic,59.35,Two year,Credit card (automatic),1101.26,0
+Male,0,No,No,19,Yes,Fiber optic,114.09,One year,Credit card (automatic),2297.63,0
+Female,1,No,No,18,Yes,DSL,39.93,One year,Mailed check,689.56,0
+Female,1,Yes,No,52,Yes,DSL,63.11,Two year,Electronic check,2707.27,0
+Female,1,No,Yes,24,Yes,Fiber optic,29.08,Two year,Credit card (automatic),636.79,0
+Male,0,Yes,No,54,Yes,Fiber optic,30.74,Month-to-month,Bank transfer (automatic),1457.82,0
+Female,0,Yes,No,22,Yes,Fiber optic,58.66,Month-to-month,Mailed check,1229.69,0
+Female,0,No,No,23,Yes,No,89.37,Month-to-month,Credit card (automatic),2050.31,0
+Female,0,No,No,67,Yes,Fiber optic,52.57,Two year,Electronic check,3247.58,0
+Male,0,Yes,No,63,Yes,Fiber optic,88.34,Month-to-month,Credit card (automatic),5341.21,1
+Female,1,No,Yes,29,Yes,DSL,100.13,Month-to-month,Bank transfer (automatic),2954.77,1
+Female,0,Yes,No,19,Yes,Fiber optic,107.51,Month-to-month,Electronic check,1805.73,1
+Male,1,Yes,No,52,Yes,No,22.56,One year,Credit card (automatic),1021.73,1
+Female,1,Yes,Yes,5,Yes,Fiber optic,96.92,One year,Bank transfer (automatic),498.88,0
+Male,1,No,Yes,33,Yes,No,33.01,One year,Bank transfer (automatic),903.74,0
+Female,0,No,Yes,43,Yes,No,89.22,One year,Bank transfer (automatic),3296.11,1
+Male,0,Yes,No,49,Yes,Fiber optic,55.91,Two year,Electronic check,2255.27,0
+Female,1,Yes,No,7,Yes,Fiber optic,90.19,Month-to-month,Electronic check,608.85,1
+Female,0,Yes,No,0,Yes,Fiber optic,39.81,Two year,Electronic check,38.86,1
+Female,1,Yes,Yes,20,No,Fiber optic,83.79,One year,Electronic check,1605.53,1
+Female,1,No,No,8,Yes,DSL,30.8,Month-to-month,Electronic check,228.59,1
+Female,0,No,No,37,Yes,DSL,35.31,Two year,Mailed check,1251.01,0
+Male,1,No,No,67,Yes,DSL,80.68,Two year,Electronic check,4705.13,0
+Male,0,Yes,Yes,20,Yes,Fiber optic,52.35,Two year,Mailed check,1083.46,0
+Female,0,No,Yes,33,Yes,DSL,89.79,Two year,Electronic check,3185.3,0
+Female,1,Yes,No,15,Yes,Fiber optic,87.89,Month-to-month,Electronic check,1266.36,0
+Male,1,Yes,No,3,Yes,Fiber optic,81.41,Month-to-month,Credit card (automatic),224.04,0
+Male,0,No,Yes,51,Yes,Fiber optic,92.52,Month-to-month,Credit card (automatic),4840.56,0
+Female,1,No,No,18,No,No,98.98,Two year,Credit card (automatic),1550.38,0
+Female,1,No,Yes,39,Yes,Fiber optic,110.97,Two year,Electronic check,3909.77,0
+Male,1,No,Yes,49,Yes,DSL,26.21,Two year,Bank transfer (automatic),1366.99,0
+Male,0,No,No,61,Yes,No,76.3,Two year,Electronic check,4041.96,0
+Male,0,No,No,13,Yes,No,94.38,One year,Mailed check,1041.86,0
+Female,1,Yes,No,42,Yes,Fiber optic,40.13,Month-to-month,Credit card (automatic),1621.5,0
+Male,1,Yes,No,66,Yes,Fiber optic,44.89,Month-to-month,Mailed check,2881.94,0
+Female,1,Yes,No,35,Yes,DSL,45.23,Month-to-month,Credit card (automatic),1543.88,0
+Male,0,Yes,Yes,2,Yes,Fiber optic,76.38,One year,Bank transfer (automatic),131.8,0
+Male,0,Yes,No,19,No,DSL,55.35,Month-to-month,Electronic check,1059.53,0
+Female,1,Yes,No,58,Yes,Fiber optic,85.94,Two year,Electronic check,4401.3,0
+Female,0,No,No,57,Yes,DSL,80.24,One year,Credit card (automatic),4877.86,1
+Female,0,No,No,22,Yes,Fiber optic,85.03,Month-to-month,Mailed check,1644.81,1
+Female,1,No,No,14,Yes,DSL,43.74,Two year,Electronic check,504.89,1
+Female,1,Yes,Yes,21,No,DSL,96.27,One year,Electronic check,1956.25,1
+Female,0,No,Yes,17,Yes,DSL,85.73,One year,Credit card (automatic),1271.94,0
+Female,0,Yes,No,54,Yes,Fiber optic,31.33,Month-to-month,Electronic check,1663.79,1
+Male,0,Yes,No,61,Yes,DSL,38.42,Month-to-month,Credit card (automatic),2061.44,0
+Male,1,Yes,Yes,3,Yes,Fiber optic,48.7,Month-to-month,Bank transfer (automatic),136.06,1
+Female,0,Yes,Yes,54,Yes,DSL,113.48,Month-to-month,Electronic check,5310.91,0
+Male,1,Yes,No,54,Yes,Fiber optic,51.29,One year,Mailed check,2579.91,1
+Female,0,No,Yes,44,Yes,DSL,20.03,Two year,Bank transfer (automatic),753.97,0
+Female,1,No,Yes,63,Yes,No,32.45,Two year,Mailed check,1856.01,0
+Male,1,No,No,2,Yes,DSL,21.28,Month-to-month,Electronic check,37.1,1
+Female,1,Yes,No,51,Yes,DSL,59.09,Two year,Electronic check,3110.59,0
+Male,1,No,No,9,No,DSL,99.31,Month-to-month,Credit card (automatic),902.4,1
+Female,1,No,No,65,Yes,DSL,63.94,Month-to-month,Bank transfer (automatic),3588.26,0
+Male,0,Yes,No,36,Yes,Fiber optic,103.58,One year,Mailed check,3138.06,0
+Male,1,No,No,6,Yes,DSL,22.85,Two year,Electronic check,113.34,0
+Female,1,No,Yes,54,Yes,No,65.91,Two year,Mailed check,3128.25,0
+Female,1,Yes,Yes,54,No,Fiber optic,98.28,Two year,Bank transfer (automatic),5014.41,0
+Male,0,Yes,No,33,Yes,DSL,86.82,Month-to-month,Electronic check,2647.23,1
+Female,1,No,No,22,No,Fiber optic,104.99,Month-to-month,Credit card (automatic),2477.45,1
+Female,0,Yes,No,1,Yes,DSL,45.93,Month-to-month,Credit card (automatic),47.12,1
+Male,1,Yes,Yes,66,Yes,DSL,69.09,One year,Electronic check,3831.85,0
+Female,1,Yes,No,13,Yes,DSL,87.04,Month-to-month,Credit card (automatic),974.6,1
+Female,0,No,No,61,Yes,DSL,35.19,Month-to-month,Bank transfer (automatic),1775.05,0
+Male,1,Yes,No,42,Yes,DSL,101.21,Month-to-month,Bank transfer (automatic),3638.44,0
+Female,1,Yes,No,50,No,No,49.77,One year,Electronic check,2383.11,0
+Female,0,Yes,No,50,No,Fiber optic,27.52,One year,Credit card (automatic),1155.77,1
+Female,0,No,No,62,Yes,No,96.1,Month-to-month,Mailed check,4978.47,0
+Female,0,No,No,2,No,DSL,89.91,Month-to-month,Credit card (automatic),152.98,1
+Female,1,No,No,72,Yes,No,108.14,One year,Electronic check,7739.73,0
+Male,1,Yes,No,3,Yes,Fiber optic,108.99,One year,Electronic check,269.76,1
+Female,1,Yes,No,72,Yes,DSL,46.41,Month-to-month,Credit card (automatic),3582.45,0
+Male,1,No,Yes,19,Yes,No,83.42,Month-to-month,Mailed check,1456.6,0
+Female,1,Yes,Yes,61,Yes,DSL,119.91,Two year,Electronic check,6638.01,0
+Male,0,No,No,6,Yes,Fiber optic,42.87,One year,Credit card (automatic),242.67,1
+Male,0,No,No,33,No,No,66.23,Month-to-month,Electronic check,2086.46,1
+Male,0,Yes,No,39,Yes,Fiber optic,110.84,One year,Credit card (automatic),4016.72,1
+Female,0,No,Yes,69,Yes,Fiber optic,28.51,One year,Credit card (automatic),1861.84,0
+Male,1,No,No,9,Yes,Fiber optic,112.68,Month-to-month,Electronic check,921.16,1
+Male,0,Yes,No,2,Yes,DSL,67.79,Month-to-month,Bank transfer (automatic),122.53,0
+Female,0,No,No,47,Yes,No,109.09,Two year,Credit card (automatic),4240.74,0
+Female,0,Yes,Yes,3,Yes,DSL,81.38,Month-to-month,Credit card (automatic),242.84,1
+Male,0,No,No,56,Yes,DSL,86.49,Month-to-month,Mailed check,4748.95,0
+Female,0,Yes,Yes,2,Yes,DSL,96.84,One year,Bank transfer (automatic),192.5,0
+Male,0,Yes,No,70,Yes,No,24.85,Month-to-month,Bank transfer (automatic),1852.0,1
+Male,1,No,Yes,38,Yes,Fiber optic,82.03,One year,Electronic check,2939.47,0
+Female,0,Yes,Yes,69,Yes,Fiber optic,112.24,Month-to-month,Bank transfer (automatic),8126.06,1
+Male,0,Yes,Yes,9,Yes,No,115.52,Month-to-month,Electronic check,972.54,1
+Female,0,No,No,19,Yes,DSL,116.77,Month-to-month,Electronic check,2094.79,0
+Female,1,Yes,No,33,Yes,No,83.87,Two year,Mailed check,2725.0,0
+Female,1,Yes,No,2,Yes,DSL,82.6,One year,Credit card (automatic),144.74,0
+Male,1,Yes,No,7,Yes,Fiber optic,74.35,Two year,Electronic check,456.18,0
+Female,1,Yes,No,24,No,DSL,79.97,Month-to-month,Electronic check,1828.22,1
+Female,1,Yes,No,53,Yes,No,80.44,One year,Electronic check,3571.97,0
+Male,1,No,No,51,Yes,No,22.33,Month-to-month,Electronic check,1003.91,0
+Male,0,No,No,6,Yes,Fiber optic,27.06,One year,Credit card (automatic),166.63,0
+Male,1,Yes,No,4,Yes,DSL,81.18,Month-to-month,Mailed check,305.42,0
+Female,0,No,No,47,No,DSL,50.05,One year,Electronic check,1945.21,1
+Female,0,No,No,26,Yes,Fiber optic,48.75,Month-to-month,Credit card (automatic),1059.37,1
+Male,1,No,Yes,57,Yes,DSL,37.73,Month-to-month,Electronic check,2277.66,0
+Female,0,No,No,21,Yes,DSL,99.71,One year,Mailed check,2237.86,0
+Female,0,No,Yes,26,Yes,Fiber optic,116.36,Month-to-month,Credit card (automatic),2985.08,0
+Female,1,No,Yes,16,Yes,Fiber optic,82.03,Month-to-month,Bank transfer (automatic),1139.35,1
+Male,0,No,No,19,Yes,No,114.43,Two year,Electronic check,1990.89,0
+Male,0,No,No,51,Yes,Fiber optic,108.16,Month-to-month,Bank transfer (automatic),4961.35,0
+Male,1,Yes,No,34,Yes,DSL,40.23,One year,Bank transfer (automatic),1400.84,0
+Female,1,Yes,Yes,48,Yes,Fiber optic,33.66,Two year,Bank transfer (automatic),1550.48,0
+Female,0,No,No,5,Yes,DSL,39.58,One year,Electronic check,202.39,0
+Female,1,Yes,No,39,Yes,Fiber optic,27.81,Month-to-month,Credit card (automatic),991.03,1
+Male,1,Yes,No,33,No,Fiber optic,77.45,One year,Mailed check,2673.61,0
+Male,0,Yes,No,66,Yes,DSL,46.83,Month-to-month,Bank transfer (automatic),2879.32,0
+Male,0,Yes,Yes,30,No,DSL,111.12,Month-to-month,Credit card (automatic),3095.31,0
+Female,0,No,No,7,Yes,No,80.57,One year,Credit card (automatic),534.19,0
+Male,0,No,No,50,Yes,Fiber optic,54.68,Two year,Bank transfer (automatic),2662.56,0
+Female,0,Yes,No,10,Yes,Fiber optic,118.43,Month-to-month,Electronic check,1246.44,1
+Female,0,Yes,No,66,Yes,Fiber optic,115.23,Month-to-month,Electronic check,7141.39,1
+Male,0,Yes,No,27,Yes,Fiber optic,97.42,One year,Bank transfer (automatic),2792.99,0
+Male,0,Yes,No,57,No,DSL,98.75,Month-to-month,Electronic check,5191.7,1
+Male,0,No,No,47,No,No,117.68,One year,Bank transfer (automatic),5002.14,0
+Female,0,No,Yes,33,Yes,No,79.25,Month-to-month,Bank transfer (automatic),2345.13,0
+Female,0,No,Yes,42,Yes,DSL,107.76,Month-to-month,Mailed check,3736.14,0
+Male,0,No,No,13,Yes,DSL,24.61,One year,Electronic check,332.98,0
+Male,1,No,No,5,Yes,Fiber optic,74.51,Two year,Credit card (automatic),313.17,0
+Female,0,No,No,55,Yes,Fiber optic,69.26,Month-to-month,Bank transfer (automatic),3454.75,1
+Male,1,No,No,69,Yes,Fiber optic,21.85,Two year,Mailed check,1334.45,0
+Male,1,Yes,No,62,Yes,Fiber optic,26.87,Month-to-month,Mailed check,1688.52,0
+Male,1,Yes,No,22,Yes,Fiber optic,20.23,Month-to-month,Electronic check,472.86,0
+Male,1,No,No,26,No,Fiber optic,47.99,Month-to-month,Bank transfer (automatic),1288.1,1
+Male,0,Yes,No,26,Yes,DSL,23.46,Month-to-month,Electronic check,550.92,1
+Female,1,Yes,No,51,Yes,DSL,61.16,One year,Bank transfer (automatic),2927.32,0
+Female,0,No,No,45,Yes,Fiber optic,100.9,Month-to-month,Electronic check,4014.84,1
+Female,0,No,No,58,Yes,No,80.61,Month-to-month,Electronic check,4957.0,0
+Female,0,Yes,No,68,Yes,Fiber optic,86.73,Month-to-month,Electronic check,5018.15,0
+Female,0,Yes,No,28,Yes,Fiber optic,21.21,Two year,Electronic check,633.97,1
+Male,0,Yes,No,48,Yes,No,103.63,Two year,Credit card (automatic),5131.18,0
+Male,0,No,Yes,36,Yes,Fiber optic,32.91,Month-to-month,Credit card (automatic),1190.7,0
+Female,1,Yes,No,69,Yes,Fiber optic,48.87,Month-to-month,Electronic check,3443.65,1
+Male,1,No,No,25,Yes,DSL,70.71,Two year,Electronic check,1605.52,0
+Female,0,No,Yes,13,Yes,Fiber optic,112.86,Month-to-month,Bank transfer (automatic),1315.96,1
+Female,1,No,No,27,Yes,Fiber optic,119.81,Two year,Electronic check,2973.39,0
+Male,0,No,No,45,Yes,Fiber optic,97.83,One year,Mailed check,3817.8,0
+Female,0,Yes,No,69,Yes,DSL,92.39,Two year,Electronic check,6464.5,0
+Female,1,Yes,No,60,Yes,Fiber optic,71.82,Month-to-month,Bank transfer (automatic),4065.78,1
+Male,1,No,No,1,Yes,DSL,85.89,Month-to-month,Credit card (automatic),90.21,1
+Male,0,Yes,Yes,37,Yes,No,32.73,Month-to-month,Electronic check,1269.6,0
+Female,0,Yes,No,11,Yes,DSL,45.46,Month-to-month,Credit card (automatic),430.31,1
+Female,0,Yes,No,26,Yes,Fiber optic,118.43,Month-to-month,Credit card (automatic),2700.11,0
+Male,0,Yes,No,68,Yes,Fiber optic,117.92,Two year,Credit card (automatic),7431.33,0
+Female,0,Yes,No,71,Yes,DSL,50.94,Month-to-month,Bank transfer (automatic),3077.45,1
+Male,1,No,No,11,Yes,Fiber optic,42.59,Month-to-month,Credit card (automatic),468.14,0
+Female,1,No,Yes,10,Yes,DSL,41.41,Month-to-month,Bank transfer (automatic),418.98,1
+Female,0,No,No,50,Yes,Fiber optic,67.46,Month-to-month,Credit card (automatic),3398.47,1
+Male,1,No,Yes,29,Yes,No,40.82,Month-to-month,Electronic check,1115.42,1
+Female,0,Yes,No,31,Yes,Fiber optic,84.15,Month-to-month,Bank transfer (automatic),2711.0,1
+Female,0,No,Yes,63,Yes,No,25.63,One year,Bank transfer (automatic),1578.39,0
+Female,0,No,No,67,Yes,DSL,28.58,Two year,Electronic check,2064.87,0
+Male,1,Yes,No,65,Yes,Fiber optic,46.25,Month-to-month,Electronic check,3102.49,0
+Male,1,No,No,57,Yes,No,97.3,One year,Electronic check,5589.29,0
+Male,1,Yes,Yes,71,Yes,No,50.98,Month-to-month,Mailed check,3084.09,1
+Male,0,Yes,No,52,Yes,DSL,66.02,Month-to-month,Electronic check,3558.26,0
+Male,1,Yes,No,64,Yes,Fiber optic,84.98,Two year,Electronic check,4891.85,0
+Female,0,Yes,No,39,Yes,No,98.43,Two year,Electronic check,3565.9,0
+Female,0,Yes,Yes,3,Yes,Fiber optic,49.33,Month-to-month,Bank transfer (automatic),139.16,0
+Female,1,No,No,59,Yes,Fiber optic,92.56,Month-to-month,Electronic check,4948.47,1
+Male,0,No,No,67,Yes,DSL,47.18,Month-to-month,Electronic check,2681.19,1
+Male,1,Yes,No,22,Yes,DSL,83.74,Month-to-month,Electronic check,1606.16,1
+Female,1,No,Yes,31,Yes,Fiber optic,63.99,One year,Mailed check,2041.02,1
+Male,1,Yes,No,41,Yes,Fiber optic,112.52,Month-to-month,Electronic check,4565.3,1
+Female,0,No,No,47,Yes,DSL,118.17,Two year,Credit card (automatic),5915.77,0
+Female,0,Yes,Yes,49,No,DSL,96.96,One year,Electronic check,4910.09,0
+Male,1,Yes,No,28,Yes,Fiber optic,111.38,Month-to-month,Electronic check,2883.42,0
+Male,1,No,No,62,Yes,Fiber optic,31.92,Two year,Mailed check,2027.36,0
+Male,1,No,No,59,Yes,Fiber optic,84.76,One year,Credit card (automatic),4850.17,0
+Male,1,No,No,68,Yes,Fiber optic,38.23,Month-to-month,Mailed check,2325.22,0
+Male,0,No,Yes,42,Yes,DSL,46.25,Month-to-month,Electronic check,2085.32,0
+Female,0,No,Yes,5,Yes,No,71.33,Two year,Mailed check,378.55,0
+Female,1,Yes,No,61,Yes,Fiber optic,93.68,Two year,Mailed check,4852.57,0
+Female,0,Yes,No,5,Yes,DSL,91.59,Month-to-month,Mailed check,475.47,1
+Female,1,Yes,No,14,Yes,Fiber optic,106.68,One year,Credit card (automatic),1254.85,1
+Female,0,Yes,Yes,20,Yes,Fiber optic,75.05,Two year,Credit card (automatic),1593.3,0
+Male,1,Yes,Yes,13,Yes,Fiber optic,112.49,Two year,Mailed check,1436.46,0
+Male,1,No,Yes,52,Yes,Fiber optic,108.56,Month-to-month,Electronic check,4873.5,1
+Female,0,Yes,No,32,No,Fiber optic,104.6,Month-to-month,Mailed check,3455.94,1
+Male,0,No,No,16,Yes,Fiber optic,41.41,Two year,Credit card (automatic),632.15,0
+Male,1,No,No,0,Yes,DSL,72.21,Month-to-month,Credit card (automatic),60.33,1
+Female,0,No,No,15,No,DSL,93.1,Month-to-month,Electronic check,1435.03,1
+Female,1,No,Yes,50,Yes,DSL,117.56,One year,Electronic check,6024.76,1
+Female,1,Yes,No,57,No,Fiber optic,19.19,Month-to-month,Electronic check,1034.04,1
+Female,1,Yes,Yes,21,Yes,Fiber optic,51.37,One year,Credit card (automatic),1089.65,0
+Male,0,No,No,5,Yes,Fiber optic,52.92,Month-to-month,Mailed check,219.73,1
+Female,1,No,No,40,Yes,DSL,47.43,One year,Electronic check,1712.62,0
+Female,0,Yes,No,57,Yes,Fiber optic,101.38,Month-to-month,Electronic check,5749.99,0
+Female,1,Yes,No,5,Yes,DSL,22.6,Two year,Electronic check,99.44,0
+Female,1,No,No,58,Yes,Fiber optic,54.66,Month-to-month,Credit card (automatic),2970.89,0
+Female,0,No,No,12,Yes,Fiber optic,90.59,Month-to-month,Mailed check,1154.81,1
+Male,0,Yes,Yes,18,Yes,DSL,59.49,Two year,Electronic check,1108.25,0
+Male,0,Yes,Yes,45,Yes,DSL,32.69,One year,Bank transfer (automatic),1419.68,0
+Male,1,No,No,3,Yes,Fiber optic,80.31,Month-to-month,Bank transfer (automatic),233.69,1
+Male,0,Yes,Yes,22,Yes,Fiber optic,71.31,Month-to-month,Bank transfer (automatic),1648.24,1
+Male,0,No,Yes,10,No,DSL,118.15,One year,Credit card (automatic),1233.95,1
+Male,1,Yes,Yes,15,Yes,No,94.35,Two year,Electronic check,1193.0,0
+Female,1,No,Yes,56,Yes,No,118.59,Month-to-month,Electronic check,6249.55,1
+Female,1,Yes,No,16,Yes,No,37.01,Two year,Electronic check,514.96,1
+Female,1,Yes,No,3,Yes,DSL,95.68,Month-to-month,Bank transfer (automatic),241.58,1
+Female,1,No,Yes,15,Yes,Fiber optic,74.27,One year,Credit card (automatic),998.21,0
+Female,1,Yes,No,6,No,DSL,90.68,Month-to-month,Electronic check,532.53,1
+Female,0,No,Yes,45,Yes,No,65.69,Month-to-month,Bank transfer (automatic),3034.49,1
+Male,1,Yes,No,71,Yes,Fiber optic,39.66,Two year,Bank transfer (automatic),2977.05,0
+Female,1,No,Yes,12,No,DSL,22.67,Month-to-month,Credit card (automatic),252.99,0
+Male,1,No,No,53,Yes,DSL,103.51,Two year,Mailed check,5100.93,0
+Male,1,No,No,26,Yes,No,101.11,Month-to-month,Electronic check,2260.41,0
+Female,1,Yes,No,5,Yes,No,34.58,Month-to-month,Bank transfer (automatic),150.54,1
+Female,0,No,Yes,50,Yes,Fiber optic,83.81,Two year,Credit card (automatic),3547.88,0
+Male,1,No,Yes,15,Yes,Fiber optic,93.25,One year,Bank transfer (automatic),1501.89,1
+Male,1,No,Yes,37,Yes,Fiber optic,74.88,Month-to-month,Credit card (automatic),2363.77,1
+Male,0,Yes,No,37,Yes,No,50.36,One year,Mailed check,1894.49,0
+Male,1,Yes,Yes,43,Yes,Fiber optic,107.86,Month-to-month,Bank transfer (automatic),4186.33,1
+Male,0,Yes,No,9,Yes,Fiber optic,83.53,Two year,Electronic check,721.44,0
+Female,1,No,No,18,Yes,Fiber optic,91.46,Month-to-month,Mailed check,1723.5,0
+Female,1,No,No,53,Yes,No,84.52,Month-to-month,Electronic check,4763.58,1
+Female,0,Yes,No,68,Yes,DSL,91.57,Month-to-month,Electronic check,5494.87,0
+Female,0,No,Yes,0,Yes,Fiber optic,32.8,One year,Electronic check,34.67,1
+Female,1,No,No,30,Yes,DSL,112.1,Two year,Bank transfer (automatic),2978.05,0
+Female,0,Yes,Yes,64,Yes,Fiber optic,47.15,Two year,Credit card (automatic),3105.86,0
+Male,1,Yes,No,20,Yes,Fiber optic,103.33,Month-to-month,Electronic check,1702.81,1
+Male,0,No,No,32,Yes,DSL,109.13,Month-to-month,Mailed check,3349.54,0
+Female,1,No,Yes,66,Yes,Fiber optic,84.42,Month-to-month,Electronic check,5620.26,0
+Male,1,Yes,No,70,Yes,DSL,79.03,Two year,Mailed check,5743.01,0
+Male,1,No,Yes,47,Yes,No,29.12,Month-to-month,Electronic check,1421.6,0
+Male,0,No,Yes,50,Yes,No,62.49,One year,Bank transfer (automatic),2804.88,0
+Female,1,No,No,44,Yes,Fiber optic,80.39,Month-to-month,Credit card (automatic),3685.08,1
+Male,0,No,No,20,Yes,Fiber optic,26.35,Two year,Mailed check,476.49,0
+Female,0,No,No,64,Yes,DSL,29.37,Month-to-month,Bank transfer (automatic),1655.58,0
+Male,0,No,No,2,Yes,No,119.34,Month-to-month,Bank transfer (automatic),195.81,0
+Male,1,Yes,No,4,Yes,Fiber optic,51.89,Two year,Electronic check,182.92,0
+Male,1,No,Yes,43,No,DSL,53.67,Two year,Mailed check,1963.47,0
+Male,0,Yes,Yes,61,Yes,No,43.66,One year,Electronic check,2651.23,0
+Female,0,No,No,59,Yes,DSL,83.89,One year,Mailed check,4244.92,0
+Male,1,Yes,Yes,49,Yes,Fiber optic,66.25,One year,Credit card (automatic),3156.0,0
+Male,0,No,No,27,Yes,DSL,98.62,Month-to-month,Mailed check,2271.0,0
+Female,0,Yes,Yes,26,Yes,Fiber optic,70.27,Month-to-month,Mailed check,1832.77,1
+Female,1,Yes,Yes,31,Yes,DSL,19.57,One year,Electronic check,542.51,0
+Male,0,Yes,No,18,Yes,DSL,67.23,One year,Electronic check,1089.44,1
+Female,1,No,No,30,No,Fiber optic,23.63,Month-to-month,Credit card (automatic),699.33,1
+Female,1,No,No,7,No,No,102.33,Month-to-month,Electronic check,762.24,1
+Male,0,Yes,No,23,No,DSL,29.59,One year,Bank transfer (automatic),733.53,0
+Female,0,No,Yes,68,Yes,Fiber optic,40.13,Month-to-month,Electronic check,2491.13,1
+Female,1,No,No,51,Yes,Fiber optic,64.92,One year,Electronic check,3529.59,0
+Female,1,Yes,Yes,10,No,No,37.91,One year,Electronic check,371.22,0
+Male,1,No,No,20,No,DSL,73.0,Month-to-month,Credit card (automatic),1541.3,0
+Male,0,Yes,No,18,Yes,Fiber optic,64.99,Month-to-month,Electronic check,967.72,0
+Male,1,Yes,No,20,Yes,No,115.16,Month-to-month,Bank transfer (automatic),1908.49,1
+Female,1,No,Yes,50,Yes,DSL,27.01,Month-to-month,Electronic check,1133.6,1
+Female,0,Yes,No,65,Yes,Fiber optic,76.83,One year,Bank transfer (automatic),5139.48,1
+Male,1,No,No,51,Yes,No,91.48,One year,Bank transfer (automatic),3993.04,0
+Male,1,No,No,35,Yes,DSL,31.02,Two year,Bank transfer (automatic),940.12,0
+Female,0,No,Yes,11,Yes,Fiber optic,82.92,Month-to-month,Electronic check,886.77,0
+Female,0,No,No,10,Yes,DSL,106.15,One year,Electronic check,1134.68,0
+Female,1,No,Yes,59,Yes,No,98.33,Month-to-month,Credit card (automatic),5612.63,0
+Male,0,No,No,49,No,No,113.39,Two year,Mailed check,5614.31,0
+Female,0,Yes,Yes,37,Yes,Fiber optic,91.5,Month-to-month,Electronic check,2941.36,0
+Male,0,Yes,Yes,42,Yes,Fiber optic,58.19,One year,Mailed check,2584.96,0
+Female,1,No,No,61,Yes,Fiber optic,111.89,Month-to-month,Electronic check,5695.9,1
+Male,0,Yes,Yes,59,Yes,DSL,40.99,Month-to-month,Mailed check,2160.93,0
+Male,1,Yes,No,6,Yes,DSL,77.54,Two year,Mailed check,436.38,0
+Male,1,Yes,No,28,Yes,DSL,96.1,Month-to-month,Electronic check,2364.69,0
+Female,1,No,No,3,Yes,DSL,106.97,Month-to-month,Mailed check,318.53,1
+Female,1,Yes,No,28,Yes,Fiber optic,111.49,One year,Bank transfer (automatic),3110.75,0
+Male,0,Yes,No,46,Yes,DSL,26.67,Month-to-month,Credit card (automatic),1073.57,0
+Female,0,Yes,Yes,15,Yes,DSL,92.06,Month-to-month,Bank transfer (automatic),1135.42,1
+Male,0,Yes,No,10,Yes,Fiber optic,38.82,Month-to-month,Mailed check,325.82,1
+Male,1,No,Yes,35,Yes,DSL,97.47,Month-to-month,Bank transfer (automatic),2797.77,0
+Male,1,Yes,Yes,38,Yes,DSL,89.47,Two year,Electronic check,3588.22,0
+Female,0,No,Yes,52,Yes,DSL,36.5,One year,Bank transfer (automatic),1863.14,0
+Male,1,No,No,1,Yes,DSL,102.95,Month-to-month,Electronic check,88.12,0
+Female,1,Yes,No,18,Yes,Fiber optic,65.1,Month-to-month,Electronic check,989.06,1
+Male,0,No,No,56,Yes,Fiber optic,73.47,Two year,Bank transfer (automatic),4248.34,0
+Male,0,No,No,49,Yes,No,117.08,Two year,Electronic check,5914.02,0
+Male,0,No,No,65,Yes,Fiber optic,84.98,Month-to-month,Bank transfer (automatic),5861.3,1
+Female,0,Yes,No,59,No,Fiber optic,78.03,One year,Bank transfer (automatic),3965.74,0
+Male,0,Yes,Yes,61,Yes,No,19.71,Month-to-month,Electronic check,1149.16,0
+Female,1,No,No,37,Yes,Fiber optic,38.32,Month-to-month,Mailed check,1207.41,0
+Female,1,No,No,69,Yes,Fiber optic,20.71,Two year,Bank transfer (automatic),1467.38,1
+Male,1,No,No,30,Yes,Fiber optic,52.0,Two year,Bank transfer (automatic),1446.5,0
+Female,0,No,Yes,65,No,DSL,53.14,Month-to-month,Credit card (automatic),3457.26,0
+Female,1,Yes,No,28,Yes,DSL,72.09,Two year,Electronic check,1671.1,0
+Male,0,No,No,32,Yes,DSL,88.36,One year,Credit card (automatic),2890.47,1
+Male,0,Yes,Yes,50,Yes,Fiber optic,36.29,One year,Mailed check,1596.15,0
+Male,1,No,Yes,29,Yes,DSL,79.37,One year,Electronic check,2391.79,0
+Female,1,Yes,No,10,Yes,Fiber optic,111.53,Month-to-month,Bank transfer (automatic),968.44,1
+Male,0,Yes,No,65,Yes,No,36.87,Two year,Electronic check,2457.48,0
+Female,0,No,No,33,Yes,Fiber optic,85.23,Month-to-month,Electronic check,2404.39,1
+Female,1,No,Yes,67,Yes,DSL,22.65,Month-to-month,Electronic check,1506.15,0
+Female,1,No,No,29,Yes,Fiber optic,72.18,Month-to-month,Credit card (automatic),2140.54,0
+Male,0,Yes,Yes,71,Yes,DSL,93.64,Two year,Credit card (automatic),6119.36,0
+Female,1,Yes,No,44,Yes,No,21.47,Month-to-month,Credit card (automatic),834.65,0
+Male,1,No,No,56,Yes,Fiber optic,52.03,Month-to-month,Electronic check,2650.22,1
+Male,0,Yes,No,55,Yes,Fiber optic,107.55,One year,Mailed check,5306.65,0
+Male,1,Yes,Yes,14,No,Fiber optic,41.0,Month-to-month,Credit card (automatic),565.16,1
+Male,1,No,No,59,Yes,Fiber optic,91.73,Month-to-month,Electronic check,4500.6,1
+Male,1,Yes,No,68,Yes,Fiber optic,80.45,Month-to-month,Mailed check,4544.83,0
+Male,0,No,No,48,Yes,DSL,34.7,One year,Electronic check,1490.41,0
+Male,0,Yes,Yes,69,Yes,DSL,93.65,Month-to-month,Bank transfer (automatic),5764.05,1
+Male,1,No,No,61,Yes,DSL,72.27,Month-to-month,Bank transfer (automatic),3817.9,1
+Female,1,No,No,48,Yes,Fiber optic,29.43,Month-to-month,Electronic check,1421.64,0
+Male,0,No,Yes,34,Yes,No,114.84,Two year,Electronic check,3225.86,0
+Female,1,No,No,62,No,Fiber optic,68.18,One year,Bank transfer (automatic),4482.06,0
+Female,1,Yes,No,13,Yes,Fiber optic,94.0,Month-to-month,Bank transfer (automatic),1242.71,0
+Female,0,No,No,40,Yes,No,40.21,Two year,Electronic check,1487.4,0
+Female,1,No,No,59,No,DSL,31.99,Two year,Electronic check,1969.18,0
+Female,0,No,No,68,Yes,DSL,93.61,One year,Credit card (automatic),6242.75,0
+Female,0,No,No,19,Yes,No,86.73,Month-to-month,Bank transfer (automatic),1595.57,1
+Female,0,No,No,6,Yes,No,45.96,Month-to-month,Bank transfer (automatic),248.57,0
+Female,0,No,Yes,24,Yes,Fiber optic,94.12,One year,Bank transfer (automatic),2241.73,0
+Male,1,No,No,63,Yes,DSL,69.51,Month-to-month,Credit card (automatic),3749.94,1
+Male,0,Yes,No,38,Yes,No,53.56,Month-to-month,Electronic check,1946.69,0
+Female,1,No,No,4,Yes,Fiber optic,98.26,Month-to-month,Electronic check,334.16,1
+Male,0,No,Yes,8,Yes,Fiber optic,80.91,Month-to-month,Mailed check,605.68,1
+Female,1,Yes,No,24,Yes,DSL,69.74,One year,Credit card (automatic),1640.67,1
+Male,0,No,No,25,Yes,Fiber optic,96.86,Month-to-month,Electronic check,2083.53,1
+Male,1,No,No,9,Yes,No,73.57,One year,Electronic check,581.19,0
+Female,1,Yes,No,36,Yes,No,113.73,Two year,Electronic check,4223.03,0
+Female,1,No,No,34,Yes,Fiber optic,101.44,Month-to-month,Bank transfer (automatic),3057.45,0
+Female,0,No,No,14,Yes,Fiber optic,54.54,Month-to-month,Bank transfer (automatic),645.09,1
+Male,0,No,No,16,Yes,Fiber optic,65.42,Month-to-month,Mailed check,948.31,0
+Female,0,Yes,No,48,Yes,Fiber optic,115.65,Month-to-month,Electronic check,5901.68,1
+Female,0,No,No,69,Yes,Fiber optic,109.31,Two year,Bank transfer (automatic),7545.28,1
+Female,0,Yes,No,72,No,DSL,37.5,One year,Electronic check,2617.95,0
+Female,1,No,Yes,40,Yes,DSL,45.98,Two year,Bank transfer (automatic),1910.03,0
+Female,0,Yes,No,2,Yes,Fiber optic,55.17,Two year,Electronic check,109.42,0
+Female,0,No,Yes,65,Yes,DSL,107.74,Month-to-month,Credit card (automatic),7219.48,0
+Male,0,No,Yes,69,Yes,DSL,112.6,One year,Mailed check,7698.39,1
+Female,1,No,No,20,Yes,No,99.84,Month-to-month,Bank transfer (automatic),2086.07,1
+Female,1,No,No,29,Yes,Fiber optic,46.12,Month-to-month,Electronic check,1313.73,0
+Female,1,No,No,1,Yes,DSL,108.48,Month-to-month,Electronic check,96.42,1
+Female,0,No,No,58,Yes,DSL,21.35,Month-to-month,Bank transfer (automatic),1028.64,0
+Female,0,Yes,No,56,Yes,Fiber optic,61.13,One year,Mailed check,2900.83,0
+Male,1,No,No,1,Yes,Fiber optic,56.52,One year,Bank transfer (automatic),53.88,1
+Female,1,No,No,51,Yes,Fiber optic,72.59,Month-to-month,Mailed check,3971.08,0
+Male,0,No,Yes,30,Yes,Fiber optic,75.19,Month-to-month,Mailed check,2295.08,1
+Male,0,No,No,39,Yes,DSL,40.99,One year,Credit card (automatic),1633.16,0
+Female,0,No,Yes,15,Yes,Fiber optic,38.86,One year,Mailed check,578.58,0
+Female,1,No,Yes,59,Yes,DSL,99.96,One year,Credit card (automatic),6221.46,1
+Male,0,No,Yes,29,Yes,Fiber optic,25.77,Month-to-month,Mailed check,755.71,1
+Male,1,Yes,No,61,Yes,DSL,68.32,Month-to-month,Electronic check,3697.32,0
+Male,1,No,No,10,Yes,DSL,37.55,One year,Bank transfer (automatic),356.67,0
+Male,1,No,No,42,Yes,DSL,50.6,One year,Electronic check,1966.08,1
+Male,1,No,No,22,Yes,No,46.28,Month-to-month,Electronic check,878.67,0
+Male,0,No,No,70,Yes,DSL,90.27,Month-to-month,Electronic check,5546.84,1
+Female,1,Yes,Yes,40,Yes,DSL,64.51,Month-to-month,Mailed check,2307.24,1
+Female,0,Yes,No,52,Yes,DSL,48.54,One year,Bank transfer (automatic),2183.7,1
+Female,0,No,No,6,Yes,Fiber optic,102.8,Month-to-month,Electronic check,540.63,1
+Male,0,Yes,No,49,Yes,Fiber optic,26.75,One year,Electronic check,1387.12,1
+Male,0,Yes,Yes,7,Yes,No,96.17,Two year,Electronic check,612.09,1
+Male,0,Yes,Yes,26,Yes,Fiber optic,43.33,Month-to-month,Electronic check,1166.18,0
+Female,0,No,No,16,Yes,Fiber optic,111.64,Month-to-month,Electronic check,1494.62,1
+Male,0,No,Yes,0,Yes,Fiber optic,18.57,Month-to-month,Electronic check,19.97,1
+Male,0,Yes,No,42,Yes,DSL,74.78,Month-to-month,Credit card (automatic),3199.95,0
+Male,0,Yes,No,17,Yes,No,81.47,Two year,Bank transfer (automatic),1462.2,0
+Female,0,Yes,Yes,37,Yes,No,76.88,Two year,Electronic check,2721.5,0
+Male,1,Yes,Yes,55,Yes,DSL,101.13,Month-to-month,Electronic check,5478.61,1
+Male,0,No,No,13,Yes,Fiber optic,29.44,Two year,Electronic check,349.73,0
+Female,0,No,No,51,Yes,DSL,60.39,Month-to-month,Mailed check,2871.47,0
+Female,0,Yes,No,21,Yes,Fiber optic,106.1,One year,Mailed check,2261.95,1
+Male,0,No,Yes,24,Yes,Fiber optic,108.65,One year,Credit card (automatic),2172.11,1
+Male,1,Yes,Yes,42,Yes,No,68.83,Month-to-month,Bank transfer (automatic),2397.98,0
+Female,1,Yes,No,45,No,DSL,74.91,Month-to-month,Mailed check,3531.0,0
+Female,1,No,No,47,Yes,Fiber optic,95.92,One year,Electronic check,3825.7,0
+Female,1,No,Yes,14,Yes,Fiber optic,97.52,Month-to-month,Bank transfer (automatic),1375.48,0
+Male,0,No,No,42,Yes,DSL,108.58,Two year,Credit card (automatic),3976.09,0
+Male,1,Yes,No,19,Yes,Fiber optic,104.07,Month-to-month,Electronic check,1809.68,1
+Female,0,Yes,No,20,Yes,Fiber optic,60.27,Month-to-month,Credit card (automatic),1080.43,0
+Male,1,Yes,No,69,Yes,Fiber optic,84.27,Two year,Electronic check,5509.29,0
+Male,0,No,No,7,Yes,No,67.29,Month-to-month,Bank transfer (automatic),487.48,1
+Female,1,No,Yes,30,Yes,DSL,30.03,Month-to-month,Electronic check,943.82,1
+Female,0,Yes,Yes,32,Yes,DSL,101.81,Month-to-month,Bank transfer (automatic),2859.58,1
+Male,1,No,No,17,Yes,DSL,79.38,Month-to-month,Electronic check,1225.02,1
+Female,0,No,No,57,Yes,DSL,23.92,Month-to-month,Mailed check,1414.7,0
+Male,1,No,No,35,Yes,Fiber optic,87.04,Month-to-month,Bank transfer (automatic),2569.04,1
+Female,1,Yes,No,52,Yes,No,46.88,Month-to-month,Bank transfer (automatic),2073.05,0
+Female,1,No,Yes,28,Yes,Fiber optic,25.07,Month-to-month,Bank transfer (automatic),663.14,1
+Male,0,Yes,Yes,65,Yes,Fiber optic,79.87,Two year,Electronic check,5323.61,1
+Female,0,No,Yes,53,Yes,Fiber optic,92.69,Two year,Bank transfer (automatic),4457.44,0
+Male,1,No,Yes,24,Yes,DSL,70.76,Month-to-month,Electronic check,1423.21,1
+Female,0,No,No,70,Yes,No,18.58,Two year,Bank transfer (automatic),1393.78,0
+Male,0,No,No,63,Yes,Fiber optic,76.84,Two year,Electronic check,5151.3,0
+Male,0,No,No,43,Yes,Fiber optic,18.67,Two year,Mailed check,794.38,0
+Female,0,No,No,1,Yes,No,112.49,One year,Mailed check,112.18,0
+Female,0,No,No,43,Yes,Fiber optic,45.27,Month-to-month,Credit card (automatic),2068.78,1
+Male,0,No,Yes,50,Yes,DSL,106.84,Month-to-month,Bank transfer (automatic),5274.71,0
+Female,1,Yes,No,26,Yes,Fiber optic,19.24,Two year,Electronic check,512.74,1
+Female,1,No,No,10,No,Fiber optic,27.92,Month-to-month,Bank transfer (automatic),262.59,0
+Male,0,No,No,41,Yes,Fiber optic,64.04,Two year,Electronic check,2308.67,1
+Female,0,No,No,58,Yes,No,95.38,One year,Electronic check,5733.73,0
+Female,0,No,Yes,23,Yes,Fiber optic,114.14,Month-to-month,Mailed check,2619.81,1
+Male,1,No,Yes,33,Yes,Fiber optic,71.15,Month-to-month,Bank transfer (automatic),2102.09,1
+Male,0,Yes,Yes,0,Yes,No,54.26,Two year,Credit card (automatic),53.29,0
+Female,1,No,No,51,Yes,Fiber optic,22.54,Month-to-month,Credit card (automatic),1186.65,0
+Male,1,Yes,Yes,63,No,Fiber optic,77.54,One year,Electronic check,4349.08,1
+Female,1,Yes,Yes,56,Yes,DSL,56.76,Two year,Electronic check,3241.24,0
+Female,0,Yes,Yes,31,Yes,Fiber optic,110.73,Month-to-month,Credit card (automatic),2879.32,1
+Male,1,Yes,No,3,Yes,Fiber optic,66.97,Month-to-month,Electronic check,197.39,0
+Male,1,Yes,No,35,Yes,DSL,96.08,Month-to-month,Bank transfer (automatic),3630.89,1
+Female,1,No,No,68,No,Fiber optic,104.52,Two year,Credit card (automatic),7429.02,0
+Male,1,Yes,No,6,Yes,DSL,28.02,Month-to-month,Electronic check,176.13,1
+Male,1,No,Yes,15,Yes,DSL,62.97,Month-to-month,Mailed check,941.62,1
+Female,0,Yes,No,61,Yes,Fiber optic,109.16,Month-to-month,Credit card (automatic),6258.63,0
+Female,1,No,Yes,41,Yes,DSL,61.29,Month-to-month,Bank transfer (automatic),2503.03,0
+Female,1,No,Yes,12,Yes,Fiber optic,75.65,Month-to-month,Credit card (automatic),820.21,1
+Female,0,Yes,No,1,Yes,Fiber optic,107.06,Month-to-month,Bank transfer (automatic),103.18,1
+Female,0,No,Yes,29,Yes,DSL,41.72,Two year,Electronic check,1161.87,0
+Male,1,No,Yes,43,Yes,DSL,109.25,Month-to-month,Credit card (automatic),4516.28,1
+Female,0,No,No,61,Yes,Fiber optic,58.5,Two year,Bank transfer (automatic),3308.42,0
+Female,0,Yes,No,64,Yes,DSL,78.49,Two year,Credit card (automatic),4579.94,1
+Female,1,No,Yes,33,Yes,Fiber optic,51.46,One year,Mailed check,1538.37,0
+Female,1,No,No,30,Yes,Fiber optic,71.77,One year,Mailed check,1891.35,0
+Male,1,Yes,No,67,No,Fiber optic,23.03,Month-to-month,Electronic check,1441.21,1
+Female,0,No,Yes,56,Yes,Fiber optic,24.66,One year,Electronic check,1174.66,0
+Male,0,Yes,Yes,15,Yes,No,60.3,Month-to-month,Credit card (automatic),953.71,1
+Female,1,No,No,49,Yes,DSL,52.17,Month-to-month,Credit card (automatic),2142.51,0
+Male,1,Yes,No,52,Yes,No,80.81,One year,Mailed check,4360.66,0
+Male,0,Yes,No,17,Yes,No,21.87,Month-to-month,Credit card (automatic),328.19,0
+Male,0,No,No,71,Yes,Fiber optic,35.1,Month-to-month,Mailed check,2596.36,0
+Female,0,No,Yes,21,Yes,DSL,39.38,One year,Credit card (automatic),832.99,0
+Female,1,No,No,40,Yes,DSL,62.93,Month-to-month,Bank transfer (automatic),2666.86,1
+Male,0,No,No,36,Yes,No,43.18,Month-to-month,Bank transfer (automatic),1626.39,0
+Male,1,Yes,Yes,50,Yes,DSL,32.04,Month-to-month,Bank transfer (automatic),1605.66,1
+Male,0,Yes,No,65,Yes,No,78.95,Month-to-month,Bank transfer (automatic),4410.41,0
+Male,1,Yes,Yes,28,Yes,Fiber optic,93.87,Month-to-month,Credit card (automatic),2530.46,1
+Female,0,No,No,28,Yes,Fiber optic,87.9,Month-to-month,Mailed check,2235.64,1
+Male,1,Yes,No,54,Yes,Fiber optic,46.17,Month-to-month,Credit card (automatic),2618.59,1
+Male,1,No,No,69,Yes,DSL,105.15,One year,Electronic check,7594.75,0
+Male,0,Yes,No,66,Yes,Fiber optic,80.41,Two year,Electronic check,4785.11,0
+Male,0,Yes,No,54,Yes,No,80.7,One year,Bank transfer (automatic),4334.45,0
+Female,1,Yes,Yes,51,Yes,DSL,39.71,Month-to-month,Bank transfer (automatic),1838.8,0
+Female,1,Yes,No,56,Yes,No,42.71,One year,Credit card (automatic),2382.98,0
+Male,1,Yes,No,68,Yes,No,66.42,Two year,Electronic check,4424.45,0
+Female,1,No,Yes,0,Yes,DSL,42.26,Two year,Electronic check,40.27,0
+Male,1,Yes,No,42,Yes,Fiber optic,88.18,Month-to-month,Mailed check,3882.76,1
+Male,1,No,Yes,2,Yes,DSL,49.47,Month-to-month,Credit card (automatic),87.46,0
+Male,0,No,No,42,No,Fiber optic,33.5,Month-to-month,Credit card (automatic),1445.47,0
+Male,1,No,No,28,Yes,No,33.46,One year,Credit card (automatic),936.2,0
+Male,0,No,No,22,Yes,No,30.98,Month-to-month,Mailed check,608.72,0
+Female,0,Yes,No,65,Yes,No,62.85,Two year,Credit card (automatic),3797.8,0
+Female,0,Yes,Yes,51,Yes,DSL,18.31,Month-to-month,Electronic check,782.48,1
+Female,0,Yes,No,41,Yes,Fiber optic,73.32,One year,Credit card (automatic),2932.08,0
+Male,0,No,Yes,64,No,DSL,48.43,Month-to-month,Mailed check,3257.14,0
+Male,1,No,Yes,7,Yes,No,74.35,Month-to-month,Mailed check,442.71,1
+Male,0,Yes,No,47,Yes,DSL,113.41,Month-to-month,Bank transfer (automatic),4553.75,0
+Male,0,Yes,No,11,Yes,DSL,106.64,One year,Bank transfer (automatic),1106.63,0
+Male,0,No,No,17,Yes,DSL,76.8,Month-to-month,Electronic check,1166.06,1
+Female,1,No,Yes,13,Yes,DSL,60.64,Month-to-month,Electronic check,703.18,0
+Female,1,No,No,39,Yes,DSL,89.23,One year,Bank transfer (automatic),3431.44,0
+Female,1,No,Yes,45,Yes,DSL,112.16,Two year,Credit card (automatic),4677.07,0
+Female,0,No,Yes,55,Yes,No,67.93,One year,Bank transfer (automatic),3884.13,0
+Female,1,No,No,32,Yes,Fiber optic,28.13,One year,Electronic check,838.51,0
+Female,1,Yes,Yes,68,Yes,DSL,96.14,Month-to-month,Bank transfer (automatic),6406.58,1
+Male,0,Yes,Yes,27,Yes,Fiber optic,19.07,Two year,Electronic check,475.48,0
+Female,1,No,No,11,Yes,Fiber optic,95.99,Month-to-month,Electronic check,936.12,0
+Female,0,No,No,2,Yes,Fiber optic,26.66,Two year,Electronic check,50.26,0
+Female,1,Yes,Yes,9,Yes,DSL,28.87,Two year,Mailed check,261.73,0
+Female,1,No,No,32,Yes,Fiber optic,97.73,Month-to-month,Electronic check,3339.18,0
+Male,0,Yes,Yes,30,Yes,Fiber optic,88.33,Month-to-month,Electronic check,2201.97,1
+Female,1,No,No,62,Yes,DSL,75.31,One year,Electronic check,4474.4,0
+Male,0,Yes,Yes,9,Yes,Fiber optic,101.7,One year,Bank transfer (automatic),901.89,0
+Female,0,No,Yes,19,Yes,Fiber optic,104.84,One year,Electronic check,1677.8,1
+Female,1,No,No,71,No,Fiber optic,64.67,Two year,Electronic check,4754.96,1
+Female,1,Yes,Yes,2,Yes,Fiber optic,119.62,Month-to-month,Mailed check,213.34,1
+Male,1,Yes,Yes,30,Yes,Fiber optic,54.47,Month-to-month,Bank transfer (automatic),1711.68,0
+Female,1,No,Yes,14,Yes,Fiber optic,35.49,One year,Credit card (automatic),478.81,0
+Female,0,Yes,No,38,Yes,DSL,104.29,Month-to-month,Mailed check,3406.38,0
+Male,1,Yes,No,71,Yes,DSL,60.39,One year,Bank transfer (automatic),4339.99,0
+Male,1,No,No,16,Yes,Fiber optic,107.2,Two year,Credit card (automatic),1476.58,0
+Female,1,Yes,No,27,Yes,DSL,24.24,Month-to-month,Bank transfer (automatic),659.26,1
+Female,1,Yes,No,32,Yes,Fiber optic,29.33,Two year,Mailed check,966.84,0
+Female,1,Yes,No,58,Yes,DSL,22.11,Two year,Electronic check,1243.44,0
+Female,1,No,No,71,No,Fiber optic,79.41,Month-to-month,Electronic check,5020.65,0
+Male,0,Yes,No,7,Yes,Fiber optic,102.85,Two year,Electronic check,672.22,1
+Female,0,Yes,No,35,Yes,Fiber optic,59.07,One year,Mailed check,1979.14,1
+Male,0,Yes,No,54,Yes,Fiber optic,27.25,Month-to-month,Credit card (automatic),1461.35,1
+Female,1,Yes,Yes,0,Yes,Fiber optic,56.09,Month-to-month,Electronic check,55.24,1
+Male,1,Yes,No,58,Yes,No,53.5,Month-to-month,Mailed check,2867.51,1
+Female,0,Yes,Yes,17,Yes,Fiber optic,83.63,One year,Credit card (automatic),1446.05,0
+Male,1,Yes,No,37,Yes,Fiber optic,84.52,Month-to-month,Bank transfer (automatic),3191.56,1
+Female,1,Yes,Yes,71,Yes,DSL,28.51,Month-to-month,Electronic check,2026.33,0
+Male,0,No,Yes,46,Yes,Fiber optic,60.86,Two year,Credit card (automatic),2493.74,0
+Male,0,Yes,No,72,Yes,Fiber optic,83.54,One year,Electronic check,5666.28,1
+Female,1,Yes,No,44,Yes,Fiber optic,44.4,One year,Electronic check,1821.76,0
+Male,0,No,No,15,Yes,Fiber optic,59.52,Two year,Mailed check,921.7,0
+Female,1,No,No,50,Yes,No,80.6,Month-to-month,Electronic check,4151.41,1
+Female,1,No,No,44,Yes,No,59.09,Month-to-month,Credit card (automatic),2717.43,0
+Female,1,Yes,No,22,Yes,Fiber optic,21.15,One year,Electronic check,409.51,1
+Male,0,Yes,No,5,Yes,No,40.71,Month-to-month,Credit card (automatic),206.52,1
+Male,1,Yes,No,47,Yes,No,97.16,Month-to-month,Electronic check,4777.97,0
+Male,0,Yes,No,42,Yes,DSL,43.35,One year,Credit card (automatic),1571.79,1
+Female,0,Yes,No,56,Yes,Fiber optic,101.41,Month-to-month,Electronic check,4715.72,1
+Female,0,No,No,9,Yes,DSL,65.62,Month-to-month,Credit card (automatic),500.48,1
+Female,0,Yes,No,39,Yes,DSL,66.24,One year,Electronic check,2525.53,1
+Female,0,No,No,59,Yes,DSL,96.59,One year,Credit card (automatic),5297.78,1
+Male,1,Yes,No,65,Yes,Fiber optic,57.1,Month-to-month,Credit card (automatic),3231.65,0
+Male,0,Yes,No,68,Yes,DSL,42.33,Month-to-month,Bank transfer (automatic),2755.7,1
+Male,1,No,No,15,Yes,DSL,28.71,Two year,Electronic check,441.09,0
+Male,0,No,No,12,No,DSL,86.53,Two year,Bank transfer (automatic),1082.5,0
+Male,0,Yes,No,42,Yes,Fiber optic,65.93,Month-to-month,Bank transfer (automatic),2811.83,1
+Male,1,No,No,33,Yes,No,100.56,Month-to-month,Mailed check,3485.18,0
+Male,1,Yes,No,17,Yes,No,64.68,One year,Bank transfer (automatic),1074.37,1
+Male,1,Yes,No,7,Yes,Fiber optic,60.31,Month-to-month,Credit card (automatic),438.06,1
+Female,1,No,Yes,10,Yes,DSL,48.48,Month-to-month,Credit card (automatic),450.12,0
+Female,0,Yes,No,24,Yes,No,38.34,Month-to-month,Mailed check,958.48,0
+Female,0,Yes,No,53,Yes,DSL,102.7,Month-to-month,Electronic check,5731.1,1
+Male,1,No,No,4,Yes,No,27.71,Month-to-month,Electronic check,110.67,0
+Male,1,Yes,Yes,7,Yes,Fiber optic,110.02,Month-to-month,Bank transfer (automatic),717.83,0
+Male,0,Yes,No,19,Yes,Fiber optic,20.74,Two year,Credit card (automatic),351.99,0
+Male,0,Yes,No,63,Yes,DSL,71.27,Month-to-month,Mailed check,4061.42,0
+Female,1,No,Yes,72,Yes,DSL,23.95,Month-to-month,Electronic check,1473.35,0
+Female,1,No,No,32,Yes,Fiber optic,97.52,Month-to-month,Mailed check,2597.19,0
+Male,0,Yes,No,3,Yes,Fiber optic,39.57,Two year,Mailed check,110.13,0
+Male,0,Yes,No,0,No,No,75.72,Month-to-month,Credit card (automatic),62.93,0
+Male,1,No,Yes,62,Yes,Fiber optic,111.48,Month-to-month,Bank transfer (automatic),7250.11,1
+Male,0,Yes,Yes,32,Yes,Fiber optic,84.22,One year,Electronic check,2665.37,1
+Female,0,No,No,5,Yes,DSL,36.19,One year,Electronic check,188.07,1
+Female,0,No,Yes,60,Yes,Fiber optic,99.26,Two year,Electronic check,5571.75,0
+Female,1,Yes,No,38,Yes,DSL,63.03,Month-to-month,Bank transfer (automatic),2103.48,1
+Female,0,Yes,No,25,Yes,Fiber optic,19.34,Month-to-month,Bank transfer (automatic),432.96,1
+Female,0,Yes,Yes,33,Yes,Fiber optic,67.65,Month-to-month,Electronic check,2326.73,1
+Female,0,Yes,No,16,Yes,No,100.87,One year,Electronic check,1374.56,0
+Female,1,Yes,No,68,Yes,Fiber optic,61.86,Month-to-month,Credit card (automatic),4213.0,1
+Female,0,No,No,57,Yes,DSL,95.36,Month-to-month,Credit card (automatic),4776.08,1
+Male,0,Yes,No,14,No,No,89.96,Month-to-month,Bank transfer (automatic),1148.39,0
+Female,0,No,No,53,Yes,Fiber optic,64.61,Two year,Mailed check,2810.66,0
+Female,1,No,Yes,13,Yes,Fiber optic,50.97,Month-to-month,Credit card (automatic),625.88,0
+Female,1,Yes,Yes,33,Yes,Fiber optic,92.11,Month-to-month,Bank transfer (automatic),2593.93,1
+Female,1,Yes,No,54,Yes,No,55.63,Two year,Credit card (automatic),3134.72,0
+Female,0,Yes,No,2,Yes,DSL,35.35,One year,Electronic check,59.77,1
+Female,1,No,Yes,52,Yes,Fiber optic,50.73,One year,Electronic check,2334.85,1
+Male,0,Yes,Yes,16,Yes,Fiber optic,107.44,One year,Electronic check,1416.23,1
+Female,1,No,No,51,Yes,DSL,46.91,Month-to-month,Credit card (automatic),2579.37,1
+Female,0,No,Yes,36,Yes,No,41.97,Two year,Bank transfer (automatic),1490.94,0
+Female,1,No,No,1,Yes,Fiber optic,31.61,Month-to-month,Electronic check,31.21,1
+Male,1,No,No,55,Yes,DSL,23.63,Two year,Credit card (automatic),1241.04,0
+Female,0,No,No,18,No,DSL,117.62,Month-to-month,Credit card (automatic),2213.9,0
+Male,1,No,Yes,69,Yes,No,72.75,One year,Electronic check,4304.38,0
+Male,0,No,Yes,61,Yes,Fiber optic,92.42,Month-to-month,Bank transfer (automatic),5785.0,0
+Female,0,No,No,14,Yes,DSL,96.84,Month-to-month,Bank transfer (automatic),1396.23,1
+Female,0,No,No,43,Yes,DSL,53.94,Month-to-month,Electronic check,1923.71,0
+Female,1,No,Yes,26,Yes,DSL,99.49,One year,Bank transfer (automatic),2210.36,0
+Male,0,Yes,No,43,Yes,DSL,116.07,Month-to-month,Electronic check,4802.64,1
+Female,1,No,No,40,Yes,Fiber optic,93.66,Two year,Credit card (automatic),3159.9,0
+Female,1,No,Yes,21,Yes,DSL,90.6,Month-to-month,Credit card (automatic),1699.81,1
+Female,1,No,No,47,No,DSL,62.09,One year,Credit card (automatic),2699.23,0
+Female,1,Yes,Yes,18,Yes,DSL,103.81,One year,Bank transfer (automatic),1608.62,0
+Male,0,No,No,66,Yes,Fiber optic,27.06,Month-to-month,Electronic check,1791.46,1
+Female,1,No,Yes,69,Yes,Fiber optic,94.47,One year,Mailed check,6184.14,0
+Male,0,No,No,12,Yes,Fiber optic,54.92,One year,Bank transfer (automatic),650.05,0
+Female,1,Yes,No,53,Yes,Fiber optic,75.73,One year,Electronic check,3786.19,1
+Male,0,No,No,67,Yes,No,109.08,One year,Bank transfer (automatic),6776.65,0
+Male,1,No,No,9,Yes,Fiber optic,79.71,One year,Electronic check,680.1,0
+Female,1,No,No,53,Yes,No,20.61,Month-to-month,Electronic check,1151.18,1
+Female,1,No,No,68,Yes,Fiber optic,91.71,Month-to-month,Mailed check,5755.9,1
+Female,0,No,No,16,No,DSL,112.76,Month-to-month,Bank transfer (automatic),1780.68,0
+Female,1,No,Yes,42,Yes,No,83.49,One year,Mailed check,3635.73,0
+Female,0,Yes,No,58,Yes,Fiber optic,105.86,Two year,Bank transfer (automatic),6026.19,0
+Male,0,No,Yes,24,No,Fiber optic,102.18,Month-to-month,Mailed check,2155.04,1
+Male,0,Yes,No,17,Yes,DSL,105.85,Month-to-month,Bank transfer (automatic),1532.61,0
+Male,1,No,No,28,Yes,Fiber optic,53.1,Month-to-month,Bank transfer (automatic),1447.59,0
+Male,1,No,No,24,Yes,No,66.36,One year,Bank transfer (automatic),1607.17,1
+Male,1,Yes,No,52,Yes,DSL,104.5,One year,Mailed check,5541.98,1
+Female,0,Yes,No,27,Yes,DSL,110.86,One year,Mailed check,2994.38,0
+Female,0,Yes,Yes,27,Yes,DSL,32.98,One year,Electronic check,730.98,0
+Female,1,No,Yes,68,Yes,Fiber optic,36.52,One year,Bank transfer (automatic),2536.0,0
+Male,0,No,No,42,Yes,No,53.38,Month-to-month,Electronic check,2190.85,1
+Female,0,Yes,Yes,67,Yes,Fiber optic,96.57,Month-to-month,Credit card (automatic),6967.92,1
+Female,1,No,Yes,51,Yes,No,107.25,Month-to-month,Credit card (automatic),5572.54,1
+Female,0,Yes,No,64,Yes,Fiber optic,77.18,Two year,Mailed check,4602.91,0
+Male,1,No,No,14,Yes,Fiber optic,29.55,One year,Credit card (automatic),411.96,0
+Male,1,Yes,No,68,Yes,DSL,48.98,Month-to-month,Bank transfer (automatic),3264.5,1
+Female,1,Yes,No,68,Yes,DSL,105.42,Month-to-month,Electronic check,6507.06,0
+Male,1,Yes,No,2,Yes,Fiber optic,53.45,Month-to-month,Bank transfer (automatic),102.49,0
+Male,1,No,Yes,26,Yes,DSL,28.49,Two year,Credit card (automatic),646.77,0
+Male,1,Yes,No,30,Yes,DSL,48.81,Month-to-month,Electronic check,1234.16,0
+Female,0,No,No,30,Yes,No,100.28,One year,Electronic check,3040.25,0
+Female,0,Yes,No,56,Yes,Fiber optic,68.33,Month-to-month,Bank transfer (automatic),3519.88,0
+Male,0,Yes,No,50,Yes,DSL,35.5,One year,Mailed check,1804.26,0
+Male,1,Yes,No,15,Yes,Fiber optic,49.89,One year,Bank transfer (automatic),708.66,1
+Female,1,Yes,Yes,44,No,Fiber optic,115.27,Month-to-month,Bank transfer (automatic),5226.8,0
+Female,0,No,No,71,Yes,No,62.06,One year,Bank transfer (automatic),4460.45,0
+Female,1,Yes,Yes,32,Yes,Fiber optic,63.04,Month-to-month,Electronic check,2054.95,1
+Male,0,No,No,67,Yes,DSL,33.61,Two year,Mailed check,2097.9,0
+Female,1,Yes,Yes,47,Yes,DSL,49.06,Month-to-month,Credit card (automatic),2467.01,1
+Male,1,Yes,Yes,67,Yes,DSL,101.1,One year,Mailed check,6268.15,0
+Female,1,Yes,No,65,Yes,Fiber optic,98.19,Month-to-month,Mailed check,6549.68,1
+Male,0,Yes,No,1,No,Fiber optic,62.42,One year,Electronic check,59.13,1
+Male,0,No,No,58,Yes,Fiber optic,109.15,Month-to-month,Electronic check,5578.12,1
+Male,1,No,Yes,13,Yes,Fiber optic,56.79,One year,Mailed check,726.1,0
+Male,1,Yes,No,60,Yes,DSL,106.16,Month-to-month,Mailed check,5999.96,1
+Female,1,No,Yes,58,Yes,DSL,21.22,Month-to-month,Bank transfer (automatic),1093.72,1
+Male,0,No,Yes,18,Yes,DSL,53.42,Two year,Bank transfer (automatic),884.11,0
+Male,0,No,No,4,Yes,Fiber optic,105.22,Month-to-month,Credit card (automatic),362.62,0
+Male,0,No,Yes,30,Yes,Fiber optic,109.93,Month-to-month,Credit card (automatic),3550.62,1
+Female,1,No,No,22,Yes,No,95.16,One year,Electronic check,2066.78,0
+Female,0,No,Yes,40,No,DSL,86.33,Month-to-month,Electronic check,2987.44,1
+Female,0,No,Yes,5,Yes,Fiber optic,101.18,Two year,Credit card (automatic),515.41,0
+Female,0,No,No,3,Yes,DSL,90.17,Month-to-month,Electronic check,264.15,1
+Female,1,No,Yes,31,No,Fiber optic,43.93,Two year,Mailed check,1372.54,0
+Female,1,Yes,No,56,Yes,DSL,65.56,Two year,Electronic check,3568.44,0
+Male,1,No,No,22,Yes,Fiber optic,85.39,Month-to-month,Bank transfer (automatic),1569.97,1
+Female,0,No,Yes,23,Yes,DSL,77.96,Month-to-month,Electronic check,1565.08,1
+Female,0,Yes,No,11,Yes,DSL,108.28,One year,Electronic check,1214.75,0
+Female,0,No,Yes,20,Yes,Fiber optic,66.33,One year,Mailed check,1348.0,1
+Male,0,No,No,21,Yes,Fiber optic,36.15,Month-to-month,Bank transfer (automatic),771.3,0
+Female,1,Yes,Yes,18,Yes,Fiber optic,39.89,Month-to-month,Electronic check,591.62,1
+Male,1,No,No,25,No,DSL,104.3,Month-to-month,Bank transfer (automatic),2684.0,1
+Male,1,No,No,20,No,No,18.89,One year,Mailed check,352.93,0
+Female,0,No,No,49,Yes,DSL,106.65,One year,Mailed check,5227.69,0
+Male,0,Yes,No,24,Yes,Fiber optic,23.67,Month-to-month,Mailed check,506.01,0
+Male,1,Yes,No,55,Yes,No,57.95,Month-to-month,Electronic check,3251.24,1
+Female,0,No,No,44,Yes,Fiber optic,99.62,One year,Electronic check,4713.75,1
+Male,0,Yes,No,46,Yes,DSL,59.58,Two year,Credit card (automatic),2428.02,0
+Female,0,Yes,No,42,Yes,Fiber optic,101.88,Month-to-month,Electronic check,4381.19,1
+Male,0,Yes,No,67,Yes,DSL,28.23,Month-to-month,Credit card (automatic),1848.45,0
+Male,1,Yes,No,18,Yes,Fiber optic,70.18,Month-to-month,Electronic check,1125.55,1
+Female,1,No,Yes,71,Yes,Fiber optic,77.41,One year,Mailed check,4927.44,1
+Female,0,No,No,15,Yes,Fiber optic,108.87,Month-to-month,Bank transfer (automatic),1649.75,0
+Male,1,No,No,10,Yes,No,27.55,Month-to-month,Credit card (automatic),246.28,1
+Female,0,No,No,60,Yes,DSL,52.54,One year,Electronic check,2624.14,0
+Female,0,Yes,Yes,65,No,DSL,85.25,Month-to-month,Electronic check,5802.96,0
+Male,0,Yes,No,6,Yes,Fiber optic,117.95,Month-to-month,Bank transfer (automatic),688.68,1
+Female,1,Yes,Yes,43,Yes,Fiber optic,104.52,Month-to-month,Electronic check,4571.68,1
+Male,1,Yes,No,37,Yes,Fiber optic,104.34,Month-to-month,Bank transfer (automatic),3771.16,0
+Female,1,Yes,No,16,Yes,Fiber optic,70.75,Month-to-month,Credit card (automatic),1080.24,1
+Female,0,Yes,Yes,38,Yes,Fiber optic,75.56,Month-to-month,Electronic check,2929.27,1
+Female,0,Yes,No,50,Yes,No,105.58,Month-to-month,Credit card (automatic),4372.92,1
+Female,1,Yes,Yes,41,Yes,Fiber optic,106.7,Month-to-month,Electronic check,3942.0,0
+Male,0,No,No,37,Yes,DSL,99.83,Two year,Credit card (automatic),3631.44,0
+Male,0,No,No,64,Yes,DSL,101.49,Two year,Credit card (automatic),6920.37,0
+Male,1,No,No,16,Yes,Fiber optic,107.72,Month-to-month,Bank transfer (automatic),1589.69,1
+Female,1,No,No,45,No,DSL,29.61,One year,Credit card (automatic),1430.49,0
+Female,0,No,Yes,23,Yes,DSL,47.85,Month-to-month,Credit card (automatic),1118.57,0
+Male,0,Yes,No,71,Yes,DSL,117.56,Two year,Electronic check,7896.64,0
+Female,1,No,No,18,Yes,Fiber optic,73.57,Two year,Electronic check,1233.66,1
+Female,0,Yes,Yes,63,Yes,No,36.0,One year,Electronic check,1936.09,1
+Female,0,Yes,No,46,Yes,Fiber optic,69.31,One year,Mailed check,3124.34,0
+Male,0,Yes,No,15,No,DSL,83.87,Month-to-month,Bank transfer (automatic),1048.73,0
+Female,0,Yes,No,55,Yes,Fiber optic,102.48,Month-to-month,Mailed check,5250.64,1
+Female,1,Yes,No,17,No,Fiber optic,100.84,Month-to-month,Bank transfer (automatic),1511.66,1
+Male,1,No,No,19,Yes,No,23.02,Month-to-month,Mailed check,467.4,0
+Male,1,No,No,25,Yes,Fiber optic,64.26,One year,Electronic check,1469.06,1
+Male,0,No,Yes,49,Yes,Fiber optic,20.1,Month-to-month,Electronic check,932.9,1
+Male,0,No,No,28,No,No,108.59,Month-to-month,Credit card (automatic),2790.07,1
+Female,1,No,No,41,Yes,Fiber optic,35.74,One year,Mailed check,1253.85,1
+Female,0,Yes,Yes,40,Yes,DSL,81.74,One year,Electronic check,2980.8,0
+Female,1,No,No,14,Yes,Fiber optic,76.2,One year,Electronic check,1090.85,1
+Male,1,No,Yes,16,Yes,Fiber optic,81.8,Month-to-month,Credit card (automatic),1284.6,1
+Female,0,Yes,No,22,Yes,Fiber optic,75.47,Two year,Electronic check,1550.31,0
+Male,1,Yes,No,16,Yes,No,90.99,Month-to-month,Bank transfer (automatic),1504.39,1
+Female,1,No,No,67,Yes,DSL,81.86,One year,Electronic check,4503.3,0
+Male,0,No,Yes,27,Yes,Fiber optic,27.21,Month-to-month,Electronic check,760.32,1
+Male,1,Yes,No,29,Yes,DSL,55.41,Month-to-month,Bank transfer (automatic),1342.52,1
+Female,0,No,No,49,Yes,DSL,73.75,Two year,Bank transfer (automatic),3780.96,1
+Male,1,Yes,No,57,Yes,Fiber optic,51.17,Month-to-month,Bank transfer (automatic),3110.27,0
+Female,1,Yes,No,50,No,Fiber optic,95.55,Month-to-month,Electronic check,4935.08,0
+Female,0,Yes,No,40,Yes,Fiber optic,50.43,Month-to-month,Credit card (automatic),1664.38,0
+Female,1,Yes,No,71,Yes,DSL,102.53,Two year,Mailed check,6965.25,0
+Female,0,No,No,65,Yes,DSL,32.97,Two year,Credit card (automatic),2219.1,0
+Male,1,Yes,No,14,Yes,Fiber optic,96.48,Month-to-month,Electronic check,1298.99,0
+Female,1,No,Yes,11,Yes,Fiber optic,36.71,One year,Mailed check,368.91,1
+Male,1,Yes,No,28,Yes,Fiber optic,71.86,Month-to-month,Electronic check,1896.15,1
+Female,1,No,No,60,Yes,Fiber optic,50.69,One year,Bank transfer (automatic),2557.76,0
+Male,0,No,No,70,Yes,No,83.01,Month-to-month,Bank transfer (automatic),5514.6,1
+Male,1,No,No,51,Yes,Fiber optic,39.7,Month-to-month,Mailed check,1674.91,1
+Female,0,No,No,50,Yes,Fiber optic,99.13,One year,Electronic check,4894.4,1
+Male,1,No,Yes,17,Yes,Fiber optic,76.51,Two year,Electronic check,1198.59,0
+Female,0,No,No,43,Yes,Fiber optic,115.64,Month-to-month,Electronic check,4324.85,0
+Female,1,No,No,13,Yes,No,90.6,Month-to-month,Credit card (automatic),971.12,0
+Female,0,No,No,39,No,Fiber optic,79.95,Two year,Electronic check,3304.36,0
+Female,1,Yes,No,14,Yes,Fiber optic,102.57,Month-to-month,Electronic check,1385.21,1
+Female,0,Yes,No,5,Yes,Fiber optic,40.41,Month-to-month,Mailed check,199.67,0
+Male,1,Yes,No,70,No,Fiber optic,82.54,Month-to-month,Electronic check,5908.57,1
+Male,0,Yes,No,65,Yes,No,57.82,Month-to-month,Credit card (automatic),3694.08,0
+Male,0,Yes,No,50,No,No,93.87,Month-to-month,Electronic check,4352.78,1
+Female,0,Yes,No,45,Yes,DSL,20.5,Month-to-month,Credit card (automatic),906.98,1
+Male,0,No,Yes,17,Yes,DSL,61.63,Month-to-month,Bank transfer (automatic),927.91,1
+Male,1,Yes,No,41,Yes,Fiber optic,84.47,Month-to-month,Mailed check,3345.35,0
+Male,0,No,No,54,Yes,Fiber optic,64.99,Two year,Mailed check,3065.35,0
+Male,0,Yes,No,39,No,No,42.27,Month-to-month,Bank transfer (automatic),1745.02,0
+Male,0,No,No,20,Yes,DSL,65.36,One year,Bank transfer (automatic),1245.09,0
+Male,0,Yes,No,28,Yes,No,104.67,Month-to-month,Electronic check,2581.41,1
+Male,1,Yes,No,61,Yes,Fiber optic,39.1,Month-to-month,Credit card (automatic),2352.43,0
+Male,1,Yes,No,18,Yes,DSL,55.45,Month-to-month,Mailed check,841.88,1
+Male,0,No,No,70,Yes,DSL,119.01,Month-to-month,Mailed check,7771.25,0
+Male,1,Yes,Yes,55,Yes,Fiber optic,111.11,One year,Mailed check,6386.97,0
+Female,1,No,No,64,Yes,DSL,21.46,Month-to-month,Bank transfer (automatic),1400.42,1
+Male,1,Yes,No,37,Yes,Fiber optic,72.09,One year,Mailed check,2675.05,0
+Male,1,No,No,16,No,Fiber optic,24.67,Two year,Mailed check,371.97,0
+Male,1,Yes,Yes,2,Yes,Fiber optic,112.24,Month-to-month,Electronic check,210.16,1
+Female,0,No,No,39,Yes,DSL,63.04,Two year,Mailed check,2023.25,0
+Female,1,Yes,No,29,Yes,No,60.68,Month-to-month,Electronic check,1717.5,1
+Female,0,Yes,No,8,Yes,Fiber optic,45.84,Month-to-month,Credit card (automatic),355.73,1
+Male,0,Yes,Yes,67,Yes,Fiber optic,76.02,Month-to-month,Electronic check,4183.53,0
+Male,1,Yes,No,70,Yes,Fiber optic,32.79,Two year,Credit card (automatic),1963.93,0
+Male,0,Yes,No,27,Yes,Fiber optic,99.49,One year,Bank transfer (automatic),2211.39,0
+Female,1,No,Yes,48,Yes,No,68.1,Two year,Bank transfer (automatic),2895.59,0
+Female,1,Yes,Yes,30,Yes,Fiber optic,75.78,One year,Credit card (automatic),1866.47,1
+Female,1,Yes,Yes,36,Yes,Fiber optic,103.76,Month-to-month,Electronic check,3468.34,1
+Female,0,No,No,45,No,DSL,36.89,Two year,Mailed check,1566.86,0
+Female,0,Yes,Yes,30,Yes,DSL,35.87,Two year,Electronic check,1004.69,0
+Female,0,Yes,No,58,Yes,Fiber optic,60.92,One year,Electronic check,3080.53,0
+Female,1,No,No,13,Yes,DSL,98.19,One year,Mailed check,1220.47,1
+Male,0,No,No,48,Yes,Fiber optic,23.97,Two year,Bank transfer (automatic),1186.99,0
+Male,1,No,No,71,Yes,No,99.11,Month-to-month,Credit card (automatic),6302.98,1
+Female,0,Yes,No,62,Yes,Fiber optic,69.08,Two year,Electronic check,3860.1,0
+Male,0,No,Yes,3,Yes,DSL,75.3,Two year,Bank transfer (automatic),217.12,0
+Male,0,Yes,No,8,Yes,Fiber optic,75.57,One year,Electronic check,532.48,1
+Female,0,No,Yes,45,Yes,DSL,23.73,Month-to-month,Electronic check,969.42,0
+Male,0,No,Yes,67,Yes,Fiber optic,43.48,Month-to-month,Electronic check,2731.48,0
+Female,0,No,No,61,Yes,Fiber optic,95.04,Two year,Bank transfer (automatic),5336.19,0
+Female,1,Yes,Yes,65,Yes,Fiber optic,60.05,Two year,Mailed check,4031.04,0
+Male,1,Yes,Yes,10,Yes,Fiber optic,75.17,One year,Electronic check,782.32,1
+Female,1,No,No,37,Yes,Fiber optic,114.38,Two year,Electronic check,3913.59,0
+Female,0,No,No,52,Yes,DSL,22.72,Month-to-month,Mailed check,1106.33,0
+Female,0,No,Yes,45,Yes,DSL,63.87,Two year,Credit card (automatic),3071.87,0
+Male,1,No,No,56,Yes,Fiber optic,54.85,Month-to-month,Electronic check,2920.49,1
+Female,1,No,No,15,No,No,28.86,Month-to-month,Bank transfer (automatic),466.75,1
+Female,1,Yes,No,33,Yes,DSL,114.98,Month-to-month,Bank transfer (automatic),3863.89,1
+Female,0,Yes,Yes,32,Yes,DSL,116.07,Month-to-month,Mailed check,3300.85,1
+Male,0,Yes,No,68,Yes,DSL,49.77,Month-to-month,Electronic check,2976.76,0
+Male,1,Yes,No,14,Yes,Fiber optic,114.57,One year,Credit card (automatic),1381.6,1
+Female,1,Yes,Yes,23,Yes,DSL,21.59,Month-to-month,Mailed check,511.27,1
+Male,1,No,Yes,1,Yes,Fiber optic,118.05,One year,Mailed check,106.22,1
+Male,1,No,Yes,11,Yes,DSL,103.27,Month-to-month,Credit card (automatic),1131.09,1
+Male,0,No,No,71,Yes,Fiber optic,39.86,Two year,Credit card (automatic),2718.09,0
+Male,1,Yes,Yes,61,Yes,DSL,79.15,Month-to-month,Bank transfer (automatic),4995.97,0
+Male,1,No,No,18,Yes,Fiber optic,99.43,One year,Credit card (automatic),1816.97,1
+Male,1,No,No,51,Yes,DSL,50.57,One year,Electronic check,2157.58,0
+Female,1,No,Yes,43,Yes,Fiber optic,54.08,Month-to-month,Bank transfer (automatic),2111.48,1
+Male,0,No,No,66,Yes,No,82.16,Month-to-month,Electronic check,5179.77,1
+Male,1,No,Yes,21,Yes,DSL,33.0,Month-to-month,Credit card (automatic),713.06,0
+Male,0,No,Yes,72,Yes,No,30.06,Month-to-month,Mailed check,2176.54,0
+Female,1,Yes,No,27,Yes,DSL,43.48,Month-to-month,Electronic check,1130.34,0
+Male,0,No,No,52,Yes,Fiber optic,93.61,Month-to-month,Mailed check,5014.62,0
+Female,1,Yes,No,29,Yes,Fiber optic,55.39,One year,Bank transfer (automatic),1498.82,1
+Female,1,Yes,No,49,Yes,DSL,69.75,Month-to-month,Mailed check,2852.01,0
+Female,0,Yes,Yes,24,No,Fiber optic,37.94,Month-to-month,Bank transfer (automatic),952.75,1
+Female,0,No,No,61,No,DSL,37.8,Month-to-month,Electronic check,2206.45,0
+Male,1,No,Yes,46,Yes,Fiber optic,84.35,Month-to-month,Electronic check,3997.22,1
+Female,0,No,No,21,Yes,Fiber optic,29.05,Month-to-month,Mailed check,562.43,1
+Male,1,Yes,No,70,Yes,No,86.12,One year,Mailed check,5865.78,0
+Female,1,Yes,No,51,Yes,DSL,58.87,One year,Bank transfer (automatic),2720.4,1
+Female,1,No,No,31,Yes,No,86.47,Month-to-month,Credit card (automatic),2483.52,1
+Female,0,Yes,No,9,Yes,DSL,56.94,Month-to-month,Bank transfer (automatic),439.86,0
+Female,0,No,No,71,Yes,Fiber optic,104.3,Month-to-month,Mailed check,7500.21,0
+Male,1,Yes,Yes,55,Yes,DSL,23.67,One year,Mailed check,1162.39,1
+Female,1,No,Yes,48,Yes,DSL,109.12,Month-to-month,Credit card (automatic),4705.87,0
+Female,1,No,Yes,60,Yes,DSL,45.4,Two year,Bank transfer (automatic),2484.53,0
+Female,0,No,No,44,Yes,Fiber optic,22.34,One year,Credit card (automatic),916.47,1
+Male,1,Yes,No,16,Yes,DSL,75.37,One year,Electronic check,1169.5,1
+Female,1,No,Yes,17,Yes,Fiber optic,40.88,Month-to-month,Bank transfer (automatic),693.24,1
+Male,1,No,No,5,Yes,No,64.84,Two year,Electronic check,322.8,0
+Male,0,No,No,4,Yes,DSL,99.84,Month-to-month,Bank transfer (automatic),371.47,1
+Male,1,No,Yes,53,Yes,DSL,98.74,Month-to-month,Credit card (automatic),4946.92,1
+Female,1,Yes,No,62,Yes,DSL,79.24,Two year,Credit card (automatic),4207.8,0
+Male,0,No,No,11,Yes,DSL,117.74,One year,Electronic check,1237.62,0
+Male,1,Yes,No,41,Yes,Fiber optic,65.3,Month-to-month,Credit card (automatic),2805.9,0
+Male,1,Yes,No,9,Yes,Fiber optic,22.02,Month-to-month,Electronic check,186.23,1
+Female,0,No,No,30,Yes,DSL,101.58,Month-to-month,Mailed check,3242.08,0
+Male,1,No,No,57,Yes,DSL,40.57,Two year,Bank transfer (automatic),1989.91,0
+Female,1,Yes,No,59,Yes,Fiber optic,35.98,Month-to-month,Mailed check,2147.44,1
+Female,1,Yes,No,69,No,DSL,25.14,Month-to-month,Electronic check,1741.73,1
+Female,0,Yes,No,22,Yes,Fiber optic,51.45,Month-to-month,Bank transfer (automatic),1128.73,1
+Female,1,Yes,No,69,Yes,No,51.27,Two year,Bank transfer (automatic),3510.54,0
+Male,1,No,No,57,Yes,DSL,48.88,One year,Bank transfer (automatic),2300.81,0
+Male,0,Yes,Yes,24,Yes,Fiber optic,78.51,Month-to-month,Mailed check,1908.64,0
+Male,1,No,Yes,23,No,No,94.66,Two year,Bank transfer (automatic),2068.14,0
+Female,0,Yes,No,7,Yes,Fiber optic,113.65,Month-to-month,Mailed check,760.78,1
+Female,0,Yes,No,67,Yes,Fiber optic,27.59,One year,Electronic check,1540.24,0
+Female,1,No,No,14,Yes,Fiber optic,33.34,One year,Mailed check,405.6,1
+Male,0,Yes,No,19,Yes,Fiber optic,78.16,Month-to-month,Bank transfer (automatic),1569.48,1
+Male,0,Yes,Yes,30,Yes,Fiber optic,28.01,One year,Electronic check,757.98,1
+Male,0,No,Yes,10,Yes,Fiber optic,55.82,Two year,Electronic check,514.89,0
+Male,1,No,No,58,Yes,Fiber optic,81.7,Month-to-month,Credit card (automatic),4118.76,0
+Male,0,No,Yes,50,Yes,Fiber optic,97.62,Month-to-month,Credit card (automatic),4804.71,0
+Female,1,Yes,No,11,Yes,Fiber optic,40.2,Two year,Bank transfer (automatic),447.76,0
+Male,1,No,No,11,Yes,No,86.13,Month-to-month,Bank transfer (automatic),1003.83,1
+Female,1,No,No,1,Yes,DSL,83.88,Month-to-month,Credit card (automatic),81.04,1
+Male,1,No,No,69,Yes,DSL,105.68,Month-to-month,Mailed check,6501.94,0
+Male,0,Yes,No,31,Yes,DSL,50.0,Two year,Electronic check,1299.6,0
+Female,0,Yes,No,47,Yes,DSL,94.51,One year,Bank transfer (automatic),3949.75,0
+Female,1,Yes,Yes,10,Yes,Fiber optic,94.7,Two year,Credit card (automatic),928.79,1
+Male,1,Yes,No,16,Yes,DSL,42.4,Month-to-month,Bank transfer (automatic),728.1,0
+Male,1,No,No,39,Yes,Fiber optic,81.36,Two year,Electronic check,2667.23,0
+Male,0,Yes,Yes,15,Yes,Fiber optic,86.87,Month-to-month,Credit card (automatic),1200.08,1
+Female,0,Yes,No,44,Yes,DSL,45.99,One year,Bank transfer (automatic),2010.37,0
+Male,1,Yes,No,67,Yes,DSL,64.08,One year,Mailed check,4161.93,1
+Female,1,No,Yes,22,Yes,Fiber optic,62.45,Month-to-month,Credit card (automatic),1359.39,1
+Male,0,Yes,No,44,Yes,Fiber optic,96.9,One year,Bank transfer (automatic),4009.64,0
+Female,1,Yes,No,66,Yes,Fiber optic,18.07,Month-to-month,Credit card (automatic),1060.75,1
+Male,1,Yes,No,65,Yes,DSL,69.1,Month-to-month,Credit card (automatic),4246.78,1
+Female,0,No,No,0,Yes,DSL,36.8,One year,Electronic check,33.83,0
+Female,1,Yes,No,8,Yes,DSL,83.98,Month-to-month,Bank transfer (automatic),674.81,1
+Male,0,No,No,71,Yes,DSL,87.4,One year,Mailed check,5365.33,0
+Male,0,Yes,No,67,Yes,No,69.11,Month-to-month,Credit card (automatic),4394.21,1
+Female,0,Yes,Yes,23,Yes,DSL,73.29,Month-to-month,Credit card (automatic),1802.58,0
+Male,1,Yes,Yes,37,Yes,DSL,50.14,One year,Credit card (automatic),1777.76,0
+Male,1,Yes,No,41,Yes,No,49.96,Month-to-month,Bank transfer (automatic),1805.99,0
+Male,1,Yes,No,48,Yes,Fiber optic,94.0,Two year,Credit card (automatic),4797.7,0
+Male,1,No,Yes,54,Yes,Fiber optic,31.44,Two year,Electronic check,1499.94,0
+Male,0,No,No,27,Yes,Fiber optic,96.69,Month-to-month,Mailed check,2650.59,1
+Male,0,Yes,No,64,Yes,No,84.81,Month-to-month,Electronic check,4605.4,0
+Male,0,Yes,No,4,Yes,DSL,108.22,Month-to-month,Credit card (automatic),450.86,1
+Male,1,No,No,2,Yes,DSL,44.53,One year,Bank transfer (automatic),77.21,0
+Male,1,Yes,No,69,Yes,No,69.63,Month-to-month,Bank transfer (automatic),4432.06,0
+Male,1,Yes,No,12,Yes,Fiber optic,21.98,Two year,Electronic check,282.5,1
+Female,0,Yes,No,72,Yes,No,111.08,Two year,Bank transfer (automatic),7762.97,0
+Male,0,Yes,Yes,20,Yes,DSL,86.89,Month-to-month,Mailed check,1544.28,0
+Male,0,Yes,No,26,Yes,No,81.53,One year,Credit card (automatic),1738.57,1
+Male,0,No,Yes,2,Yes,DSL,92.73,Month-to-month,Credit card (automatic),152.4,1
+Female,0,No,No,68,Yes,Fiber optic,47.0,Month-to-month,Mailed check,2848.89,0
+Male,1,No,Yes,26,Yes,No,79.59,Month-to-month,Credit card (automatic),1980.32,0
+Male,1,Yes,No,12,Yes,DSL,99.69,One year,Electronic check,1131.77,0
+Male,0,Yes,No,35,Yes,DSL,27.21,Month-to-month,Electronic check,1009.2,1
+Male,0,Yes,Yes,11,Yes,Fiber optic,115.8,Two year,Bank transfer (automatic),1297.57,0
+Male,1,Yes,No,57,Yes,No,108.97,Month-to-month,Bank transfer (automatic),6586.65,1
+Male,0,Yes,Yes,5,Yes,DSL,116.23,One year,Electronic check,553.87,0
+Female,0,Yes,No,36,Yes,No,100.45,Two year,Electronic check,3385.25,0
+Female,1,Yes,No,28,Yes,DSL,48.02,One year,Mailed check,1300.44,0
+Male,1,Yes,No,2,Yes,Fiber optic,77.32,Month-to-month,Electronic check,141.77,1
+Female,1,Yes,No,3,No,DSL,30.26,Month-to-month,Mailed check,79.42,0
+Female,0,No,No,37,Yes,No,94.93,Month-to-month,Mailed check,3644.24,0
+Male,1,Yes,No,28,No,DSL,33.67,Month-to-month,Credit card (automatic),939.87,0
+Male,0,No,No,9,No,Fiber optic,106.42,Two year,Electronic check,866.48,0
+Male,0,Yes,No,10,Yes,DSL,42.54,Month-to-month,Electronic check,398.19,1
+Female,1,No,No,58,Yes,No,34.36,Month-to-month,Electronic check,1750.98,1
+Male,1,Yes,Yes,53,Yes,Fiber optic,25.23,One year,Electronic check,1292.18,1
+Female,0,No,No,44,Yes,DSL,90.56,Month-to-month,Bank transfer (automatic),3638.67,1
+Male,1,Yes,Yes,60,Yes,DSL,36.99,Two year,Mailed check,2325.15,0
+Female,0,Yes,No,5,Yes,Fiber optic,38.16,Month-to-month,Electronic check,182.67,1
+Female,0,No,No,50,No,Fiber optic,35.31,Month-to-month,Credit card (automatic),1636.71,1
+Male,0,Yes,No,54,Yes,No,49.19,One year,Bank transfer (automatic),2695.84,1
+Male,1,Yes,Yes,14,No,Fiber optic,114.0,Month-to-month,Electronic check,1684.3,1
+Female,1,No,Yes,39,Yes,Fiber optic,67.64,Two year,Electronic check,2723.77,0
+Male,0,Yes,No,55,Yes,Fiber optic,44.61,Month-to-month,Credit card (automatic),2327.63,0
+Male,0,No,Yes,44,Yes,Fiber optic,35.38,Month-to-month,Bank transfer (automatic),1420.78,1
+Female,0,No,No,18,Yes,DSL,19.93,Month-to-month,Credit card (automatic),355.93,0
+Male,0,Yes,No,48,Yes,DSL,55.23,Month-to-month,Electronic check,2736.9,0
+Male,0,Yes,No,55,Yes,DSL,29.23,One year,Bank transfer (automatic),1727.33,0
+Male,0,Yes,Yes,0,Yes,Fiber optic,20.76,Month-to-month,Electronic check,19.49,1
+Male,1,No,No,41,Yes,DSL,28.5,One year,Electronic check,1161.19,0
+Female,0,Yes,No,36,Yes,Fiber optic,50.49,Two year,Bank transfer (automatic),1628.98,0
+Female,0,Yes,No,26,Yes,DSL,94.59,Month-to-month,Bank transfer (automatic),2072.59,1
+Male,1,Yes,Yes,3,Yes,Fiber optic,24.83,One year,Electronic check,65.98,0
+Male,0,No,Yes,6,Yes,DSL,87.22,Month-to-month,Electronic check,431.09,1
+Female,0,No,No,54,Yes,Fiber optic,81.3,Two year,Bank transfer (automatic),4181.45,0
+Male,0,No,No,60,Yes,DSL,107.96,Month-to-month,Electronic check,5940.09,0
+Male,0,No,No,30,Yes,DSL,36.77,One year,Electronic check,1099.08,0
+Male,0,No,Yes,68,Yes,DSL,99.02,Month-to-month,Electronic check,6598.57,0
+Male,1,No,No,67,Yes,Fiber optic,106.22,Month-to-month,Electronic check,6146.34,0
+Female,0,No,Yes,48,No,Fiber optic,117.6,Month-to-month,Credit card (automatic),5617.67,0
+Male,1,No,Yes,42,Yes,DSL,100.47,Month-to-month,Electronic check,3665.79,1
+Male,1,Yes,No,70,Yes,Fiber optic,30.62,Two year,Mailed check,1760.91,0
+Female,0,No,No,44,Yes,Fiber optic,114.61,Month-to-month,Bank transfer (automatic),5407.19,1
+Male,0,No,Yes,68,No,Fiber optic,101.13,Two year,Electronic check,5687.26,1
+Female,0,Yes,No,71,Yes,Fiber optic,39.66,Month-to-month,Bank transfer (automatic),2559.21,0
+Male,0,Yes,Yes,14,Yes,DSL,34.85,Month-to-month,Electronic check,480.95,0
+Male,1,Yes,Yes,48,Yes,Fiber optic,113.51,Month-to-month,Credit card (automatic),4992.43,0
+Male,1,No,No,53,Yes,Fiber optic,33.88,Month-to-month,Credit card (automatic),1650.4,0
+Female,0,Yes,No,59,Yes,Fiber optic,97.26,Two year,Credit card (automatic),5783.73,1
+Female,0,No,No,25,Yes,DSL,59.34,Month-to-month,Mailed check,1448.73,0
+Male,0,Yes,No,62,Yes,Fiber optic,91.83,Two year,Credit card (automatic),5435.99,0
+Male,1,No,Yes,35,Yes,DSL,27.37,Month-to-month,Bank transfer (automatic),1006.27,0
+Male,1,Yes,No,28,Yes,Fiber optic,91.96,Month-to-month,Mailed check,2183.78,1
+Female,0,No,No,11,Yes,DSL,70.21,Month-to-month,Electronic check,727.62,1
+Male,0,No,Yes,23,Yes,DSL,109.84,One year,Electronic check,2228.61,0
+Female,0,Yes,No,71,Yes,Fiber optic,37.22,Month-to-month,Electronic check,2192.24,1
+Female,0,Yes,Yes,52,Yes,No,29.15,Two year,Electronic check,1628.8,0
+Female,0,Yes,No,53,Yes,DSL,38.01,Month-to-month,Credit card (automatic),2036.38,1
+Male,0,Yes,No,65,Yes,Fiber optic,26.01,Month-to-month,Credit card (automatic),1481.36,1
+Male,0,No,Yes,19,No,Fiber optic,117.98,One year,Electronic check,2072.68,1
+Male,0,No,No,48,Yes,No,30.53,One year,Credit card (automatic),1287.78,0
+Female,0,No,Yes,27,Yes,Fiber optic,38.49,Two year,Bank transfer (automatic),1037.22,0
+Female,1,No,No,61,Yes,DSL,100.59,Month-to-month,Mailed check,5590.6,0
+Female,1,Yes,Yes,30,Yes,DSL,43.17,One year,Credit card (automatic),1371.72,1
+Male,0,No,Yes,62,Yes,Fiber optic,40.67,Month-to-month,Bank transfer (automatic),2203.74,1
+Male,0,No,No,54,Yes,DSL,86.58,Two year,Bank transfer (automatic),4259.01,0
+Female,1,Yes,No,56,Yes,No,58.67,Month-to-month,Electronic check,3490.12,0
+Female,1,No,Yes,67,Yes,No,103.22,Two year,Electronic check,7261.64,0
+Female,0,Yes,No,57,Yes,No,83.1,Month-to-month,Credit card (automatic),4245.15,0
+Female,1,No,Yes,23,Yes,DSL,47.4,One year,Electronic check,1030.89,0
+Male,0,No,No,38,Yes,Fiber optic,78.99,Two year,Electronic check,3150.99,0
+Male,0,No,No,34,Yes,Fiber optic,106.38,Two year,Electronic check,3596.54,0
+Male,1,Yes,Yes,4,Yes,DSL,55.18,Month-to-month,Mailed check,217.56,1
+Female,1,No,No,43,No,DSL,93.12,Month-to-month,Mailed check,3971.11,1
+Female,1,Yes,No,31,Yes,DSL,60.41,Two year,Credit card (automatic),1984.05,0
+Male,0,No,No,28,Yes,Fiber optic,73.39,One year,Mailed check,1961.35,0
+Female,1,Yes,No,8,Yes,No,92.84,One year,Credit card (automatic),644.13,1
+Female,0,No,No,36,Yes,No,24.17,Month-to-month,Bank transfer (automatic),820.44,1
+Female,1,No,No,42,No,DSL,64.4,Month-to-month,Mailed check,2730.53,0
+Female,0,Yes,No,7,Yes,Fiber optic,27.71,Month-to-month,Electronic check,183.87,1
+Male,0,Yes,No,46,Yes,DSL,91.95,One year,Electronic check,3812.86,0
+Male,1,No,No,12,Yes,DSL,80.0,Month-to-month,Credit card (automatic),953.52,0
+Female,1,Yes,No,10,Yes,DSL,51.35,Month-to-month,Bank transfer (automatic),481.18,0
+Female,1,Yes,No,29,Yes,Fiber optic,25.78,Two year,Mailed check,800.2,1
+Male,0,Yes,No,28,Yes,Fiber optic,112.43,Month-to-month,Credit card (automatic),2869.62,0
+Male,0,Yes,No,66,Yes,No,50.13,Two year,Credit card (automatic),3330.24,0
+Female,1,No,No,4,Yes,No,46.09,Month-to-month,Electronic check,177.78,1
+Female,1,No,No,25,Yes,DSL,28.3,Month-to-month,Bank transfer (automatic),594.42,0
+Male,0,Yes,No,53,Yes,Fiber optic,76.89,Month-to-month,Credit card (automatic),3839.37,1
+Female,1,Yes,No,18,Yes,DSL,45.1,Month-to-month,Credit card (automatic),671.83,0
+Male,1,Yes,No,71,Yes,Fiber optic,103.97,One year,Electronic check,7569.05,0
+Male,0,Yes,No,54,Yes,Fiber optic,87.64,Month-to-month,Electronic check,4784.51,1
+Female,1,No,No,69,Yes,DSL,18.4,Month-to-month,Mailed check,1057.75,0
+Male,1,Yes,Yes,69,Yes,DSL,75.7,Month-to-month,Electronic check,4961.72,1
+Female,1,No,No,7,Yes,DSL,41.65,One year,Electronic check,311.96,0
+Male,1,No,Yes,33,No,DSL,19.57,Two year,Bank transfer (automatic),577.36,0
+Female,0,No,Yes,54,Yes,No,81.18,Month-to-month,Mailed check,4625.35,1
+Male,1,No,No,0,No,DSL,38.9,Month-to-month,Electronic check,33.43,0
+Female,1,Yes,No,32,Yes,Fiber optic,109.76,Month-to-month,Bank transfer (automatic),2886.13,0
+Male,1,Yes,No,50,Yes,No,76.48,One year,Electronic check,3663.15,0
+Female,1,Yes,Yes,57,Yes,Fiber optic,39.34,Month-to-month,Mailed check,1978.23,0
+Male,0,No,No,30,No,Fiber optic,117.87,Month-to-month,Credit card (automatic),3707.95,1
+Male,0,No,No,63,Yes,No,73.74,One year,Credit card (automatic),4623.41,1
+Male,0,Yes,No,49,No,DSL,34.88,Month-to-month,Electronic check,1706.71,1
+Female,1,Yes,No,3,Yes,DSL,70.76,One year,Credit card (automatic),211.23,0
+Male,1,Yes,No,20,Yes,Fiber optic,115.85,Month-to-month,Credit card (automatic),2308.96,1
+Female,1,No,Yes,68,Yes,Fiber optic,61.27,Two year,Bank transfer (automatic),4225.73,0
+Female,0,No,Yes,0,Yes,Fiber optic,61.39,Month-to-month,Credit card (automatic),61.03,0
+Female,1,No,Yes,7,Yes,DSL,65.03,Month-to-month,Electronic check,472.01,1
+Female,0,No,No,25,Yes,Fiber optic,46.57,Month-to-month,Electronic check,1123.63,0
+Male,0,Yes,Yes,72,Yes,Fiber optic,34.5,Month-to-month,Credit card (automatic),2263.37,1
+Female,1,No,Yes,51,Yes,No,77.05,One year,Mailed check,3699.2,1
+Female,0,No,Yes,10,Yes,DSL,109.21,Month-to-month,Mailed check,1020.52,0
+Male,0,Yes,Yes,28,Yes,DSL,93.04,Month-to-month,Electronic check,2361.42,1
+Male,0,No,No,68,Yes,No,27.81,One year,Electronic check,1754.96,0
+Female,0,Yes,Yes,15,Yes,Fiber optic,58.89,Month-to-month,Electronic check,812.77,0
+Male,0,No,No,42,Yes,DSL,18.54,One year,Electronic check,661.02,0
+Female,1,No,Yes,33,Yes,DSL,49.41,One year,Credit card (automatic),1689.14,0
+Male,1,No,Yes,55,Yes,Fiber optic,86.28,Month-to-month,Electronic check,4824.56,1
+Male,0,No,Yes,54,Yes,Fiber optic,47.6,One year,Credit card (automatic),2333.31,1
+Female,0,Yes,No,60,Yes,Fiber optic,103.74,Two year,Electronic check,6633.56,0
+Male,0,No,Yes,8,Yes,No,66.69,Two year,Electronic check,569.18,0
+Female,0,No,No,33,Yes,DSL,86.26,Month-to-month,Credit card (automatic),2968.26,1
+Female,1,No,Yes,50,Yes,DSL,108.15,Month-to-month,Electronic check,4475.45,1
+Male,0,No,No,30,Yes,Fiber optic,87.65,Two year,Electronic check,2409.98,0
+Male,0,Yes,Yes,48,Yes,No,109.53,One year,Credit card (automatic),4936.25,0
+Female,0,No,No,46,Yes,DSL,100.42,Month-to-month,Electronic check,4651.04,0
+Female,0,No,No,27,Yes,Fiber optic,75.84,Month-to-month,Electronic check,2017.07,0
+Male,0,Yes,Yes,7,Yes,DSL,48.32,One year,Credit card (automatic),337.02,0
+Female,0,No,Yes,70,No,DSL,48.41,One year,Mailed check,3454.7,0
+Male,1,No,No,60,Yes,No,107.28,Two year,Bank transfer (automatic),6865.45,0
+Male,1,No,Yes,65,Yes,DSL,23.5,Two year,Electronic check,1471.58,1
+Female,1,No,Yes,21,Yes,DSL,114.03,Month-to-month,Electronic check,2526.46,1
+Male,0,Yes,No,23,Yes,Fiber optic,51.36,One year,Mailed check,1218.91,1
+Female,1,No,Yes,23,Yes,Fiber optic,93.36,Month-to-month,Bank transfer (automatic),1949.43,1
+Female,1,Yes,No,2,Yes,Fiber optic,51.66,Month-to-month,Electronic check,106.58,1
+Female,0,No,No,12,Yes,Fiber optic,115.24,Month-to-month,Credit card (automatic),1176.15,1
+Female,0,Yes,No,22,Yes,DSL,21.72,Two year,Bank transfer (automatic),411.55,0
+Male,1,No,Yes,72,Yes,Fiber optic,54.04,Month-to-month,Mailed check,4194.44,1
+Male,0,No,No,14,Yes,DSL,106.48,Month-to-month,Mailed check,1388.54,1
+Female,0,No,No,37,Yes,DSL,45.95,Month-to-month,Bank transfer (automatic),1597.73,0
+Female,1,No,Yes,39,Yes,Fiber optic,46.11,Month-to-month,Bank transfer (automatic),1919.26,0
+Male,1,Yes,No,26,Yes,DSL,109.67,Month-to-month,Electronic check,2606.42,1
+Female,1,No,No,67,Yes,No,102.72,Month-to-month,Credit card (automatic),6067.46,1
+Male,1,No,No,6,Yes,No,28.79,Month-to-month,Mailed check,145.14,0
+Female,1,Yes,Yes,63,Yes,No,77.18,Month-to-month,Credit card (automatic),4647.82,0
+Male,1,No,Yes,54,Yes,DSL,40.79,Two year,Credit card (automatic),1920.54,0
+Female,0,No,No,22,Yes,DSL,39.94,One year,Electronic check,735.32,0
+Male,1,No,No,56,Yes,No,80.77,Two year,Mailed check,4665.14,0
+Male,1,No,No,31,Yes,Fiber optic,30.63,Month-to-month,Mailed check,859.74,0
+Female,1,Yes,Yes,70,Yes,Fiber optic,65.92,Month-to-month,Mailed check,4478.93,0
+Male,1,No,No,2,No,No,44.09,Month-to-month,Credit card (automatic),74.71,0
+Male,0,Yes,Yes,2,Yes,DSL,105.1,Two year,Electronic check,200.0,1
+Female,0,Yes,No,39,Yes,DSL,74.56,Month-to-month,Bank transfer (automatic),2862.12,0
+Male,0,Yes,No,67,Yes,Fiber optic,39.94,Month-to-month,Credit card (automatic),2507.3,0
+Male,0,Yes,Yes,4,Yes,Fiber optic,112.5,Two year,Credit card (automatic),408.49,0
+Male,0,Yes,Yes,56,Yes,DSL,101.94,Two year,Electronic check,5142.62,0
+Female,1,No,Yes,68,Yes,Fiber optic,45.06,Month-to-month,Credit card (automatic),2599.69,0
+Female,1,Yes,No,35,No,Fiber optic,116.03,One year,Electronic check,3452.22,1
+Female,0,Yes,No,63,Yes,Fiber optic,45.31,Month-to-month,Mailed check,2708.61,0
+Male,0,Yes,No,55,No,DSL,47.85,Month-to-month,Electronic check,2253.03,0
+Male,1,No,No,15,Yes,Fiber optic,57.37,Month-to-month,Bank transfer (automatic),755.65,0
+Male,1,Yes,No,62,Yes,Fiber optic,34.81,Two year,Electronic check,1862.23,0
+Female,1,Yes,No,51,Yes,No,88.08,Month-to-month,Electronic check,4620.76,0
+Male,0,No,No,0,Yes,DSL,74.85,One year,Electronic check,70.13,0
+Male,0,Yes,No,41,Yes,No,109.24,Month-to-month,Credit card (automatic),4316.14,0
+Female,1,No,No,47,Yes,Fiber optic,42.57,One year,Bank transfer (automatic),1943.91,0
+Female,0,Yes,No,58,Yes,Fiber optic,35.36,One year,Bank transfer (automatic),1893.09,0
+Female,0,Yes,No,56,Yes,DSL,54.58,One year,Bank transfer (automatic),2743.47,0
+Male,0,Yes,No,34,Yes,DSL,32.9,Two year,Mailed check,1028.48,0
+Female,0,No,No,21,Yes,Fiber optic,114.51,One year,Electronic check,2306.25,1
+Female,0,Yes,No,13,Yes,DSL,91.18,One year,Electronic check,1082.49,0
+Male,1,No,Yes,6,Yes,DSL,99.21,Month-to-month,Mailed check,509.26,0
+Female,0,Yes,No,46,Yes,No,94.3,Two year,Credit card (automatic),4587.48,0
+Female,1,No,Yes,70,Yes,DSL,42.77,Month-to-month,Electronic check,3025.11,0
+Male,1,Yes,No,5,No,No,32.35,Month-to-month,Bank transfer (automatic),135.42,0
+Female,0,Yes,No,51,Yes,Fiber optic,61.8,Month-to-month,Credit card (automatic),3326.67,0
+Female,0,Yes,No,42,Yes,No,102.56,Month-to-month,Credit card (automatic),3723.08,0
+Female,1,No,Yes,12,Yes,DSL,51.71,One year,Electronic check,524.59,0
+Female,1,Yes,No,15,Yes,Fiber optic,18.98,Month-to-month,Credit card (automatic),246.28,0
+Female,0,No,No,20,Yes,Fiber optic,85.33,Month-to-month,Bank transfer (automatic),1813.41,1
+Female,0,No,No,50,Yes,No,38.41,Two year,Mailed check,1685.31,0
+Male,1,No,No,21,Yes,DSL,73.37,Two year,Bank transfer (automatic),1578.7,0
+Female,0,Yes,No,60,Yes,DSL,19.52,Month-to-month,Electronic check,1156.2,1
+Female,0,No,No,26,Yes,No,69.9,Two year,Credit card (automatic),1735.14,0
+Female,0,No,Yes,7,Yes,DSL,58.15,Month-to-month,Bank transfer (automatic),372.47,1
+Male,0,No,No,6,Yes,Fiber optic,107.8,Month-to-month,Credit card (automatic),546.0,1
+Male,1,No,No,29,Yes,DSL,91.63,Two year,Credit card (automatic),2669.95,0
+Female,0,No,Yes,29,Yes,DSL,21.67,One year,Bank transfer (automatic),579.82,1
+Female,0,No,No,53,Yes,Fiber optic,98.53,One year,Electronic check,5008.49,1
+Female,1,No,No,34,Yes,Fiber optic,98.71,Month-to-month,Electronic check,2797.2,1
+Male,0,Yes,No,11,Yes,Fiber optic,85.67,Month-to-month,Credit card (automatic),962.86,1
+Male,0,No,No,15,Yes,Fiber optic,112.79,Month-to-month,Bank transfer (automatic),1691.83,1
+Female,1,No,No,41,Yes,Fiber optic,99.93,Two year,Credit card (automatic),3923.49,0
+Male,0,No,Yes,24,Yes,No,40.33,Month-to-month,Mailed check,918.59,0
+Female,1,No,No,49,No,DSL,56.92,Month-to-month,Mailed check,2531.45,0
+Male,0,Yes,No,67,Yes,DSL,53.69,Month-to-month,Credit card (automatic),3269.97,1
+Male,0,Yes,No,25,No,DSL,69.5,One year,Bank transfer (automatic),1455.68,0
+Female,0,Yes,No,40,No,Fiber optic,115.28,Month-to-month,Mailed check,4604.49,1
+Male,1,No,No,60,Yes,DSL,80.79,One year,Electronic check,4031.55,0
+Female,0,Yes,No,15,Yes,Fiber optic,49.92,Month-to-month,Credit card (automatic),614.29,1
+Female,0,No,Yes,37,Yes,Fiber optic,114.03,Month-to-month,Bank transfer (automatic),3493.66,1
+Female,1,No,No,22,No,Fiber optic,89.43,Month-to-month,Mailed check,1717.39,1
+Male,0,No,No,45,Yes,No,45.14,Month-to-month,Mailed check,1966.81,0
+Male,1,Yes,No,54,Yes,Fiber optic,110.46,One year,Electronic check,5947.55,0
+Female,0,No,Yes,10,Yes,Fiber optic,53.11,Two year,Mailed check,493.6,0
+Male,1,Yes,No,13,Yes,DSL,70.65,Month-to-month,Electronic check,850.71,0
+Male,0,No,Yes,1,Yes,Fiber optic,66.88,Month-to-month,Electronic check,64.87,1
+Male,1,Yes,No,0,Yes,DSL,112.21,Month-to-month,Credit card (automatic),109.42,1
+Female,0,Yes,No,3,Yes,No,45.1,Two year,Mailed check,140.67,0
+Male,1,Yes,Yes,51,Yes,Fiber optic,52.0,Two year,Credit card (automatic),2739.42,1
+Male,1,No,No,65,Yes,DSL,85.34,One year,Mailed check,5736.35,1
+Female,0,Yes,No,29,Yes,DSL,108.43,Month-to-month,Electronic check,3268.63,1
+Male,0,No,Yes,64,Yes,Fiber optic,29.72,Month-to-month,Mailed check,1994.82,1
+Female,0,No,No,53,Yes,No,39.41,Two year,Electronic check,2014.33,1
+Female,1,No,No,58,Yes,DSL,114.7,Month-to-month,Bank transfer (automatic),6484.58,0
+Female,1,Yes,Yes,54,Yes,DSL,97.28,One year,Credit card (automatic),5300.81,0
+Female,1,Yes,No,14,Yes,Fiber optic,53.3,Two year,Bank transfer (automatic),650.49,1
+Male,0,Yes,No,38,Yes,No,54.48,One year,Bank transfer (automatic),1891.62,0
+Male,1,Yes,Yes,38,Yes,No,65.89,One year,Credit card (automatic),2647.26,0
+Male,0,No,Yes,46,No,DSL,86.73,Month-to-month,Bank transfer (automatic),3813.71,1
+Male,1,Yes,No,58,Yes,Fiber optic,75.23,Two year,Mailed check,3636.69,0
+Female,0,Yes,No,8,Yes,Fiber optic,97.16,Month-to-month,Bank transfer (automatic),719.33,1
+Female,1,Yes,No,49,Yes,Fiber optic,23.53,Two year,Mailed check,993.64,0
+Female,1,No,No,60,Yes,Fiber optic,101.54,Month-to-month,Electronic check,5560.13,1
+Female,1,Yes,No,8,Yes,Fiber optic,23.92,One year,Bank transfer (automatic),184.03,1
+Female,0,No,No,30,Yes,Fiber optic,107.86,Two year,Bank transfer (automatic),3078.33,0
+Male,0,Yes,No,65,Yes,DSL,22.41,One year,Electronic check,1380.21,0
+Male,1,No,No,1,Yes,DSL,31.04,Month-to-month,Credit card (automatic),25.6,1
+Female,0,No,No,11,Yes,Fiber optic,36.38,Month-to-month,Electronic check,374.46,1
+Male,0,Yes,No,58,Yes,DSL,40.75,Two year,Bank transfer (automatic),1955.87,0
+Female,1,Yes,No,12,Yes,Fiber optic,58.98,One year,Credit card (automatic),654.86,0
+Female,1,Yes,No,51,Yes,No,84.86,Month-to-month,Electronic check,4276.88,1
+Female,1,Yes,Yes,65,Yes,No,109.05,Two year,Credit card (automatic),6044.4,0
+Female,1,Yes,No,36,Yes,DSL,71.5,Two year,Credit card (automatic),2724.22,0
+Female,0,No,No,35,Yes,DSL,72.31,Two year,Bank transfer (automatic),2490.19,0
+Female,0,No,Yes,31,Yes,Fiber optic,50.57,One year,Credit card (automatic),1374.18,1
+Female,1,Yes,Yes,27,Yes,Fiber optic,99.67,Two year,Bank transfer (automatic),2482.43,1
+Male,0,No,No,27,Yes,DSL,29.27,Two year,Mailed check,667.95,0
+Male,0,Yes,No,40,Yes,No,48.71,Month-to-month,Bank transfer (automatic),1608.86,0
+Female,0,No,No,65,No,DSL,27.89,Two year,Mailed check,1918.22,0
+Female,1,Yes,No,71,Yes,DSL,39.85,Month-to-month,Electronic check,2816.75,1
+Female,1,No,No,63,Yes,Fiber optic,77.83,Two year,Electronic check,5014.63,1
+Female,0,No,No,8,Yes,Fiber optic,30.85,One year,Mailed check,242.3,1
+Female,0,Yes,Yes,22,Yes,Fiber optic,28.26,One year,Credit card (automatic),656.39,1
+Female,0,Yes,No,55,Yes,Fiber optic,102.24,Month-to-month,Credit card (automatic),5920.89,1
+Female,1,Yes,Yes,39,Yes,No,30.07,Month-to-month,Credit card (automatic),979.37,0
+Male,0,No,No,24,Yes,DSL,80.02,Month-to-month,Electronic check,1669.4,1
+Male,1,No,No,22,No,Fiber optic,53.91,One year,Bank transfer (automatic),1094.58,1
+Male,0,No,No,8,Yes,DSL,109.43,Two year,Bank transfer (automatic),795.5,0
+Male,0,No,No,24,Yes,Fiber optic,90.17,Month-to-month,Electronic check,2070.26,1
+Female,0,No,No,30,Yes,Fiber optic,24.06,Month-to-month,Bank transfer (automatic),641.9,0
+Male,1,Yes,Yes,30,No,Fiber optic,109.34,One year,Mailed check,3369.88,0
+Male,0,No,Yes,40,Yes,DSL,60.22,Month-to-month,Credit card (automatic),1979.91,0
+Male,0,No,Yes,19,No,No,48.42,Month-to-month,Electronic check,943.71,1
+Female,0,Yes,Yes,15,Yes,Fiber optic,86.62,Month-to-month,Credit card (automatic),1198.31,1
+Female,0,No,No,64,Yes,No,91.23,One year,Credit card (automatic),4795.55,1
+Male,0,Yes,No,29,Yes,Fiber optic,48.93,One year,Bank transfer (automatic),1476.06,0
+Female,1,Yes,No,18,Yes,No,53.87,Two year,Electronic check,907.75,0
+Female,0,No,No,46,Yes,Fiber optic,33.95,Month-to-month,Electronic check,1574.86,0
+Female,0,Yes,Yes,39,Yes,Fiber optic,78.53,Month-to-month,Credit card (automatic),3210.89,0
+Female,0,Yes,Yes,42,Yes,Fiber optic,115.6,One year,Electronic check,4024.58,0
+Female,1,Yes,No,16,Yes,Fiber optic,60.5,Two year,Electronic check,859.74,0
+Male,0,No,No,52,Yes,Fiber optic,119.61,Month-to-month,Credit card (automatic),5292.43,0
+Female,0,No,No,14,Yes,Fiber optic,35.99,Two year,Bank transfer (automatic),426.0,0
+Male,0,Yes,Yes,61,Yes,Fiber optic,99.2,One year,Bank transfer (automatic),6449.77,1
+Male,0,Yes,No,30,Yes,Fiber optic,112.67,Two year,Electronic check,3479.64,0
+Female,0,Yes,No,29,Yes,Fiber optic,88.18,Month-to-month,Mailed check,2339.42,0
+Female,1,No,No,28,Yes,Fiber optic,29.15,Month-to-month,Credit card (automatic),815.14,0
+Female,0,Yes,Yes,30,Yes,Fiber optic,51.31,Month-to-month,Electronic check,1630.2,1
+Male,0,No,Yes,48,Yes,Fiber optic,26.74,One year,Electronic check,1126.18,0
+Male,0,No,No,36,Yes,Fiber optic,79.38,Two year,Electronic check,2353.81,0
+Male,0,Yes,No,9,Yes,No,119.81,Month-to-month,Bank transfer (automatic),1115.24,0
+Female,1,No,No,41,Yes,DSL,56.22,Month-to-month,Electronic check,2323.23,1
+Female,1,No,No,19,No,DSL,34.62,Month-to-month,Credit card (automatic),566.79,1
+Female,1,No,No,7,Yes,DSL,45.4,One year,Electronic check,301.05,1
+Female,0,Yes,No,61,Yes,Fiber optic,76.22,Two year,Electronic check,4006.46,0
+Male,1,No,No,22,Yes,Fiber optic,76.03,Month-to-month,Credit card (automatic),1633.65,0
+Male,0,No,No,43,Yes,Fiber optic,41.44,One year,Credit card (automatic),1761.19,0
+Male,1,No,No,12,No,DSL,94.57,Month-to-month,Bank transfer (automatic),1012.21,1
+Male,1,No,No,24,No,No,26.98,Two year,Credit card (automatic),662.42,0
+Male,1,Yes,No,28,Yes,Fiber optic,81.55,Two year,Electronic check,2153.55,0
+Male,1,No,No,9,Yes,Fiber optic,61.42,Month-to-month,Mailed check,554.8,1
+Male,0,No,No,71,Yes,DSL,30.97,One year,Electronic check,2168.86,0
+Female,0,Yes,No,22,Yes,DSL,82.71,Two year,Mailed check,1705.34,1
+Male,1,Yes,No,42,Yes,DSL,86.65,Two year,Credit card (automatic),3261.2,0
+Male,0,Yes,No,41,No,Fiber optic,62.88,One year,Credit card (automatic),2250.97,0
+Male,1,No,No,31,Yes,Fiber optic,99.4,Month-to-month,Electronic check,3124.37,1
+Male,1,Yes,No,42,Yes,DSL,69.95,One year,Mailed check,2899.43,0
+Female,1,No,No,41,Yes,DSL,47.15,One year,Credit card (automatic),1726.39,0
+Male,0,Yes,No,5,Yes,DSL,115.27,Month-to-month,Bank transfer (automatic),617.53,1
+Male,1,Yes,No,48,Yes,Fiber optic,114.29,Two year,Electronic check,5654.27,1
+Male,0,No,No,8,Yes,DSL,27.75,Month-to-month,Mailed check,189.36,1
+Female,0,Yes,Yes,31,Yes,DSL,114.5,Two year,Electronic check,3060.61,0
+Female,0,No,No,26,Yes,DSL,97.1,Month-to-month,Mailed check,2427.28,1
+Male,1,Yes,No,32,Yes,Fiber optic,28.88,Month-to-month,Mailed check,782.41,1
+Male,1,No,No,5,Yes,No,70.97,Month-to-month,Mailed check,379.95,1
+Male,1,Yes,No,51,Yes,Fiber optic,21.57,One year,Mailed check,1084.54,0
+Male,1,No,No,30,Yes,DSL,78.06,Two year,Mailed check,1960.57,0
+Female,0,No,No,4,No,No,113.19,Month-to-month,Electronic check,423.47,0
+Female,0,Yes,No,0,No,No,55.56,Month-to-month,Electronic check,48.77,1
+Female,1,Yes,No,39,Yes,Fiber optic,69.88,Two year,Mailed check,2582.29,0
+Male,0,Yes,No,48,Yes,DSL,41.21,One year,Credit card (automatic),1749.07,0
+Male,0,No,No,39,Yes,Fiber optic,73.18,Month-to-month,Credit card (automatic),2957.53,1
+Male,1,No,No,52,Yes,No,99.86,Two year,Electronic check,5231.59,1
+Male,1,Yes,No,55,Yes,Fiber optic,39.96,Month-to-month,Mailed check,2320.24,0
+Female,0,Yes,No,63,Yes,Fiber optic,74.46,Month-to-month,Bank transfer (automatic),4088.04,1
+Male,1,No,Yes,71,Yes,Fiber optic,54.17,Month-to-month,Mailed check,3539.16,0
+Male,0,No,No,64,Yes,No,94.28,One year,Bank transfer (automatic),6211.45,1
+Female,0,No,Yes,58,Yes,DSL,89.61,Month-to-month,Credit card (automatic),4767.04,0
+Male,0,Yes,No,31,No,DSL,89.28,Two year,Electronic check,2542.29,1
+Male,1,No,No,36,Yes,No,56.54,Month-to-month,Mailed check,2190.89,1
+Male,0,No,No,44,No,DSL,79.13,Two year,Mailed check,3552.83,0
+Male,0,Yes,No,12,Yes,Fiber optic,84.41,Month-to-month,Mailed check,1057.3,1
+Male,1,Yes,No,49,Yes,DSL,87.44,Month-to-month,Electronic check,3966.7,1
+Male,1,Yes,No,42,No,DSL,76.68,Month-to-month,Bank transfer (automatic),3131.48,0
+Male,1,No,No,37,Yes,DSL,106.41,Month-to-month,Electronic check,3689.69,0
+Male,1,Yes,No,60,Yes,Fiber optic,43.38,Month-to-month,Bank transfer (automatic),2439.02,0
+Male,1,No,No,50,Yes,Fiber optic,23.69,Two year,Bank transfer (automatic),1010.62,0
+Female,1,No,No,68,Yes,Fiber optic,116.18,Two year,Electronic check,8207.99,1
+Male,1,No,Yes,71,Yes,DSL,24.19,One year,Credit card (automatic),1582.74,0
+Female,1,No,Yes,60,Yes,No,110.1,Month-to-month,Credit card (automatic),6416.24,1
+Female,0,Yes,No,21,Yes,Fiber optic,80.45,Two year,Mailed check,1761.82,0
+Male,0,No,Yes,13,Yes,No,111.71,Month-to-month,Credit card (automatic),1482.88,1
+Female,1,Yes,No,21,Yes,Fiber optic,75.63,One year,Credit card (automatic),1384.21,0
+Male,0,No,Yes,52,Yes,DSL,101.74,One year,Electronic check,5188.97,0
+Male,1,No,No,63,Yes,Fiber optic,91.57,Month-to-month,Bank transfer (automatic),5474.06,1
+Male,0,No,Yes,64,Yes,No,71.56,Month-to-month,Bank transfer (automatic),4065.25,0
+Male,1,No,Yes,49,Yes,DSL,55.06,Two year,Bank transfer (automatic),2240.97,0
+Male,0,Yes,No,49,No,Fiber optic,18.29,Month-to-month,Credit card (automatic),881.64,1
+Male,1,No,No,69,Yes,Fiber optic,43.59,One year,Mailed check,3076.17,0
+Female,0,No,No,50,Yes,DSL,115.08,Two year,Electronic check,6127.13,0
+Male,0,No,No,10,Yes,Fiber optic,46.1,Month-to-month,Mailed check,420.57,1
+Female,0,Yes,Yes,36,Yes,DSL,94.69,Month-to-month,Bank transfer (automatic),3149.07,0
+Female,1,Yes,No,26,Yes,DSL,69.87,Month-to-month,Mailed check,1566.62,1
+Female,0,No,No,46,Yes,No,49.47,Two year,Electronic check,2448.57,0
+Male,1,Yes,Yes,46,Yes,Fiber optic,119.09,Month-to-month,Electronic check,5702.16,0
+Female,0,No,No,21,Yes,Fiber optic,22.79,Month-to-month,Bank transfer (automatic),511.6,0
+Female,0,No,No,21,Yes,Fiber optic,77.37,Month-to-month,Electronic check,1541.57,0
+Female,1,No,No,6,Yes,No,65.07,Two year,Mailed check,341.44,0
+Male,0,Yes,No,21,Yes,Fiber optic,25.81,Two year,Electronic check,525.22,0
+Female,0,No,No,60,Yes,Fiber optic,39.84,One year,Mailed check,2191.38,1
+Female,1,Yes,Yes,47,Yes,DSL,88.81,Two year,Electronic check,3800.26,0
+Male,1,Yes,No,68,Yes,Fiber optic,29.05,One year,Electronic check,1662.13,1
+Male,1,No,No,67,Yes,Fiber optic,99.7,Two year,Bank transfer (automatic),5604.56,0
+Male,0,Yes,Yes,62,Yes,Fiber optic,81.76,Month-to-month,Electronic check,4655.92,0
+Female,1,Yes,Yes,13,Yes,Fiber optic,28.29,Month-to-month,Electronic check,390.13,1
+Male,0,Yes,No,24,No,DSL,47.26,Two year,Bank transfer (automatic),1143.3,0
+Male,1,No,No,4,Yes,No,31.99,Month-to-month,Electronic check,130.23,1
+Female,1,No,No,6,Yes,No,99.36,Month-to-month,Electronic check,525.17,1
+Male,0,Yes,No,16,Yes,Fiber optic,72.36,One year,Mailed check,1170.47,0
+Male,0,Yes,No,20,Yes,Fiber optic,18.29,One year,Mailed check,338.6,0
+Female,0,No,No,1,Yes,Fiber optic,73.38,Month-to-month,Mailed check,61.3,1
+Female,0,Yes,No,61,Yes,Fiber optic,67.25,Month-to-month,Credit card (automatic),3784.95,0
+Female,0,No,No,38,Yes,Fiber optic,83.59,Month-to-month,Mailed check,2713.06,1
+Female,1,No,Yes,47,Yes,Fiber optic,21.55,Month-to-month,Bank transfer (automatic),1055.35,1
+Male,0,No,Yes,47,Yes,DSL,21.61,Month-to-month,Credit card (automatic),1054.75,0
+Female,0,No,No,70,Yes,DSL,53.64,Month-to-month,Mailed check,3359.58,0
+Female,1,No,Yes,10,Yes,Fiber optic,88.23,One year,Bank transfer (automatic),863.86,0
+Male,0,No,No,25,Yes,Fiber optic,85.99,Month-to-month,Mailed check,1966.11,0
+Male,1,Yes,No,22,Yes,DSL,46.38,Month-to-month,Bank transfer (automatic),877.61,0
+Male,1,Yes,No,40,Yes,DSL,40.04,One year,Credit card (automatic),1583.74,1
+Male,1,No,No,38,Yes,Fiber optic,87.68,Month-to-month,Electronic check,3390.57,0
+Male,0,Yes,No,57,Yes,Fiber optic,20.77,Month-to-month,Credit card (automatic),1209.26,0
+Male,0,No,Yes,40,Yes,Fiber optic,74.79,Month-to-month,Mailed check,2569.18,1
+Female,1,No,No,17,Yes,Fiber optic,61.26,One year,Bank transfer (automatic),992.75,0
+Male,1,No,Yes,41,Yes,No,42.39,Month-to-month,Mailed check,1435.95,0
+Female,0,Yes,No,70,No,DSL,71.07,Month-to-month,Electronic check,4196.05,0
+Female,1,No,Yes,42,No,No,40.15,One year,Electronic check,1418.3,0
+Female,1,No,Yes,43,Yes,DSL,75.56,Two year,Credit card (automatic),2712.56,0
+Female,0,Yes,Yes,12,Yes,Fiber optic,33.2,One year,Bank transfer (automatic),361.26,0
+Male,1,No,No,0,Yes,DSL,59.38,Two year,Credit card (automatic),54.21,0
+Female,0,No,Yes,15,Yes,DSL,70.06,One year,Electronic check,1052.42,0
+Male,1,No,No,1,Yes,DSL,21.23,Month-to-month,Electronic check,19.23,1
+Female,1,No,No,33,Yes,DSL,80.29,Month-to-month,Electronic check,2269.36,0
+Male,1,Yes,No,64,Yes,No,94.53,Month-to-month,Electronic check,6450.35,0
+Male,0,Yes,No,32,Yes,Fiber optic,115.52,Month-to-month,Mailed check,3872.69,1
+Female,0,No,Yes,47,Yes,No,38.72,Month-to-month,Credit card (automatic),1551.05,0
+Male,1,Yes,No,62,No,Fiber optic,39.29,Month-to-month,Credit card (automatic),2227.27,0
+Female,1,Yes,No,55,Yes,Fiber optic,49.09,One year,Mailed check,2331.95,1
+Male,1,Yes,No,47,Yes,DSL,108.86,One year,Mailed check,5471.34,1
+Male,0,Yes,No,57,Yes,Fiber optic,59.5,Month-to-month,Bank transfer (automatic),3094.93,0
+Female,0,No,No,20,No,Fiber optic,48.78,Month-to-month,Bank transfer (automatic),824.88,1
+Female,1,Yes,No,30,Yes,No,93.6,Month-to-month,Bank transfer (automatic),2833.21,1
+Male,0,No,Yes,29,Yes,No,21.87,Month-to-month,Mailed check,637.43,0
+Male,1,Yes,No,58,Yes,DSL,73.98,Month-to-month,Electronic check,3787.39,1
+Male,0,No,Yes,29,Yes,Fiber optic,63.92,Month-to-month,Electronic check,1674.95,1
+Female,0,Yes,No,68,Yes,Fiber optic,81.74,Month-to-month,Credit card (automatic),5157.59,0
+Female,0,No,No,13,Yes,Fiber optic,92.57,Two year,Bank transfer (automatic),1070.56,1
+Male,1,Yes,Yes,12,Yes,DSL,51.15,Month-to-month,Credit card (automatic),549.42,0
+Male,1,No,Yes,52,Yes,Fiber optic,82.91,One year,Electronic check,4433.82,1
+Male,0,Yes,No,55,Yes,Fiber optic,71.48,Month-to-month,Mailed check,3992.26,0
+Male,0,Yes,No,49,No,DSL,31.66,Month-to-month,Electronic check,1551.47,0
+Female,1,Yes,No,22,Yes,Fiber optic,107.94,Month-to-month,Credit card (automatic),2371.26,0
+Female,0,No,No,0,Yes,DSL,94.97,Two year,Electronic check,90.76,0
+Male,1,No,No,23,Yes,No,112.01,Month-to-month,Bank transfer (automatic),2347.56,0
+Female,0,Yes,No,34,No,DSL,91.48,Month-to-month,Electronic check,3133.15,1
+Male,0,Yes,Yes,30,Yes,DSL,42.97,Two year,Electronic check,1096.06,0
+Male,0,No,No,67,Yes,DSL,61.91,Month-to-month,Electronic check,3553.48,1
+Male,1,No,No,63,Yes,No,57.46,Month-to-month,Mailed check,3087.22,0
+Male,0,Yes,No,56,Yes,Fiber optic,21.65,One year,Credit card (automatic),1225.14,0
+Male,1,No,No,1,Yes,DSL,59.88,Month-to-month,Credit card (automatic),58.31,1
+Female,0,No,Yes,9,Yes,DSL,53.25,Two year,Bank transfer (automatic),449.08,0
+Female,0,No,Yes,31,No,Fiber optic,18.4,Month-to-month,Mailed check,538.36,1
+Male,1,Yes,Yes,45,Yes,Fiber optic,104.41,One year,Bank transfer (automatic),4863.67,0
+Female,1,Yes,Yes,49,Yes,DSL,32.68,Month-to-month,Electronic check,1363.74,0
+Female,0,Yes,No,21,Yes,No,69.1,Two year,Credit card (automatic),1334.49,0
+Female,0,No,Yes,8,Yes,DSL,98.04,Two year,Bank transfer (automatic),798.16,0
+Female,0,Yes,No,23,Yes,Fiber optic,79.66,Two year,Mailed check,1815.76,0
+Male,1,No,No,57,Yes,DSL,35.27,Two year,Electronic check,1875.97,0
+Female,0,No,No,72,Yes,Fiber optic,81.06,One year,Electronic check,5126.21,0
+Female,0,No,No,68,Yes,Fiber optic,95.27,Month-to-month,Mailed check,6906.42,0
+Female,0,Yes,No,43,Yes,Fiber optic,105.19,Month-to-month,Credit card (automatic),4188.72,1
+Male,1,Yes,No,6,Yes,Fiber optic,50.5,Month-to-month,Bank transfer (automatic),317.62,1
+Male,0,Yes,No,70,Yes,No,21.46,Month-to-month,Mailed check,1535.6,0
+Male,1,No,No,11,Yes,No,80.01,Month-to-month,Mailed check,918.83,0
+Male,0,No,No,19,Yes,Fiber optic,41.03,One year,Bank transfer (automatic),642.68,1
+Male,0,Yes,No,71,Yes,Fiber optic,97.65,One year,Electronic check,6545.74,1
+Male,0,No,No,36,Yes,No,87.35,Two year,Electronic check,2790.68,0
+Female,0,Yes,No,14,Yes,DSL,96.87,Month-to-month,Bank transfer (automatic),1208.69,0
+Male,0,Yes,No,36,Yes,DSL,116.69,One year,Electronic check,3739.41,1
+Female,1,Yes,No,5,Yes,DSL,77.62,One year,Electronic check,357.53,0
+Male,0,No,No,23,No,No,110.24,Two year,Mailed check,2349.88,0
+Female,1,Yes,No,69,Yes,DSL,83.47,One year,Electronic check,5672.18,0
+Male,0,Yes,No,21,Yes,DSL,36.54,Month-to-month,Credit card (automatic),689.14,0
+Female,0,No,No,65,Yes,Fiber optic,99.53,Month-to-month,Credit card (automatic),5763.78,1
+Male,0,No,No,39,Yes,DSL,88.76,Two year,Credit card (automatic),3163.1,0
+Male,0,Yes,No,47,Yes,DSL,117.75,One year,Credit card (automatic),5525.91,0
+Male,1,Yes,Yes,51,Yes,Fiber optic,42.83,Two year,Electronic check,1791.25,0
+Female,0,No,No,40,Yes,DSL,51.98,One year,Mailed check,2108.73,0
+Male,1,Yes,No,2,Yes,No,101.79,One year,Bank transfer (automatic),184.88,1
+Female,1,Yes,No,67,Yes,DSL,24.41,One year,Electronic check,1586.12,0
+Female,1,No,No,34,Yes,No,82.59,Two year,Credit card (automatic),2858.59,1
+Male,0,Yes,No,47,Yes,Fiber optic,72.62,Two year,Electronic check,3252.1,0
+Male,0,No,No,40,No,DSL,35.22,Month-to-month,Mailed check,1392.26,0
+Male,1,Yes,Yes,48,Yes,DSL,34.84,Month-to-month,Bank transfer (automatic),1771.3,0
+Male,0,Yes,Yes,25,Yes,Fiber optic,100.64,Month-to-month,Credit card (automatic),2082.66,0
+Male,0,Yes,No,61,Yes,Fiber optic,19.58,Month-to-month,Bank transfer (automatic),1087.93,0
+Male,1,Yes,No,16,Yes,DSL,94.18,Two year,Bank transfer (automatic),1598.77,0
+Female,1,Yes,No,47,Yes,No,92.73,Two year,Electronic check,4522.76,0
+Male,1,Yes,Yes,42,Yes,Fiber optic,84.27,Month-to-month,Bank transfer (automatic),3469.88,1
+Male,0,No,No,36,Yes,No,59.77,Month-to-month,Bank transfer (automatic),1892.69,1
+Female,1,No,No,1,Yes,DSL,20.89,Month-to-month,Mailed check,18.93,1
+Female,0,Yes,No,28,Yes,DSL,99.78,Two year,Bank transfer (automatic),2914.17,0
+Male,1,No,No,3,Yes,Fiber optic,30.82,One year,Electronic check,92.6,1
+Male,1,No,No,36,Yes,DSL,46.64,Month-to-month,Electronic check,1501.51,1
+Male,1,No,No,50,Yes,DSL,114.57,Month-to-month,Credit card (automatic),4894.34,0
+Female,1,Yes,No,38,Yes,DSL,48.79,One year,Electronic check,1896.66,0
+Female,0,Yes,Yes,55,Yes,DSL,44.02,Month-to-month,Bank transfer (automatic),2348.03,0
+Male,0,Yes,Yes,26,No,Fiber optic,117.28,Two year,Mailed check,3264.24,0
+Male,0,Yes,No,22,Yes,DSL,26.77,Two year,Credit card (automatic),545.17,0
+Male,0,Yes,No,32,Yes,No,34.39,Month-to-month,Electronic check,1002.26,1
+Female,1,No,No,16,Yes,DSL,62.71,Month-to-month,Electronic check,898.61,1
+Male,0,No,No,58,Yes,Fiber optic,98.34,Month-to-month,Credit card (automatic),5391.66,0
+Male,1,Yes,No,59,Yes,Fiber optic,108.2,Month-to-month,Bank transfer (automatic),5770.38,1
+Male,0,Yes,No,30,Yes,Fiber optic,95.07,Month-to-month,Mailed check,2393.0,1
+Male,0,Yes,No,57,Yes,No,117.57,Month-to-month,Mailed check,6039.07,0
+Female,0,No,No,1,Yes,No,19.72,Month-to-month,Mailed check,17.29,0
+Male,1,No,No,11,Yes,DSL,81.19,Two year,Credit card (automatic),921.67,0
+Male,1,Yes,No,20,Yes,Fiber optic,29.87,Month-to-month,Bank transfer (automatic),526.46,0
+Female,1,No,No,28,Yes,No,110.86,Two year,Credit card (automatic),2915.68,0
+Female,0,No,No,16,Yes,DSL,113.4,Month-to-month,Credit card (automatic),1805.17,1
+Male,0,No,Yes,37,Yes,Fiber optic,48.91,Month-to-month,Mailed check,1554.14,0
+Male,1,No,No,57,Yes,DSL,102.43,Month-to-month,Bank transfer (automatic),5594.07,1
+Female,1,No,No,33,Yes,Fiber optic,82.29,Month-to-month,Bank transfer (automatic),2824.92,1
+Male,0,Yes,No,32,Yes,Fiber optic,28.25,Month-to-month,Credit card (automatic),878.56,0
+Female,1,Yes,Yes,4,No,Fiber optic,79.48,Two year,Bank transfer (automatic),300.57,1
+Female,0,No,No,20,Yes,No,117.56,Two year,Electronic check,2440.8,1
+Female,0,Yes,No,58,Yes,Fiber optic,49.43,Month-to-month,Credit card (automatic),3056.98,1
+Male,1,No,No,59,Yes,No,18.12,Month-to-month,Bank transfer (automatic),1104.85,0
+Female,0,Yes,No,7,Yes,Fiber optic,117.63,Month-to-month,Credit card (automatic),762.63,0
+Female,0,Yes,Yes,1,Yes,Fiber optic,60.23,One year,Mailed check,58.97,1
+Male,1,Yes,No,60,Yes,Fiber optic,61.96,Month-to-month,Mailed check,3557.47,1
+Female,1,No,No,12,Yes,Fiber optic,90.69,Month-to-month,Bank transfer (automatic),978.21,0
+Female,0,Yes,Yes,41,Yes,No,79.65,Two year,Bank transfer (automatic),3047.45,0
+Female,0,Yes,No,60,Yes,DSL,48.8,Two year,Electronic check,3032.26,0
+Male,1,Yes,No,57,Yes,No,28.2,One year,Mailed check,1443.65,0
+Male,1,No,Yes,40,Yes,Fiber optic,102.39,Month-to-month,Bank transfer (automatic),4305.64,0
+Female,1,No,No,27,Yes,Fiber optic,67.3,Month-to-month,Credit card (automatic),1958.42,1
+Male,1,Yes,No,56,Yes,Fiber optic,86.59,Month-to-month,Electronic check,4362.97,0
+Female,0,No,No,50,Yes,Fiber optic,105.77,One year,Electronic check,4505.34,1
+Female,1,Yes,No,61,Yes,Fiber optic,19.81,One year,Mailed check,1291.63,0
+Female,0,No,Yes,37,Yes,Fiber optic,105.66,Month-to-month,Electronic check,3379.6,1
+Male,0,Yes,No,68,Yes,DSL,94.68,Two year,Electronic check,6570.74,0
+Female,1,No,No,56,No,Fiber optic,114.58,Month-to-month,Mailed check,5326.77,0
+Male,0,No,Yes,4,No,Fiber optic,41.83,One year,Bank transfer (automatic),147.45,1
+Female,1,No,No,21,Yes,Fiber optic,50.89,Month-to-month,Mailed check,948.61,1
+Male,0,Yes,Yes,58,Yes,Fiber optic,85.47,Month-to-month,Mailed check,4448.06,1
+Male,1,No,No,8,Yes,DSL,112.43,Month-to-month,Credit card (automatic),952.52,0
+Female,1,No,No,51,Yes,Fiber optic,119.25,One year,Mailed check,5264.24,0
+Female,0,Yes,No,24,Yes,Fiber optic,60.51,Month-to-month,Credit card (automatic),1256.4,1
+Female,0,No,No,15,Yes,Fiber optic,73.0,Month-to-month,Electronic check,1094.82,0
+Male,1,No,Yes,39,Yes,Fiber optic,35.4,One year,Credit card (automatic),1473.93,1
+Female,0,Yes,No,68,No,Fiber optic,88.79,One year,Credit card (automatic),5562.03,1
+Female,0,No,No,65,Yes,Fiber optic,103.41,One year,Electronic check,6862.9,1
+Female,0,Yes,No,29,Yes,DSL,99.46,One year,Bank transfer (automatic),2388.43,0
+Female,1,No,No,0,Yes,DSL,53.28,One year,Bank transfer (automatic),55.11,0
+Male,0,Yes,Yes,64,Yes,Fiber optic,116.25,One year,Mailed check,7500.14,0
+Male,1,Yes,Yes,65,Yes,DSL,30.28,Month-to-month,Bank transfer (automatic),2072.75,0
+Female,0,No,Yes,44,Yes,DSL,68.38,Month-to-month,Electronic check,2965.81,1
+Female,0,No,Yes,45,No,DSL,74.57,Month-to-month,Mailed check,3572.92,1
+Male,0,No,Yes,38,Yes,DSL,72.72,Month-to-month,Credit card (automatic),2546.06,1
+Male,1,No,No,0,Yes,No,95.3,Month-to-month,Electronic check,96.3,1
+Female,0,Yes,No,11,Yes,DSL,80.18,Month-to-month,Electronic check,889.61,1
+Female,0,Yes,No,10,Yes,DSL,25.87,Month-to-month,Electronic check,230.2,1
+Male,1,Yes,No,66,Yes,No,36.34,One year,Credit card (automatic),2540.79,0
+Female,0,Yes,No,3,Yes,No,72.29,One year,Electronic check,221.77,0
+Female,0,No,No,40,Yes,DSL,88.84,One year,Electronic check,3714.41,0
+Male,0,No,No,26,Yes,No,70.45,Two year,Bank transfer (automatic),1674.68,0
+Male,0,No,No,0,Yes,DSL,54.26,Month-to-month,Bank transfer (automatic),56.36,1
+Female,1,Yes,No,67,Yes,Fiber optic,23.22,Month-to-month,Mailed check,1403.11,1
+Male,1,Yes,No,1,Yes,DSL,98.16,Month-to-month,Credit card (automatic),105.1,1
+Male,1,No,No,62,Yes,Fiber optic,68.71,Month-to-month,Electronic check,3519.74,1
+Male,1,Yes,No,56,Yes,DSL,72.96,Month-to-month,Bank transfer (automatic),4008.08,0
+Female,0,Yes,No,57,Yes,Fiber optic,65.83,Two year,Bank transfer (automatic),3186.4,0
+Male,0,Yes,No,11,Yes,DSL,45.07,Month-to-month,Electronic check,499.18,0
+Male,0,Yes,No,64,Yes,Fiber optic,46.19,Month-to-month,Credit card (automatic),2703.58,1
+Male,1,Yes,Yes,43,Yes,Fiber optic,24.48,Month-to-month,Mailed check,1101.45,0
+Female,0,No,Yes,29,No,DSL,90.18,Month-to-month,Electronic check,2737.88,1
+Female,1,Yes,No,49,No,No,45.73,One year,Electronic check,2051.88,0
+Male,0,No,Yes,24,Yes,Fiber optic,48.45,One year,Electronic check,1198.38,0
+Male,1,No,No,20,Yes,DSL,119.34,One year,Credit card (automatic),2379.87,1
+Male,0,No,Yes,21,Yes,DSL,57.35,One year,Electronic check,1121.14,0
+Female,1,Yes,No,41,Yes,DSL,70.09,Month-to-month,Credit card (automatic),2612.88,1
+Female,1,Yes,Yes,43,Yes,DSL,57.42,Month-to-month,Electronic check,2159.64,0
+Male,1,Yes,No,17,Yes,Fiber optic,47.6,One year,Credit card (automatic),676.84,1
+Male,0,Yes,No,17,Yes,Fiber optic,18.6,Month-to-month,Credit card (automatic),301.82,0
+Female,0,Yes,Yes,69,Yes,Fiber optic,105.2,Month-to-month,Electronic check,6971.43,1
+Female,1,No,Yes,37,Yes,Fiber optic,66.26,Month-to-month,Electronic check,2293.36,0
+Male,0,Yes,No,62,Yes,Fiber optic,91.43,One year,Credit card (automatic),6049.34,1
+Male,1,Yes,No,24,Yes,DSL,115.78,Month-to-month,Electronic check,2288.44,1
+Female,1,Yes,No,21,Yes,Fiber optic,18.29,Two year,Electronic check,399.87,0
+Female,1,No,No,20,Yes,No,86.85,Month-to-month,Credit card (automatic),1786.01,1
+Female,1,No,No,38,Yes,DSL,30.1,Month-to-month,Credit card (automatic),1163.56,1
+Male,1,No,Yes,56,Yes,Fiber optic,64.71,Month-to-month,Bank transfer (automatic),3466.05,0
+Male,0,No,No,36,Yes,No,104.37,Month-to-month,Credit card (automatic),3266.96,0
+Female,0,No,No,21,Yes,Fiber optic,25.29,Month-to-month,Mailed check,554.64,0
+Female,0,No,Yes,70,Yes,No,118.94,One year,Bank transfer (automatic),8438.99,0
+Female,0,Yes,No,41,Yes,DSL,77.25,Month-to-month,Mailed check,3282.96,0
+Male,1,No,No,28,Yes,Fiber optic,58.29,Month-to-month,Bank transfer (automatic),1438.4,0
+Female,0,No,Yes,0,Yes,DSL,19.99,Month-to-month,Bank transfer (automatic),19.27,0
+Male,0,Yes,Yes,41,Yes,DSL,77.86,Month-to-month,Bank transfer (automatic),2962.89,1
+Male,1,No,Yes,45,Yes,No,68.48,Two year,Credit card (automatic),3039.43,0
+Female,1,No,Yes,67,Yes,DSL,39.96,Month-to-month,Mailed check,2719.3,0
+Female,0,No,Yes,16,No,No,68.03,One year,Bank transfer (automatic),941.72,0
+Female,1,Yes,No,11,Yes,Fiber optic,19.3,Month-to-month,Mailed check,183.69,1
+Female,0,No,Yes,72,Yes,No,119.95,Month-to-month,Electronic check,7179.77,0
+Male,1,No,No,40,Yes,No,51.88,Two year,Electronic check,1786.47,1
+Female,1,Yes,No,1,Yes,Fiber optic,66.98,Month-to-month,Credit card (automatic),59.11,1
+Male,1,Yes,No,7,Yes,No,98.05,Two year,Mailed check,575.75,0
+Male,1,Yes,No,34,No,Fiber optic,90.7,Month-to-month,Bank transfer (automatic),2813.9,0
+Female,1,Yes,Yes,45,Yes,Fiber optic,108.63,Month-to-month,Mailed check,4866.56,0
+Female,1,No,Yes,17,Yes,Fiber optic,114.02,Two year,Credit card (automatic),1989.12,0
+Female,1,No,Yes,26,No,DSL,37.3,Month-to-month,Bank transfer (automatic),882.43,1
+Male,0,Yes,No,53,Yes,DSL,57.82,Two year,Electronic check,2579.65,0
+Female,1,Yes,No,70,Yes,DSL,88.06,Two year,Mailed check,6271.68,0
+Male,1,No,No,35,Yes,Fiber optic,22.59,Month-to-month,Bank transfer (automatic),728.75,1
+Female,1,Yes,No,30,Yes,DSL,91.13,Month-to-month,Electronic check,2420.52,0
+Female,1,No,No,26,No,Fiber optic,18.5,Two year,Mailed check,453.28,0
+Female,1,Yes,Yes,9,Yes,Fiber optic,111.24,Month-to-month,Electronic check,1073.41,1
+Male,0,Yes,No,3,Yes,Fiber optic,91.25,One year,Electronic check,251.0,0
+Male,0,No,Yes,60,Yes,No,75.68,Month-to-month,Credit card (automatic),4856.19,0
+Male,0,Yes,No,2,Yes,No,61.75,Month-to-month,Credit card (automatic),109.4,0
+Female,1,No,No,59,Yes,No,118.78,Month-to-month,Bank transfer (automatic),5938.89,0
+Female,1,Yes,Yes,18,Yes,Fiber optic,93.12,One year,Electronic check,1442.95,1
+Male,0,No,No,50,Yes,DSL,100.34,One year,Credit card (automatic),5123.28,0
+Female,0,No,No,69,Yes,No,102.19,One year,Bank transfer (automatic),6767.51,0
+Female,1,No,Yes,54,Yes,DSL,20.23,Month-to-month,Credit card (automatic),1061.07,0
+Male,1,Yes,No,53,Yes,DSL,23.58,Month-to-month,Electronic check,1339.23,0
+Male,1,No,No,19,No,DSL,38.23,Month-to-month,Electronic check,690.97,1
+Female,0,No,Yes,43,Yes,Fiber optic,84.83,Month-to-month,Bank transfer (automatic),3102.09,1
+Female,0,Yes,Yes,46,Yes,Fiber optic,81.64,Month-to-month,Credit card (automatic),3781.03,1
+Male,0,Yes,Yes,31,Yes,DSL,51.17,One year,Electronic check,1386.47,0
+Female,0,No,Yes,2,Yes,Fiber optic,117.25,Month-to-month,Electronic check,227.75,1
+Female,1,Yes,No,66,Yes,DSL,27.5,Month-to-month,Bank transfer (automatic),1891.48,0
+Female,0,No,No,14,Yes,DSL,97.23,One year,Credit card (automatic),1285.05,1
+Female,1,No,No,71,Yes,DSL,67.05,Month-to-month,Credit card (automatic),4292.66,0
+Female,1,Yes,No,68,Yes,DSL,60.72,Two year,Credit card (automatic),4003.61,0
+Male,0,No,No,1,Yes,Fiber optic,20.61,Month-to-month,Bank transfer (automatic),17.58,1
+Male,0,No,No,53,Yes,DSL,92.24,Month-to-month,Credit card (automatic),4399.68,0
+Male,1,Yes,No,46,No,DSL,96.7,Two year,Mailed check,4230.58,0
+Female,0,No,Yes,16,Yes,DSL,50.53,One year,Electronic check,716.38,0
+Male,0,Yes,No,59,Yes,Fiber optic,70.73,Two year,Bank transfer (automatic),3464.51,0
+Male,1,Yes,No,8,Yes,No,79.86,Month-to-month,Bank transfer (automatic),621.08,0
+Female,1,No,No,18,Yes,Fiber optic,55.5,Month-to-month,Mailed check,923.4,1
+Male,1,Yes,No,69,Yes,Fiber optic,80.79,One year,Electronic check,5137.24,1
+Male,0,No,Yes,54,Yes,No,62.28,Month-to-month,Bank transfer (automatic),3629.38,1
+Male,0,Yes,No,8,Yes,DSL,107.56,One year,Credit card (automatic),730.6,0
+Male,0,No,Yes,10,Yes,DSL,91.29,Month-to-month,Mailed check,785.17,0
+Male,0,Yes,No,18,Yes,Fiber optic,29.27,Month-to-month,Credit card (automatic),552.06,0
+Female,0,No,No,5,Yes,DSL,99.56,Month-to-month,Mailed check,425.06,0
+Male,1,No,No,13,Yes,Fiber optic,52.43,One year,Electronic check,721.52,0
+Male,0,No,No,41,Yes,Fiber optic,113.43,Month-to-month,Electronic check,4626.03,1
+Female,1,No,Yes,0,Yes,DSL,79.54,Two year,Mailed check,76.15,0
+Male,1,No,No,20,Yes,Fiber optic,20.81,Month-to-month,Electronic check,371.41,1
+Female,1,No,No,22,Yes,Fiber optic,92.9,Month-to-month,Bank transfer (automatic),1866.94,1
+Female,0,No,No,70,Yes,DSL,31.33,Month-to-month,Credit card (automatic),2269.31,0
+Female,0,No,Yes,71,Yes,No,107.48,One year,Mailed check,6371.58,0
+Male,1,No,Yes,61,Yes,Fiber optic,114.73,Two year,Credit card (automatic),7137.26,0
+Male,0,No,No,24,Yes,DSL,88.92,Month-to-month,Credit card (automatic),2209.27,1
+Female,1,Yes,No,38,Yes,DSL,72.35,Month-to-month,Mailed check,2759.06,0
+Male,0,No,No,36,Yes,DSL,79.41,One year,Electronic check,2384.7,0
+Female,0,No,No,62,Yes,DSL,61.74,Month-to-month,Electronic check,3877.99,0
+Male,1,Yes,No,54,Yes,DSL,26.53,One year,Bank transfer (automatic),1444.11,0
+Male,1,Yes,No,66,Yes,DSL,112.74,One year,Mailed check,6126.82,0
+Female,0,No,Yes,40,No,No,51.58,Month-to-month,Bank transfer (automatic),2170.47,0
+Female,1,Yes,No,67,Yes,No,49.91,One year,Bank transfer (automatic),2856.99,0
+Female,0,Yes,No,54,Yes,Fiber optic,37.52,One year,Bank transfer (automatic),2167.51,0
+Female,1,Yes,Yes,53,Yes,Fiber optic,119.23,Month-to-month,Electronic check,5298.01,0
+Male,1,Yes,Yes,48,Yes,Fiber optic,114.14,Month-to-month,Electronic check,4831.64,0
+Female,1,No,No,24,Yes,Fiber optic,53.64,Month-to-month,Mailed check,1286.67,1
+Female,1,No,Yes,44,Yes,No,44.52,One year,Credit card (automatic),1676.18,0
+Male,0,No,No,26,Yes,Fiber optic,100.15,One year,Bank transfer (automatic),2260.42,0
+Male,1,No,Yes,47,Yes,Fiber optic,61.11,Month-to-month,Bank transfer (automatic),2363.52,0
+Female,0,No,Yes,18,Yes,No,116.71,Month-to-month,Bank transfer (automatic),2174.07,0
+Male,0,Yes,Yes,58,Yes,Fiber optic,109.92,Month-to-month,Mailed check,5290.15,1
+Female,0,No,No,41,Yes,DSL,95.46,Month-to-month,Electronic check,3853.07,0
+Male,0,Yes,No,51,Yes,DSL,27.17,Month-to-month,Electronic check,1346.04,1
+Male,1,Yes,No,16,Yes,Fiber optic,89.62,Month-to-month,Electronic check,1366.41,1
+Male,0,No,Yes,57,Yes,DSL,118.7,Month-to-month,Electronic check,6207.99,0
+Male,0,No,No,58,Yes,DSL,56.08,One year,Electronic check,2920.5,1
+Female,0,Yes,No,10,Yes,DSL,107.92,One year,Bank transfer (automatic),1153.46,0
+Female,1,No,No,25,Yes,DSL,59.63,Month-to-month,Electronic check,1526.82,0
+Female,1,Yes,No,49,Yes,No,117.08,One year,Electronic check,6080.62,0
+Female,1,Yes,No,63,Yes,Fiber optic,84.67,Month-to-month,Electronic check,5391.89,1
+Male,0,Yes,No,53,Yes,DSL,27.84,Month-to-month,Electronic check,1527.96,0
+Female,0,Yes,No,34,Yes,Fiber optic,66.86,Two year,Electronic check,2433.93,0
+Female,1,No,No,21,Yes,DSL,23.07,Month-to-month,Electronic check,454.41,0
+Female,1,Yes,Yes,66,Yes,Fiber optic,58.3,Month-to-month,Electronic check,4062.48,1
+Female,1,No,No,63,No,Fiber optic,111.37,Month-to-month,Credit card (automatic),5831.95,0
+Female,1,Yes,No,65,Yes,DSL,41.68,One year,Electronic check,2297.53,0
+Female,1,No,Yes,22,Yes,Fiber optic,114.96,Month-to-month,Electronic check,2396.33,1
+Female,1,No,No,31,Yes,DSL,28.19,Two year,Mailed check,819.74,0
+Female,0,No,No,17,Yes,Fiber optic,85.81,Month-to-month,Electronic check,1362.4,0
+Female,0,Yes,Yes,69,No,No,116.5,Month-to-month,Mailed check,7714.31,0
+Male,0,No,No,63,Yes,No,84.72,Month-to-month,Mailed check,5123.74,0
+Male,0,No,No,12,Yes,DSL,109.7,One year,Credit card (automatic),1377.41,0
+Female,0,Yes,No,18,Yes,Fiber optic,119.09,Month-to-month,Credit card (automatic),1950.56,1
+Male,1,Yes,No,40,Yes,Fiber optic,83.47,Two year,Bank transfer (automatic),3012.34,0
+Male,0,Yes,No,30,Yes,No,97.79,Two year,Electronic check,2941.01,0
+Female,0,Yes,No,33,Yes,DSL,21.26,Month-to-month,Mailed check,693.58,0
+Female,0,Yes,No,26,Yes,Fiber optic,61.59,Month-to-month,Electronic check,1658.6,1
+Female,0,Yes,Yes,49,Yes,DSL,47.4,Month-to-month,Credit card (automatic),2091.3,1
+Male,0,Yes,No,65,Yes,DSL,102.07,One year,Electronic check,5451.36,0
+Male,0,No,No,66,Yes,Fiber optic,87.11,One year,Bank transfer (automatic),6125.59,0
+Female,1,Yes,No,33,Yes,Fiber optic,80.67,Month-to-month,Electronic check,2213.54,1
+Female,1,Yes,Yes,60,Yes,DSL,113.02,Two year,Mailed check,6759.52,0
+Male,0,No,Yes,50,Yes,No,27.06,Month-to-month,Electronic check,1222.67,0
+Female,1,Yes,No,14,Yes,Fiber optic,115.29,Two year,Mailed check,1501.27,1
+Male,1,Yes,Yes,57,Yes,No,28.28,Two year,Bank transfer (automatic),1673.03,0
+Female,1,Yes,No,25,Yes,Fiber optic,53.4,Month-to-month,Bank transfer (automatic),1240.34,0
+Female,0,Yes,No,45,Yes,No,82.29,Month-to-month,Electronic check,3175.5,1
+Female,1,Yes,No,52,Yes,Fiber optic,52.83,Month-to-month,Electronic check,2791.54,0
+Female,0,Yes,Yes,68,Yes,DSL,87.62,Two year,Credit card (automatic),4917.0,0
+Male,0,Yes,No,69,Yes,DSL,97.09,Month-to-month,Mailed check,5971.88,0
+Male,0,No,No,58,No,No,102.51,Two year,Bank transfer (automatic),5707.16,0
+Male,1,No,No,36,Yes,DSL,36.29,Month-to-month,Mailed check,1219.98,1
+Female,0,Yes,No,29,Yes,Fiber optic,36.57,Month-to-month,Bank transfer (automatic),1040.65,0
+Female,0,Yes,No,32,Yes,Fiber optic,23.34,Two year,Bank transfer (automatic),686.5,1
+Female,0,Yes,No,69,Yes,DSL,68.07,Month-to-month,Electronic check,4328.37,0
+Male,0,No,No,14,Yes,DSL,32.03,One year,Mailed check,408.35,0
+Male,1,No,No,38,Yes,Fiber optic,50.5,Month-to-month,Mailed check,2016.27,1
+Female,0,Yes,No,49,Yes,Fiber optic,103.72,Month-to-month,Electronic check,4190.33,0
+Female,0,Yes,No,1,Yes,Fiber optic,114.76,Month-to-month,Bank transfer (automatic),122.14,1
+Female,0,Yes,No,46,Yes,DSL,101.85,Month-to-month,Electronic check,4278.14,1
+Male,0,No,No,18,Yes,Fiber optic,18.07,One year,Electronic check,297.57,0
+Male,0,No,No,20,Yes,DSL,75.94,Month-to-month,Credit card (automatic),1532.06,1
+Female,1,Yes,No,45,Yes,Fiber optic,35.0,Month-to-month,Credit card (automatic),1450.5,1
+Female,0,No,Yes,0,Yes,DSL,56.33,Month-to-month,Electronic check,55.22,1
+Male,0,Yes,Yes,11,No,DSL,61.65,One year,Bank transfer (automatic),715.41,0
+Female,1,No,No,33,Yes,No,114.18,Two year,Electronic check,3918.7,0
+Male,1,No,No,42,Yes,DSL,82.64,One year,Bank transfer (automatic),3311.2,0
+Male,0,Yes,No,7,Yes,Fiber optic,45.3,Two year,Mailed check,319.11,0
+Female,0,Yes,No,26,Yes,DSL,83.57,Month-to-month,Credit card (automatic),2003.41,0
+Female,0,No,No,22,No,DSL,115.09,Month-to-month,Mailed check,2587.1,1
+Female,1,Yes,No,39,No,DSL,24.03,Month-to-month,Mailed check,809.95,1
+Male,0,No,No,21,Yes,No,101.23,Month-to-month,Credit card (automatic),1768.4,0
+Female,0,Yes,Yes,0,Yes,Fiber optic,40.12,One year,Electronic check,38.54,1
+Female,1,No,No,38,Yes,DSL,33.62,One year,Electronic check,1119.13,0
+Female,0,Yes,Yes,61,Yes,Fiber optic,109.68,Month-to-month,Mailed check,6753.83,1
+Male,0,Yes,No,42,Yes,Fiber optic,18.19,Two year,Bank transfer (automatic),646.59,0
+Female,1,Yes,No,26,Yes,Fiber optic,93.59,Month-to-month,Electronic check,2000.71,1
+Female,0,Yes,No,35,Yes,No,26.9,One year,Bank transfer (automatic),937.44,0
+Female,1,Yes,No,10,Yes,Fiber optic,81.04,Month-to-month,Mailed check,770.05,0
+Male,1,No,No,17,Yes,Fiber optic,81.33,One year,Bank transfer (automatic),1475.97,0
+Female,0,Yes,Yes,31,Yes,DSL,106.0,Month-to-month,Credit card (automatic),2905.96,1
+Male,1,Yes,Yes,43,Yes,No,101.91,Two year,Mailed check,3733.78,0
+Male,1,Yes,No,35,No,Fiber optic,87.89,Two year,Mailed check,2540.92,1
+Female,1,Yes,No,70,Yes,DSL,56.82,Month-to-month,Mailed check,3720.87,1
+Male,0,No,No,46,Yes,No,34.97,Month-to-month,Electronic check,1361.23,0
+Female,0,No,Yes,1,Yes,No,82.84,One year,Credit card (automatic),84.63,1
+Male,0,Yes,No,38,Yes,Fiber optic,68.69,One year,Credit card (automatic),2189.23,1
+Female,1,No,No,42,Yes,DSL,25.95,Month-to-month,Credit card (automatic),1154.64,0
+Female,0,No,No,3,Yes,Fiber optic,115.47,One year,Credit card (automatic),332.77,1
+Female,1,No,Yes,28,Yes,No,50.07,Two year,Mailed check,1403.44,0
+Male,1,Yes,No,63,Yes,Fiber optic,18.22,One year,Bank transfer (automatic),980.32,0
+Male,1,Yes,Yes,26,Yes,DSL,109.97,Month-to-month,Electronic check,2411.1,1
+Male,0,Yes,No,33,Yes,DSL,76.86,Two year,Credit card (automatic),2313.07,0
+Male,0,No,Yes,16,Yes,DSL,92.77,Month-to-month,Bank transfer (automatic),1417.99,0
+Female,1,No,No,5,No,DSL,33.57,Month-to-month,Electronic check,162.75,1
+Male,0,Yes,No,23,Yes,Fiber optic,59.27,Two year,Credit card (automatic),1234.72,0
+Male,0,Yes,Yes,56,No,DSL,83.8,Month-to-month,Bank transfer (automatic),4180.78,0
+Male,1,No,No,71,Yes,Fiber optic,43.6,Month-to-month,Credit card (automatic),3328.29,1
+Male,1,No,No,48,Yes,No,89.55,One year,Bank transfer (automatic),3829.41,1
+Female,1,Yes,No,60,No,Fiber optic,41.83,Two year,Credit card (automatic),2148.04,0
+Female,1,No,No,47,No,DSL,39.33,Month-to-month,Mailed check,1688.54,1
+Male,0,Yes,Yes,48,No,No,19.19,Month-to-month,Mailed check,828.09,0
+Female,0,Yes,No,31,Yes,DSL,46.75,Month-to-month,Bank transfer (automatic),1347.3,0
+Female,0,No,No,4,Yes,No,43.17,Month-to-month,Electronic check,169.6,1
+Male,0,No,No,29,Yes,DSL,95.96,Month-to-month,Electronic check,2718.33,1
+Male,1,No,No,63,Yes,Fiber optic,76.11,Month-to-month,Credit card (automatic),4802.39,1
+Male,0,Yes,No,39,No,Fiber optic,36.14,Two year,Credit card (automatic),1213.18,0
+Male,1,Yes,Yes,55,Yes,Fiber optic,75.95,One year,Credit card (automatic),3475.24,0
+Male,1,Yes,No,3,Yes,Fiber optic,41.0,Two year,Electronic check,126.15,1
+Male,1,Yes,No,14,No,DSL,61.4,Two year,Electronic check,753.4,0
+Female,0,Yes,No,21,No,Fiber optic,108.6,Two year,Credit card (automatic),2057.27,0
+Male,0,Yes,No,26,No,DSL,91.36,One year,Electronic check,2229.22,0
+Female,1,Yes,Yes,72,Yes,Fiber optic,84.41,Month-to-month,Mailed check,6115.44,0
+Male,1,Yes,Yes,33,Yes,Fiber optic,46.71,Two year,Mailed check,1329.53,1
+Male,0,Yes,No,48,No,Fiber optic,30.71,Month-to-month,Credit card (automatic),1554.6,1
+Female,0,No,No,47,Yes,DSL,94.8,Month-to-month,Mailed check,4026.07,1
+Female,1,Yes,No,30,Yes,Fiber optic,75.92,Month-to-month,Electronic check,2449.54,0
+Female,1,No,No,70,No,Fiber optic,81.52,Month-to-month,Mailed check,5102.7,0
+Male,0,No,No,16,Yes,DSL,117.46,Month-to-month,Electronic check,1895.65,1
+Male,0,No,No,2,Yes,Fiber optic,53.53,One year,Bank transfer (automatic),98.27,0
+Male,1,Yes,Yes,54,Yes,DSL,99.68,Month-to-month,Bank transfer (automatic),5584.64,0
+Male,1,Yes,No,47,Yes,DSL,75.01,Month-to-month,Bank transfer (automatic),3314.74,0
+Female,1,No,No,19,No,Fiber optic,42.0,Month-to-month,Mailed check,834.98,1
+Male,0,No,Yes,63,Yes,DSL,23.39,Two year,Electronic check,1497.18,0
+Male,0,Yes,Yes,11,Yes,DSL,80.83,Month-to-month,Electronic check,864.56,0
+Female,1,Yes,Yes,18,Yes,Fiber optic,48.36,Month-to-month,Credit card (automatic),770.37,1
+Male,1,No,Yes,11,Yes,Fiber optic,88.94,One year,Mailed check,868.34,1
+Male,1,Yes,No,13,No,DSL,89.47,Two year,Mailed check,1253.56,0
+Male,0,No,Yes,53,Yes,DSL,64.46,Month-to-month,Mailed check,3623.42,0
+Male,0,Yes,No,51,Yes,Fiber optic,72.71,One year,Credit card (automatic),3174.19,1
+Female,0,Yes,Yes,46,Yes,Fiber optic,81.91,Month-to-month,Credit card (automatic),3289.56,0
+Female,0,No,Yes,62,Yes,Fiber optic,65.8,Two year,Electronic check,3458.57,0
+Female,1,Yes,No,5,Yes,Fiber optic,107.49,One year,Bank transfer (automatic),468.84,1
+Male,0,No,Yes,45,Yes,Fiber optic,25.75,One year,Mailed check,1037.62,0
+Female,1,Yes,No,8,Yes,No,117.94,Month-to-month,Credit card (automatic),979.17,0
+Female,1,Yes,No,69,Yes,DSL,21.41,One year,Credit card (automatic),1247.94,0
+Male,1,No,Yes,46,Yes,DSL,39.23,Month-to-month,Bank transfer (automatic),1893.64,0
+Female,1,Yes,Yes,55,Yes,DSL,90.25,Month-to-month,Credit card (automatic),5324.62,0
+Male,0,Yes,No,41,Yes,DSL,26.67,One year,Mailed check,976.74,0
+Female,1,No,No,28,Yes,Fiber optic,44.74,One year,Mailed check,1175.83,1
+Female,0,No,No,50,Yes,No,33.71,Month-to-month,Bank transfer (automatic),1614.08,0
+Male,0,No,No,61,Yes,DSL,91.8,Two year,Bank transfer (automatic),4891.31,0
+Male,0,Yes,No,12,No,DSL,77.05,Month-to-month,Electronic check,934.04,0
+Male,0,Yes,No,63,Yes,Fiber optic,24.58,One year,Mailed check,1503.32,0
+Female,1,No,No,53,Yes,No,64.93,Month-to-month,Electronic check,2922.23,1
+Male,0,Yes,No,6,Yes,DSL,39.27,Month-to-month,Electronic check,248.1,0
+Female,0,Yes,Yes,68,Yes,Fiber optic,116.71,Two year,Credit card (automatic),7131.3,0
+Male,0,No,No,13,Yes,No,29.01,Month-to-month,Electronic check,324.57,1
+Male,0,Yes,No,43,Yes,Fiber optic,79.0,Two year,Credit card (automatic),3652.73,0
+Female,1,Yes,No,9,Yes,Fiber optic,67.15,Month-to-month,Mailed check,511.74,1
+Female,0,Yes,No,14,Yes,Fiber optic,76.96,One year,Bank transfer (automatic),900.22,1
+Female,1,Yes,No,46,Yes,DSL,115.56,Month-to-month,Credit card (automatic),4687.24,0
+Male,0,No,Yes,49,Yes,Fiber optic,52.81,One year,Bank transfer (automatic),2336.71,1
+Male,1,No,No,50,Yes,DSL,94.37,Two year,Credit card (automatic),4401.36,0
+Male,0,Yes,No,25,No,Fiber optic,63.64,One year,Electronic check,1588.05,1
+Female,0,Yes,No,59,Yes,No,85.4,Month-to-month,Mailed check,4610.75,1
+Female,0,No,No,3,Yes,DSL,55.3,One year,Bank transfer (automatic),160.16,0
+Male,1,Yes,No,62,Yes,Fiber optic,41.17,One year,Bank transfer (automatic),2096.94,1
+Female,1,No,No,22,No,DSL,26.53,Month-to-month,Credit card (automatic),537.01,0
+Male,0,No,No,45,Yes,DSL,28.38,One year,Bank transfer (automatic),1361.0,0
+Female,1,No,Yes,66,Yes,Fiber optic,115.86,One year,Electronic check,7810.86,1
+Female,1,Yes,No,18,Yes,DSL,98.42,One year,Electronic check,1793.9,0
+Female,0,No,No,30,Yes,Fiber optic,42.99,Month-to-month,Credit card (automatic),1159.66,1
+Male,0,Yes,No,60,Yes,DSL,71.97,Month-to-month,Mailed check,4089.02,0
+Female,1,No,Yes,63,Yes,No,90.85,Two year,Bank transfer (automatic),5950.07,0
+Male,1,No,No,17,Yes,Fiber optic,53.96,One year,Bank transfer (automatic),962.12,0
+Female,1,No,No,37,Yes,Fiber optic,62.88,Month-to-month,Credit card (automatic),2337.59,1
+Male,0,No,No,24,Yes,Fiber optic,91.27,Two year,Credit card (automatic),2056.21,0
+Female,0,No,Yes,37,Yes,Fiber optic,41.2,Month-to-month,Electronic check,1279.01,0
+Male,0,Yes,No,27,No,DSL,71.69,Month-to-month,Credit card (automatic),1647.28,0
+Male,0,Yes,Yes,0,Yes,No,39.43,One year,Electronic check,32.34,0
+Female,1,No,No,67,Yes,DSL,18.31,One year,Mailed check,1120.52,0
+Female,0,No,No,46,Yes,DSL,88.41,Two year,Credit card (automatic),3359.55,0
+Male,0,Yes,No,33,Yes,Fiber optic,90.14,One year,Electronic check,2775.63,1
+Female,0,No,No,7,Yes,Fiber optic,119.56,Month-to-month,Electronic check,816.3,1
+Male,0,No,No,5,Yes,Fiber optic,36.46,Month-to-month,Bank transfer (automatic),177.73,1
+Male,1,Yes,No,34,No,No,93.44,Month-to-month,Credit card (automatic),3063.79,1
+Male,0,Yes,Yes,47,No,Fiber optic,114.69,Two year,Electronic check,4737.13,1
+Male,1,Yes,Yes,19,Yes,DSL,83.75,Month-to-month,Bank transfer (automatic),1519.63,0
+Male,0,Yes,No,54,Yes,DSL,116.24,Month-to-month,Mailed check,6746.21,1
+Male,0,Yes,No,28,Yes,DSL,119.43,Month-to-month,Mailed check,3128.69,0
+Male,0,Yes,No,0,Yes,Fiber optic,99.77,Month-to-month,Bank transfer (automatic),104.5,1
+Male,1,Yes,No,39,Yes,DSL,119.93,Month-to-month,Mailed check,4299.18,1
+Male,0,Yes,No,13,Yes,Fiber optic,81.83,One year,Credit card (automatic),1044.63,1
+Female,0,No,No,1,No,Fiber optic,68.7,Month-to-month,Bank transfer (automatic),64.94,1
+Female,1,Yes,No,9,Yes,Fiber optic,111.6,Two year,Credit card (automatic),1003.44,0
+Male,1,No,Yes,20,Yes,DSL,102.76,Two year,Credit card (automatic),2164.78,0
+Male,0,No,Yes,37,No,DSL,29.23,Month-to-month,Electronic check,1010.82,0
+Female,1,No,Yes,72,Yes,No,48.88,Two year,Bank transfer (automatic),3578.92,0
+Female,1,No,No,15,Yes,Fiber optic,44.59,Month-to-month,Bank transfer (automatic),701.93,1
+Female,0,No,No,4,No,Fiber optic,105.24,Month-to-month,Electronic check,431.6,1
+Female,1,Yes,No,13,Yes,Fiber optic,41.79,Month-to-month,Bank transfer (automatic),448.95,1
+Female,0,No,Yes,23,Yes,No,49.01,Two year,Bank transfer (automatic),924.38,0
+Female,0,Yes,No,14,Yes,DSL,70.92,One year,Electronic check,1042.1,0
+Male,1,No,Yes,23,Yes,No,25.76,Month-to-month,Mailed check,598.18,0
+Male,0,No,No,70,No,DSL,116.05,One year,Mailed check,8684.95,0
+Male,1,Yes,Yes,27,Yes,No,68.09,One year,Mailed check,1647.32,0
+Male,1,Yes,No,46,Yes,DSL,37.42,One year,Credit card (automatic),1764.13,0
+Female,0,No,Yes,49,Yes,DSL,45.62,Month-to-month,Electronic check,2298.86,0
+Female,0,Yes,No,9,Yes,DSL,99.4,Two year,Bank transfer (automatic),932.98,0
+Female,0,Yes,No,18,Yes,No,82.67,One year,Bank transfer (automatic),1487.95,0
+Male,1,Yes,No,30,Yes,No,65.39,Month-to-month,Mailed check,1679.14,1
+Male,0,Yes,Yes,33,Yes,DSL,51.82,Two year,Mailed check,1705.01,0
+Male,0,No,No,0,Yes,DSL,109.87,Month-to-month,Electronic check,107.36,1
+Female,1,No,No,47,Yes,DSL,96.8,One year,Electronic check,4125.37,0
+Male,1,Yes,No,21,Yes,DSL,91.25,One year,Mailed check,1675.26,0
+Male,1,Yes,No,23,Yes,Fiber optic,63.49,Month-to-month,Electronic check,1533.47,1
+Female,0,Yes,No,44,Yes,DSL,118.08,Month-to-month,Credit card (automatic),4452.07,0
+Female,1,Yes,No,69,Yes,No,90.43,One year,Bank transfer (automatic),5801.47,1
+Female,1,No,No,63,Yes,No,61.21,Two year,Electronic check,3786.54,0
+Male,1,No,No,71,Yes,DSL,115.98,Two year,Mailed check,8832.96,1
+Male,0,Yes,Yes,30,Yes,Fiber optic,109.36,One year,Credit card (automatic),3262.6,0
+Male,1,No,No,8,Yes,No,93.48,Month-to-month,Electronic check,672.51,1
+Male,0,Yes,Yes,15,No,No,96.23,Month-to-month,Bank transfer (automatic),1206.4,0
+Female,1,No,No,25,Yes,Fiber optic,61.21,One year,Electronic check,1381.21,1
+Male,0,No,No,21,Yes,DSL,69.75,Month-to-month,Credit card (automatic),1312.6,0
+Male,0,No,Yes,15,Yes,DSL,37.54,One year,Mailed check,581.66,0
+Female,1,No,No,11,Yes,Fiber optic,78.73,Month-to-month,Mailed check,794.94,1
+Male,1,No,No,13,Yes,Fiber optic,55.73,Month-to-month,Mailed check,612.63,1
+Male,1,Yes,No,48,Yes,Fiber optic,53.44,One year,Mailed check,2683.61,0
+Male,0,Yes,Yes,35,Yes,Fiber optic,114.72,One year,Bank transfer (automatic),3311.31,1
+Male,1,Yes,No,2,Yes,Fiber optic,34.81,One year,Electronic check,57.14,1
+Male,0,No,No,41,Yes,DSL,102.66,Month-to-month,Electronic check,3970.98,0
+Female,1,No,No,61,Yes,Fiber optic,46.71,Two year,Electronic check,2387.71,0
+Female,1,No,No,31,Yes,No,20.92,Month-to-month,Bank transfer (automatic),561.65,0
+Male,1,No,Yes,23,No,DSL,22.13,One year,Credit card (automatic),547.76,0
+Male,1,Yes,Yes,19,Yes,DSL,61.78,One year,Electronic check,1220.23,0
+Male,1,No,No,27,Yes,No,64.36,Month-to-month,Credit card (automatic),1770.13,1
+Female,1,No,No,20,Yes,Fiber optic,50.67,One year,Credit card (automatic),1007.73,0
+Female,0,Yes,No,67,No,Fiber optic,86.22,One year,Electronic check,4808.74,0
+Female,0,Yes,No,72,Yes,No,67.5,Month-to-month,Electronic check,5041.45,1
+Male,0,Yes,No,25,Yes,Fiber optic,25.56,One year,Mailed check,602.26,1
+Male,1,Yes,No,67,Yes,No,53.5,Month-to-month,Electronic check,3030.92,1
+Male,1,No,Yes,62,Yes,No,28.4,Two year,Bank transfer (automatic),1581.54,0
+Male,0,No,No,5,Yes,DSL,24.42,Month-to-month,Mailed check,116.06,1
+Male,0,No,Yes,35,Yes,Fiber optic,39.25,Month-to-month,Mailed check,1131.37,1
+Female,0,Yes,No,47,Yes,DSL,89.46,One year,Bank transfer (automatic),3723.73,0
+Male,0,No,No,30,Yes,Fiber optic,88.99,Month-to-month,Electronic check,2422.33,1
+Female,0,No,No,33,Yes,Fiber optic,105.86,Two year,Credit card (automatic),3285.82,0
+Female,1,Yes,No,36,Yes,Fiber optic,95.15,Month-to-month,Bank transfer (automatic),2810.59,0
+Female,1,No,No,50,No,No,72.62,Month-to-month,Mailed check,3511.23,0
+Male,0,Yes,No,21,Yes,Fiber optic,49.89,Month-to-month,Mailed check,912.94,1
+Female,0,Yes,No,43,Yes,Fiber optic,18.59,Month-to-month,Electronic check,779.61,1
+Male,1,Yes,Yes,17,Yes,Fiber optic,84.01,Month-to-month,Credit card (automatic),1259.9,1
+Male,1,Yes,No,64,Yes,Fiber optic,47.55,Month-to-month,Mailed check,2814.07,0
+Male,1,No,No,6,Yes,DSL,43.51,Month-to-month,Credit card (automatic),256.4,1
+Male,0,Yes,Yes,4,Yes,Fiber optic,117.43,Month-to-month,Credit card (automatic),465.36,0
+Female,0,Yes,No,2,Yes,Fiber optic,35.77,Month-to-month,Mailed check,59.23,0
+Female,0,Yes,Yes,25,Yes,DSL,21.31,Month-to-month,Bank transfer (automatic),510.97,1
+Female,1,Yes,No,44,Yes,Fiber optic,114.84,Month-to-month,Bank transfer (automatic),5216.31,0
+Male,1,Yes,No,71,Yes,Fiber optic,49.21,Month-to-month,Electronic check,3052.52,1
+Male,1,Yes,No,33,Yes,DSL,58.13,Month-to-month,Credit card (automatic),1838.33,0
+Female,0,No,No,13,Yes,No,26.26,Month-to-month,Mailed check,319.66,1
+Male,0,Yes,Yes,26,Yes,DSL,59.21,Month-to-month,Credit card (automatic),1602.55,0
+Female,1,No,Yes,9,Yes,Fiber optic,117.17,Month-to-month,Bank transfer (automatic),985.01,1
+Female,1,Yes,Yes,34,Yes,Fiber optic,88.79,Two year,Electronic check,3216.29,1
+Female,1,No,Yes,53,Yes,DSL,66.33,Month-to-month,Mailed check,3479.04,0
+Female,0,No,No,2,Yes,Fiber optic,49.36,Month-to-month,Electronic check,95.36,1
+Male,0,Yes,No,56,Yes,DSL,55.34,One year,Electronic check,2776.43,0
+Male,0,Yes,No,16,Yes,DSL,80.35,Month-to-month,Bank transfer (automatic),1253.58,1
+Male,1,No,No,49,Yes,Fiber optic,43.95,Month-to-month,Electronic check,1839.4,0
+Male,1,Yes,No,59,Yes,DSL,33.5,One year,Credit card (automatic),1834.63,0
+Male,1,No,Yes,56,Yes,No,89.02,One year,Mailed check,4456.45,1
+Female,0,Yes,Yes,48,Yes,Fiber optic,106.69,Two year,Mailed check,5091.79,0
+Male,1,Yes,No,50,Yes,DSL,109.96,Two year,Electronic check,5600.48,0
+Female,0,No,No,13,Yes,No,103.82,One year,Electronic check,1432.59,1
+Female,1,No,No,9,Yes,Fiber optic,72.12,One year,Bank transfer (automatic),569.73,0
+Female,1,Yes,No,27,Yes,Fiber optic,98.46,Month-to-month,Mailed check,2791.43,0
+Male,1,No,No,44,Yes,Fiber optic,112.49,Two year,Bank transfer (automatic),5147.28,0
+Female,1,No,Yes,45,Yes,No,20.38,One year,Mailed check,957.67,1
+Male,1,Yes,Yes,56,Yes,DSL,60.03,Month-to-month,Electronic check,3403.78,1
+Male,0,Yes,Yes,22,Yes,DSL,38.82,Month-to-month,Mailed check,759.76,0
+Male,0,Yes,No,63,Yes,No,119.67,One year,Electronic check,7902.95,0
+Male,1,Yes,No,32,Yes,DSL,112.82,Month-to-month,Electronic check,3523.17,0
+Male,1,No,No,17,Yes,Fiber optic,99.82,Two year,Bank transfer (automatic),1718.25,0
+Male,0,Yes,Yes,53,No,Fiber optic,48.18,Month-to-month,Electronic check,2230.18,0
+Female,1,Yes,No,9,Yes,Fiber optic,115.11,Two year,Electronic check,891.91,1
+Male,0,No,No,29,Yes,Fiber optic,20.98,Month-to-month,Mailed check,542.7,0
+Male,1,No,No,57,Yes,No,37.18,One year,Mailed check,2019.56,0
+Female,0,No,No,56,No,DSL,80.92,Month-to-month,Credit card (automatic),4206.71,0
+Female,1,No,Yes,18,Yes,Fiber optic,98.89,Month-to-month,Credit card (automatic),1870.41,1
+Female,0,Yes,Yes,12,Yes,Fiber optic,108.13,Month-to-month,Bank transfer (automatic),1068.39,1
+Male,0,No,No,2,Yes,DSL,48.65,Month-to-month,Mailed check,81.81,1
+Female,1,Yes,No,6,Yes,No,57.86,Month-to-month,Mailed check,314.04,1
+Female,1,Yes,No,60,Yes,Fiber optic,64.39,Two year,Electronic check,3336.47,0
+Male,0,Yes,No,57,Yes,DSL,20.75,Month-to-month,Credit card (automatic),1094.94,1
+Male,1,No,No,36,Yes,No,106.12,One year,Mailed check,3845.44,0
+Female,0,No,No,41,Yes,No,52.47,One year,Electronic check,2319.69,0
+Male,0,Yes,Yes,23,No,DSL,38.33,Month-to-month,Bank transfer (automatic),769.22,0
+Male,0,No,Yes,14,Yes,Fiber optic,59.74,Two year,Bank transfer (automatic),743.65,0
+Female,0,No,No,0,No,DSL,90.48,One year,Mailed check,92.28,1
+Female,1,Yes,No,49,Yes,DSL,106.83,One year,Electronic check,4662.69,0
+Female,1,No,Yes,2,No,DSL,39.97,Two year,Credit card (automatic),80.18,0
+Female,0,Yes,Yes,7,Yes,No,35.61,One year,Electronic check,242.22,0
+Female,0,No,Yes,57,Yes,DSL,114.27,Two year,Credit card (automatic),6788.73,0
+Male,1,Yes,Yes,42,Yes,DSL,74.19,Month-to-month,Mailed check,2582.11,1
+Male,1,Yes,Yes,35,Yes,Fiber optic,55.31,Month-to-month,Credit card (automatic),2080.52,1
+Female,0,Yes,Yes,15,Yes,Fiber optic,38.33,One year,Credit card (automatic),615.6,1
+Male,0,Yes,No,10,Yes,DSL,119.52,Month-to-month,Mailed check,987.02,1
+Male,0,No,No,34,Yes,DSL,91.36,One year,Credit card (automatic),2950.53,1
+Female,0,No,No,26,Yes,Fiber optic,40.22,Month-to-month,Electronic check,966.63,1
+Female,1,Yes,No,38,Yes,Fiber optic,27.31,Month-to-month,Electronic check,919.56,1
+Male,1,No,No,12,Yes,Fiber optic,38.33,Two year,Mailed check,494.11,1
+Male,1,No,No,16,Yes,DSL,43.27,Month-to-month,Bank transfer (automatic),599.13,0
+Female,1,No,No,8,Yes,Fiber optic,29.33,Month-to-month,Electronic check,208.48,0
+Male,0,No,No,30,Yes,Fiber optic,41.42,One year,Mailed check,1021.59,1
+Female,1,Yes,Yes,20,Yes,DSL,29.91,One year,Credit card (automatic),580.77,0
+Female,1,Yes,No,16,Yes,DSL,56.53,Two year,Credit card (automatic),944.1,0
+Female,1,No,No,40,Yes,Fiber optic,67.59,Month-to-month,Electronic check,2654.12,0
+Male,0,No,No,36,Yes,DSL,64.44,Two year,Mailed check,2295.29,0
+Female,1,No,Yes,15,Yes,DSL,102.58,One year,Electronic check,1288.27,0
+Male,0,No,No,51,No,No,43.91,Two year,Electronic check,2252.51,0
+Female,1,Yes,No,25,Yes,Fiber optic,108.48,Month-to-month,Credit card (automatic),2512.24,0
+Male,1,No,No,24,Yes,Fiber optic,110.63,Month-to-month,Credit card (automatic),2504.22,1
+Male,1,Yes,Yes,34,Yes,DSL,115.9,Month-to-month,Electronic check,3830.67,1
+Female,1,Yes,No,10,Yes,Fiber optic,36.46,One year,Electronic check,391.43,1
+Male,1,Yes,No,30,Yes,Fiber optic,43.07,Month-to-month,Mailed check,1310.87,1
+Female,0,Yes,Yes,42,Yes,No,81.63,Month-to-month,Mailed check,3420.99,1
+Female,1,No,No,9,No,Fiber optic,32.37,One year,Electronic check,271.6,0
+Male,1,Yes,No,41,Yes,Fiber optic,26.73,Month-to-month,Electronic check,908.48,0
+Male,0,No,No,2,Yes,DSL,25.52,Month-to-month,Mailed check,49.0,0
+Female,0,No,Yes,44,Yes,Fiber optic,79.83,Month-to-month,Electronic check,3483.82,0
+Male,0,No,No,2,Yes,No,100.08,Two year,Credit card (automatic),200.78,0
+Male,1,No,No,12,Yes,Fiber optic,44.41,One year,Bank transfer (automatic),521.22,0
+Male,1,Yes,Yes,25,Yes,Fiber optic,113.22,One year,Mailed check,2542.06,0
+Male,1,Yes,Yes,44,Yes,No,98.78,Two year,Mailed check,3813.76,0
+Female,1,Yes,Yes,52,Yes,No,25.9,One year,Credit card (automatic),1135.92,0
+Male,1,Yes,Yes,34,Yes,DSL,59.54,Month-to-month,Electronic check,2029.9,0
+Female,1,No,No,9,No,DSL,24.94,One year,Credit card (automatic),240.71,0
+Male,0,Yes,No,28,Yes,Fiber optic,111.35,Two year,Electronic check,2982.19,0
+Female,0,Yes,Yes,57,Yes,No,93.77,Month-to-month,Credit card (automatic),5318.31,1
+Male,0,Yes,No,6,Yes,Fiber optic,88.03,One year,Electronic check,528.22,0
+Male,1,No,Yes,52,Yes,DSL,87.64,Month-to-month,Credit card (automatic),3928.26,0
+Female,0,No,No,28,No,Fiber optic,47.09,Two year,Electronic check,1146.94,0
+Male,0,Yes,No,0,Yes,DSL,113.22,One year,Credit card (automatic),98.97,0
+Male,0,No,No,50,Yes,DSL,112.12,Two year,Bank transfer (automatic),5956.59,0
+Female,1,No,No,1,Yes,DSL,93.43,One year,Electronic check,76.99,1
+Male,1,No,No,26,Yes,DSL,65.83,Month-to-month,Bank transfer (automatic),1644.32,0
+Male,1,Yes,Yes,14,Yes,Fiber optic,22.81,Month-to-month,Electronic check,293.18,1
+Male,0,No,Yes,42,Yes,DSL,20.89,Two year,Mailed check,869.86,0
+Female,1,Yes,No,4,Yes,DSL,32.09,Month-to-month,Electronic check,112.61,1
+Female,1,Yes,Yes,6,No,Fiber optic,78.77,Month-to-month,Bank transfer (automatic),505.66,1
+Female,1,No,No,38,Yes,DSL,99.41,One year,Credit card (automatic),3422.93,1
+Female,0,No,Yes,72,Yes,Fiber optic,114.74,Month-to-month,Mailed check,8763.08,1
+Male,0,Yes,No,2,Yes,DSL,35.89,Month-to-month,Bank transfer (automatic),69.86,0
+Male,1,No,No,33,Yes,DSL,46.1,Month-to-month,Credit card (automatic),1411.4,0
+Male,0,Yes,No,58,Yes,Fiber optic,23.52,Month-to-month,Bank transfer (automatic),1378.91,0
+Male,1,No,No,21,Yes,DSL,118.88,One year,Electronic check,2406.1,0
+Male,1,No,Yes,35,Yes,DSL,97.65,Month-to-month,Mailed check,2925.7,1
+Female,0,No,Yes,61,Yes,DSL,67.03,Month-to-month,Electronic check,4101.78,0
+Female,1,No,No,53,Yes,DSL,76.71,Two year,Mailed check,3946.38,0
+Female,0,No,No,21,Yes,DSL,75.34,Month-to-month,Electronic check,1530.04,0
+Female,1,No,No,54,Yes,DSL,43.94,One year,Credit card (automatic),2401.04,0
+Female,0,No,No,49,Yes,DSL,36.91,Month-to-month,Bank transfer (automatic),1790.33,0
+Male,0,No,No,36,Yes,DSL,48.29,Month-to-month,Bank transfer (automatic),1591.06,0
+Female,0,Yes,Yes,32,Yes,No,43.21,One year,Electronic check,1248.33,0
+Female,0,No,No,67,Yes,DSL,74.87,One year,Electronic check,4440.48,1
+Male,1,Yes,No,63,Yes,DSL,49.44,Two year,Bank transfer (automatic),3019.84,0
+Male,0,No,No,72,Yes,Fiber optic,92.35,Month-to-month,Mailed check,5970.79,1
+Female,0,Yes,No,49,Yes,DSL,75.93,Month-to-month,Credit card (automatic),3167.35,0
+Male,0,Yes,No,26,Yes,Fiber optic,72.29,Month-to-month,Mailed check,1923.71,1
+Female,0,No,No,8,Yes,DSL,115.03,Month-to-month,Electronic check,804.63,1
+Female,0,Yes,No,9,Yes,Fiber optic,50.89,Month-to-month,Bank transfer (automatic),395.2,0
+Male,1,Yes,Yes,69,Yes,No,82.8,Two year,Bank transfer (automatic),5945.96,0
+Male,1,No,No,26,Yes,DSL,18.01,One year,Electronic check,469.46,0
+Male,0,Yes,No,8,Yes,DSL,93.17,Month-to-month,Bank transfer (automatic),759.67,0
+Male,1,Yes,No,16,Yes,Fiber optic,69.26,Month-to-month,Electronic check,1009.64,1
+Male,1,No,Yes,1,Yes,No,39.26,Month-to-month,Electronic check,38.5,1
+Female,0,Yes,No,38,Yes,Fiber optic,18.15,Month-to-month,Electronic check,732.72,1
+Male,1,Yes,No,43,Yes,Fiber optic,90.11,One year,Bank transfer (automatic),3462.08,0
+Male,0,Yes,Yes,27,Yes,DSL,85.6,Two year,Bank transfer (automatic),1936.62,0
+Male,0,Yes,Yes,54,Yes,Fiber optic,85.87,Month-to-month,Electronic check,4008.34,1
+Female,0,Yes,Yes,35,Yes,DSL,62.62,Month-to-month,Credit card (automatic),2308.61,0
+Male,0,Yes,No,70,Yes,Fiber optic,83.21,Month-to-month,Bank transfer (automatic),5202.61,0
+Male,1,No,No,55,Yes,DSL,76.28,Month-to-month,Mailed check,3976.09,0
+Female,1,No,Yes,5,Yes,Fiber optic,42.37,Two year,Electronic check,203.16,0
+Male,0,Yes,No,20,Yes,DSL,70.91,One year,Electronic check,1516.91,1
+Male,1,Yes,No,55,Yes,Fiber optic,70.49,Two year,Electronic check,3482.99,0
+Male,1,No,No,39,Yes,Fiber optic,102.01,Two year,Credit card (automatic),3801.6,0
+Male,1,No,No,54,Yes,No,62.22,Month-to-month,Credit card (automatic),3592.09,0
+Male,1,Yes,No,24,Yes,No,62.48,One year,Electronic check,1308.11,1
+Female,1,Yes,No,2,Yes,Fiber optic,118.41,One year,Mailed check,231.01,0
+Male,0,Yes,Yes,57,Yes,Fiber optic,109.24,Month-to-month,Electronic check,5208.85,1
+Male,1,No,No,57,Yes,DSL,42.71,Month-to-month,Electronic check,2162.72,1
+Male,1,No,No,46,Yes,No,110.85,One year,Electronic check,4273.02,0
+Female,1,No,No,29,Yes,Fiber optic,32.07,Two year,Electronic check,842.46,1
+Female,1,Yes,No,0,No,Fiber optic,105.05,Month-to-month,Electronic check,91.78,1
+Male,0,Yes,No,53,Yes,Fiber optic,36.7,Two year,Electronic check,1998.76,0
+Male,0,Yes,No,48,Yes,Fiber optic,61.41,Two year,Mailed check,2772.24,0
+Male,0,Yes,Yes,48,Yes,No,118.36,Two year,Mailed check,5256.89,0
+Male,0,Yes,No,12,Yes,No,27.9,Month-to-month,Mailed check,334.8,0
+Male,1,No,Yes,53,Yes,Fiber optic,103.66,Month-to-month,Mailed check,5858.08,1
+Male,1,Yes,Yes,52,Yes,Fiber optic,68.46,One year,Mailed check,3198.24,0
+Female,1,No,Yes,62,Yes,No,29.32,Month-to-month,Mailed check,1522.18,0
+Male,1,Yes,Yes,41,Yes,Fiber optic,115.15,Month-to-month,Credit card (automatic),4006.1,0
+Male,1,Yes,No,53,Yes,Fiber optic,74.02,One year,Electronic check,4091.26,0
+Male,1,No,No,29,Yes,Fiber optic,107.83,Month-to-month,Bank transfer (automatic),3251.91,0
+Female,1,No,No,50,Yes,Fiber optic,106.65,Month-to-month,Electronic check,5031.72,1
+Female,1,Yes,Yes,50,Yes,Fiber optic,19.49,Two year,Mailed check,836.5,0
+Male,1,No,No,56,Yes,Fiber optic,45.01,Month-to-month,Mailed check,2411.89,0
+Male,0,Yes,No,62,Yes,No,52.37,Two year,Bank transfer (automatic),3226.78,0
+Female,1,Yes,No,0,Yes,No,72.56,Month-to-month,Credit card (automatic),65.77,1
+Female,1,Yes,No,56,Yes,Fiber optic,25.33,Month-to-month,Mailed check,1193.59,0
+Male,1,Yes,No,57,Yes,DSL,57.67,Month-to-month,Electronic check,2970.65,1
+Female,0,No,Yes,39,Yes,Fiber optic,101.09,Month-to-month,Credit card (automatic),3940.73,1
